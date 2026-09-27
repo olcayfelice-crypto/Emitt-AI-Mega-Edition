@@ -1,0 +1,5 @@
+EMITT_NAME = "Emitt"
+EMITT_VERSION = "0.1.0"
+
+HOST = "127.0.0.1"
+PORT = 8000

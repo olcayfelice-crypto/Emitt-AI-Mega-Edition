@@ -1,0 +1,1792 @@
+
+
+===== Yapay zeka =====
+
+Yapay zekâ (İngilizce: Artificial intelligence, AI); hesaplama sistemlerinin öğrenme, akıl, problem çözme, algılama ve karar verme gibi tipik olarak insan zekâsıyla ilişkilendirilen görevleri yerine getirme yeteneğidir. Dördüncü Sanayi Devrimi'nin en yaygın özelliklerinden biri olarak kabul edilir. İlk ve ikinci kategoriler arasındaki ayrım genellikle seçilen kısaltmayla ortaya çıkar. Güçlü yapay zeka genellikle yapay genel zekâ (İngilizce: Artificial general intelligence kelimelerinin kısaltılmışı olarak: AGI) olarak etiketlenirken, doğal zekayı taklit etme girişimleri yapay biyolojik zekâ (İngilizce: Artificial biological intelligence: ABI) olarak adlandırılır. Önde gelen yapay zekâ ders kitapları, alanı zeki etmenlerin çalışması olarak tanımlar: Çevresini algılayan ve hedeflerine başarıyla ulaşma şansını en üst düzeye çıkaran eylemleri gerçekleştiren herhangi bir cihaz. Toplum arasında, yapay zekâ kavramı genellikle insanların insan zihni ile ilişkilendirdiği öğrenme ve problem çözme gibi bilişsel eylemleri taklit eden makineleri tanımlamak için kullanılır.
+Makineler daha becerikli hâle geldikçe, zekâ gerektirdiği düşünülen görevler genellikle yapay zekâ etkisi olarak bilinen bir fenomen olan yapay zekâ tanımından çıkarılır. Tesler'in teoremindeki bir espri, "Yapay zekâ henüz yapılmamış şeydir" der. Örneğin, optik karakter tanıma yapay zekâ olarak değerlendirilen şeylerin dışında tutulur, rutin teknoloji hâline gelir.
+Genellikle yapay zekâ olarak sınıflandırılan modern makine yetenekleri satranç ve Go gibi stratejik oyun sistemlerinde, en üst düzeyde rekabet eden insan konuşmasını anlama, poker ya da otonom arabalar gibi kusurlu-bilgi oyunlarını içerik dağıtım ağındaki akıllı yönlendirmeyi ve askeri simülasyonları kapsar.
+Yapay zekâ çalışmaları sıklıkla insanın düşünme yöntemlerini taklit eden yapay algoritmalar geliştirmeye yöneliktir, ancak bununla sınırlı değildir. Öğrenebilen ve gelecekte insan zekâsından bağımsız gelişebilecek bir yapay zekâ kavramına doğru yeni yönelimler oluşmaktadır. Bu yönelim, insanın evreni ve doğayı anlama çabasında kendisine yardımcı olabilecek belki de kendisinden daha zeki, insan ötesi varlıklar meydana getirme düşünün bir ürünüdür. Bu düş, 1920'li yıllarda yazılan ve sonraları Isaac Asimov'u etkileyen modern bilimkurgu edebiyatının öncü yazarlarından Karel Čapek'in eserlerinde dışa vurmuştur. Karel Čapek, R.U.R. adlı tiyatro oyununda yapay zekâya sahip robotlar ile insanlığın ortak toplumsal sorunlarını ele alarak 1920 yılında yapay zekânın insan aklından bağımsız gelişebileceğini öngörmüştür.
+
+
+== Tanım ==
+Yapay zekâ, idealleştirilmiş bir perspektife göre insan zekâsına özgü yüksek bilişsel fonksiyonları veya otonom davranışları sergileyen bir yapay işletim sistemidir. Bu sistem, algılama, öğrenme, çoğul kavramları bağlama, düşünme, fikir yürütme (belirtme), sorun çözme, iletişim kurma ve karar verme gibi yeteneklere sahip olmalıdır. Ayrıca, bu yapay zekâ sistemi düşüncelerinden tepkiler üretebilmeli (eyleyici yapay zekâ) ve bu tepkileri fiziksel olarak dışa vurabilmelidir.
+
+
+== Hedefler ==
+Zekâyı simüle etme (veya oluşturma) genel problemi, alt problemlere ayrılmıştır. Bu alt problemler, araştırmacıların zeki bir sistemden sergilemesini beklediği belirli özellikler veya yeteneklerden oluşur. Aşağıda açıklanan özellikler, yapay zekâ araştırmalarında en çok dikkat çeken konular arasında yer almakta ve bu araştırmaların kapsamını belirlemektedir.
+
+
+=== Akıl yürütme ve problem çözme ===
+Yapay zekânın ilk araştırmacıları, insanların bulmacaları çözerken veya mantıksal çıkarımlar yaparken kullandığı adım adım akıl yürütmeyi taklit eden algoritmalar geliştirmiştir. 1980'lerin sonları ve 1990'larda, belirsiz veya eksik bilgiyle başa çıkmak için olasılık ve ekonomi kavramlarını kullanan yöntemler geliştirilmiştir.
+Bu algoritmaların birçoğu, büyük ölçekli akıl yürütme problemlerini çözmek için yetersizdir, çünkü "kombinatoryal patlama" denilen bir durum yaşarlar: Problemler büyüdükçe bu algoritmaların çalışması üstel bir şekilde yavaşlar. Hatta insanlar bile erken dönem yapay zekânın modelleyebildiği adım adım akıl yürütmeyi nadiren kullanır. İnsanlar, çoğu sorunlarını hızlı ve sezgisel yargılarla çözerler. Doğru ve verimli akıl yürütme, hâlâ çözülememiş bir problemdir.
+
+
+=== Bilgi temsili ===
+Bilgi temsili ve bilgi mühendisliği, yapay zekâ programlarının sorulara akıllıca yanıt vermesini ve gerçek dünya ile ilgili çıkarımlarda bulunmasını sağlar. Formel bilgi temsilleri; içerik tabanlı indeksleme ve bilgi erişimi, sahne yorumlama, klinik karar destek sistemleri, bilgi keşfi (büyük veritabanlarından "ilginç" ve eyleme geçirilebilir çıkarımlarda bulunma) gibi birçok alanda kullanılmaktadır.
+
+
+== Tarihçe ==
+Yapay zekâ tarihi, antik çağlarda, usta zanaatkarlar tarafından zeka veya bilinç kazandırılan yapay varlıklara ilişkin mitler, hikâyeler ve söylentilerle başladı. Mekanik ya da "formel" akıl yürütme üzerine çalışmalar, antik çağda filozoflar ve matematikçilerle birlikte devam etti. Mantık alanındaki bu çalışmalar, Alan Turing'in algoritmalar teorisinin temelini oluşturdu. Turing'in teorisi, "0" ve "1" gibi basit sembolleri kullanarak bir makinenin, insan aklının gerçekleştirebileceği her türlü matematiksel akıl yürütmeyi simüle edebileceğini öne sürdü. Bu teori, sibernetik, bilgi teorisi ve nörobiyoloji gibi alanlardaki keşiflerle birleşerek, araştırmacılara "elektronik bir beyin" inşa etme olasılığını düşünmeye yöneltti. Öne çıkan çalışmalar arasında, 1943'teki Warren McCullouch ve Walter Pitts'in "yapay nöronlar" tasarımı ve Turing'in 1950'de yayımladığı, "makine zekâsının" mümkün olduğunu gösterdiği Turing testini tanıtan Bilgi İşlem Makineleri ve Zekâ adlı makalesi bulunmaktaydı. Bu dönemde yapılan bu tür araştırmalar, yapay zekânın temel alanlarının ortaya çıkardı.
+1956'da Dartmouth College'deki bir atölye çalışmasında yapay zeka araştırma alanı kuruldu. Bu atölyeye katılan araştırmacılar, 1960'larda yapay zekâ alanına liderlik ettiler. Öğrencileriyle beraber bu araştırmacılar, basının "şaşırtıcı" olarak nitelendirdiği projeler ürettiler. Bu dönemde bilgisayarlar, dama stratejileri öğrenmiş, cebir problemlerini çözmüş, mantıksal teoremleri kanıtlamış ve İngilizce konuşmuştu. 1950'lerin sonu ve 1960'ların başlarında, hem İngiltere'deki hem de Amerika Birleşik Devletleri'ndeki birçok üniversitede yapay zekâ laboratuvarları kuruldu.
+1960'lar ve 1970'lerdeki araştırmacılar, genel zekâya sahip bir makine üretmenin mümkün olduğuna inanıyor ve bunu alanlarının nihai hedefi olarak görüyordu. 1965'te Herbert Simon, "makinelerin yirmi yıl içinde bir insanın yapabileceği her işi yapabilir hâle geleceği" tahmininde bulunmuş, 1967'de Marvin Minsky, "bir nesil içinde ... 'yapay zekâ' sorununun büyük ölçüde çözüleceği" yorumunu yapmıştı. Ancak bu öngörüler, yapay zekânın geliştirilmesindeki zorlukları göz ardı etmişti. 1974'te Sir James Lighthill'ın eleştirileri ve ABD Kongresi'nin daha somut projelere fon sağlama baskısı nedeniyle, ABD ve İngiltere hükûmetleri keşif amaçlı yapay zekâ araştırmalarına verilen desteği durdurma kararı aldı. Minsky ve Seymour Papert'ın Perceptrons adlı kitabı, yapay sinir ağlarının gerçek dünya problemlerini çözmede etkisiz olduğunu savunmuş ve bu yaklaşım, itibarını kaybetmişti. Bunun sonucunda, yapay zekâ projelerine fon bulmanın zorlaştığı "yapay zekâ kışı" adı verilen bir dönem başladı.
+1980'lerin başında yapay zekâ araştırmaları, uzman sistemlerin ticari başarısıyla yeniden canlandı. Uzman sistemler, uzmanların bilgi ve analiz yeteneklerini taklit eden bir tür yapay zekâ programıydı. 1985 yılına gelindiğinde, yapay zekâ pazarı 1 milyar doları aşmıştı. Aynı dönemde Japonya'nın beşinci nesil bilgisayar projesi, ABD ve Britanya hükûmetlerini akademik araştırmalara yeniden fon sağlamaya teşvik etti. Ancak, 1987'de Lisp makinesi pazarının çöküşüyle yapay zekâ tekrar itibar kaybetti ve daha uzun süren ikinci bir "yapay zekâ kışı" başladı.
+O zamana kadar yapay zekâ projelerinin büyük kısmı, planlar, hedefler, inançlar ve bilinen gerçekler gibi zihinsel kavramları temsil etmek için yüksek seviyede semboller kullanmaya odaklanmıştı. Ancak 1980'lerde bazı araştırmacılar, bu yaklaşımın insan bilişinin tüm süreçlerini, özellikle algı, robotik, öğrenme ve örüntü tanıma gibi karmaşık süreçleri taklit edemeyeceği konusunda şüphe duymaya başladı. Bu nedenle, "alt sembolik" yöntemlere yöneldiler. Rodney Brooks, genel olarak "temsil" fikrini reddederek hayatta kalabilen ve hareket edebilen makineler geliştirmeye odaklandı. Judea Pearl ve Lofti Zadeh gibi isimler, eksik ve belirsiz bilgileri mantıksal kesinlik yerine mâkul tahminlerle işleyebilen yöntemler geliştirdi. Ayrıca Geoffrey Hinton ve diğer araştırmacılar, "bağlantısallık" ve sinir ağ araştırmalarını yeniden canlandırarak bu alanın gelişimine katkıda bulundu. 1990'da Yann LeCun, evrişimli sinir ağlarının el yazısı ile yazılmış rakamları tanıyabildiğini gösterdi; bu, sinir ağlarının birçok başarılı uygulamasından ilkiydi.
+Yapay zekâ, 1990'ların sonları ve 21. yüzyılın başlarında, formal matematik yöntemlerinden yararlanarak ve belirli problemlere özel çözümler geliştirerek itibarını yeniden kazanmaya başladı. Bu "dar" ve "formal" yaklaşım, araştırmacıların doğrulanabilir sonuçlar üretmesini ve istatistik, ekonomi ve matematik gibi diğer alanlarla iş birliği yapmasını sağladı. 2000'li yıllara gelindiğinde, yapay zekâ araştırmacılarının geliştirdiği çözümler yaygın olarak kullanılmaya başlanmıştı. Ancak 1990'larda bu çözümler genellikle "yapay zekâ" olarak adlandırılmıyordu (bu eğilim yapay zekâ etkisi olarak bilinir).
+Buna karşın, bazı akademisyenler yapay zekânın ilk hedefinden, yani çok yönlü ve tam anlamıyla zeki makineler yaratma amacından uzaklaştığını düşünmeye başladı. 2002'nin başlarında, bu hedefi yeniden canlandırmak amacıyla yapay genel zekâ ("AGI") adı verilen bir alt alan kuruldu. 2010'lara gelindiğinde, yapay genel zekâ araştırmaları için iyi finanse edilen birçok kurum ortaya çıktı.
+Derin öğrenme, 2012'de endüstri standartlarında önemli bir üstünlük sağlayarak yapay zekâ alanında yaygın bir şekilde benimsendi.
+Birçok spesifik görevde diğer yöntemler terk edildi.
+Bu başarının arkasında daha hızlı bilgisayarlar, grafik işlem birimleri, bulut bilişim gibi donanım geliştirmeleriyle ImageNet gibi dikkatle oluşturulmuş veri kümelerinin de dâhil olduğu büyük miktarda veriye erişim yatıyordu. Derin öğrenmenin bu yükselişi, yapay zekâya olan ilgi ve finansmanda büyük bir artışı tetikledi. 2015-2019 yılları arasında makine öğrenimi araştırmalarındaki toplam yayımlanma sayısında %50'lik bir artış görüldü.
+2016'da, adalet ve teknolojinin yanlış kullanımı gibi etik sorunlar, makine öğrenimi konferanslarında ana gündem maddesi hâline geldi. Bu konularda yapılan yayımlar hızla artarken, yeni finansman kaynakları sağlandı ve birçok araştırmacı kariyerlerini bu alanlara yönlendirdi. Aynı dönemde, yapay zekânın insan çıkarlarına uygun şekilde geliştirilmesini konu alan "uyum problemi" akademik bir çalışma alanı olarak ciddiyet kazandı.
+2010'ların sonları ve 2020'lerin başlarında, yapay genel zekâ üzerine çalışan şirketler dikkat çeken yazılımlar üretmeye başladı. 2015 yılında DeepMind tarafından geliştirilen AlphaGo, oyunun kuralları öğretilerek kendi stratejisini geliştirdi ve dünya şampiyonu Go oyuncusunu yendi. 2020'de OpenAI tarafından çıkarılan GPT-3, insan benzeri yüksek kaliteli metinler üretebilen bir geniş dil modeli olarak dikkat çekti. 30 Kasım 2022'de kullanıma sunulan ChatGPT ise iki ay içinde 100 milyon kullanıcıya ulaşarak tarihin en hızlı büyüyen tüketici yazılımı oldu. 2022 yılı, yapay zekânın geniş kitleler tarafından fark edildiği ve yaygın bir şekilde konuşulmaya başlandığı bir dönüm noktası olarak kabul edildi. Bu yazılımlar, büyük bir yapay zeka patlamasını tetikledi. Büyük ölçekli şirketler yapay zekâ araştırmalarına milyarlarca dolar yatırım yapmaya başladı. AI Impacts'in verilerine göre, 2022 yılında sadece ABD'de yapay zekâya yıllık yaklaşık $50 milyar yatırım yapıldı. ABD'deki yeni bilgisayar bilimi doktora mezunlarının yaklaşık %20'si yapay zekâ üzerine uzmanlaştı. Aynı yıl, ABD'de yapay zekâ ile ilgili 800.000 iş ilanı bulundu. PitchBook araştırmasına göre, 2024'te yeni fon alan girişimlerin %22'si kendilerini yapay zekâ şirketi olarak tanımlıyordu.
+
+
+== Gelişim süreci ==
+
+
+=== İlk araştırmalar ve yapay sinir ağları ===
+İdealize edilmiş tanımıyla yapay zekâ konusundaki ilk çalışmalardan biri McCulloch ve Pitts tarafından yapılmıştır. Bu araştırmacıların önerdiği, yapay sinir hücrelerini kullanan hesaplama modeli, önermeler mantığı, fizyoloji ve Turing'in hesaplama kuramına dayanıyordu. Herhangi bir hesaplanabilir fonksiyonun sinir hücrelerinden oluşan ağlarla hesaplanabileceğini ve mantıksal ve ve veya işlemlerinin gerçekleştirilebileceğini gösterdiler. Bu ağ yapılarının uygun şekilde tanımlanmaları hâlinde öğrenme becerisi kazanabileceğini de ileri sürdüler. Hebb, sinir hücreleri arasındaki bağlantıların şiddetlerini değiştirmek için basit bir kural önerince, öğrenebilen yapay sinir ağlarını gerçekleştirmek de olası hale gelmiştir.
+1950'lerde Shannon ve Turing bilgisayarlar için satranç programları yazıyorlardı. İlk yapay sinir ağı temelli bilgisayar SNARC, MIT'de Minsky ve Edmonds tarafından 1951'de yapıldı. Çalışmalarını Princeton Üniversitesi'nde sürdüren Mc Carthy, Minsky, Shannon ve Rochester'le birlikte 1956 yılında Dartmouth'da iki aylık bir açık çalışma düzenledi. Bu toplantıda birçok çalışmanın temelleri atılmakla birlikte, toplantının en önemli özelliği Mc Carthy tarafından önerilen yapay zekâ adının konmasıdır. İlk kuram ispatlayan programlardan Logic Theorist (Mantık kuramcısı) burada Newell ve Simon tarafından tanıtılmıştır.
+
+
+=== Yeni yaklaşımlar ===
+Daha sonra Newell ve Simon, insan gibi düşünme yaklaşımına göre üretilmiş ilk program olan Genel Sorun Çözücü (General Problem Solver)'ı geliştirmişlerdir. Simon, daha sonra fiziksel simge varsayımını ortaya atmış ve bu kuram, insandan bağımsız zeki sistemler yapma çalışmalarıyla uğraşanların hareket noktasını oluşturmuştur. Simon'ın bu tanımlaması bilim adamlarının yapay zekâya yaklaşımlarında iki farklı akımın ortaya çıktığını belirginleştirmesi açısından önemlidir: Sembolik Yapay Zekâ ve Sibernetik Yapay Zekâ.
+
+
+== Yaklaşımlar ve eleştiriler ==
+
+
+=== Sembolik yapay zekâ ===
+Simon'ın sembolik yaklaşımından sonraki yıllarda mantık temelli çalışmalar egemen olmuş ve programların başarımlarını göstermek için bir takım yapay sorunlar ve dünyalar kullanılmıştır. Daha sonraları bu sorunlar gerçek yaşamı hiçbir şekilde temsil etmeyen oyuncak dünyalar olmakla suçlanmış ve yapay zekânın yalnızca bu alanlarda başarılı olabileceği ve gerçek yaşamdaki sorunların çözümüne ölçeklenemeyeceği ileri sürülmüştür.
+Geliştirilen programların gerçek sorunlarla karşılaşıldığında çok kötü bir başarım göstermesinin ardındaki temel neden, bu programların yalnızca sentaktik süreçleri benzeşimlendirerek anlam çıkarma, bağlantı kurma ve fikir yürütme gibi süreçler konusunda başarısız olmasıydı. Bu dönemin en ünlü programlarından Weizenbaum tarafından geliştirilen Eliza, karşısındaki ile sohbet edebiliyor gibi görünmesine karşın, yalnızca karşısındaki insanın cümleleri üzerinde bazı işlemler yapıyordu. İlk makine çevirisi çalışmaları sırasında benzeri yaklaşımlar kullanılıp çok gülünç çevirilerle karşılaşılınca bu çalışmaların desteklenmesi durdurulmuştu. Bu yetersizlikler aslında insan beynindeki semantik süreçlerin yeterince incelenmemesinden kaynaklanmaktaydı.
+
+
+=== Sibernetik yapay zekâ ===
+Yapay sinir ağları çalışmalarının dahil olduğu sibernetik cephede de durum aynıydı. Zeki davranışı benzeşimlendirmek için bu çalışmalarda kullanılan temel yapılardaki bazı önemli yetersizliklerin ortaya konmasıyla birçok araştırmacılar çalışmalarını durdurdular. Buna en temel örnek, Yapay sinir ağları konusundaki çalışmaların Marvin Minsky ve Seymour Papert'in 1969'da yayınlanan Perceptrons adlı kitaplarında tek katmanlı algaçların bazı basit problemleri çözemeyeceğini gösterip aynı kısırlığın çok katmanlı algaçlarda da beklenilmesi gerektiğini söylemeleri ile bıçakla kesilmiş gibi durmasıdır.
+Sibernetik akımın uğradığı başarısızlığın temel sebebi de benzer şekilde Yapay Sinir Ağının tek katmanlı görevi başarması fakat bu görevle ilgili vargıların veya sonuçların bir yargıya dönüşerek diğer kavramlar ile bir ilişki kurulamamasından kaynaklanmaktadır. Bu durum aynı zamanda semantik süreçlerin de benzeşimlendirilememesi gerçeğini doğurdu.
+
+
+== Uzman sistemler ==
+Her iki akımın da uğradığı başarısızlıklar, her sorunu çözecek genel amaçlı sistemler yerine belirli bir uzmanlık alanındaki bilgiyle donatılmış programları kullanma fikrinin gelişmesine sebep oldu ve bu durum yapay zekâ alanında yeniden bir canlanmaya yol açtı. Kısa sürede uzman sistemler adı verilen bir metodoloji gelişti.
+Uzman sistemler bir konuda belli ön koşullar aynı anda var olduğunda konunun bir uzmanın (bazen ne olasılıkla) ne karar alacağını belirleyen kuralların tümünü içeren bir programı gelen problemlere uygulamak temellidir. Bunun bir avantajı her verilen kararın hangi kurallar uygulanarak verildiğinin kolayca bilinmesi idi. Bu birçok kuralcı bürokratik karar örgütleri için kolayca uygulamalar geliştirilebilmesi demekti. Bu doğal olarak bir otomobilin tamiri için önerilerde bulunan uzman sistem programının otomobilin ne işe yaradığından haberi olmaması da demekti. Buna rağmen uzman sistemlerin başarıları beraberinde ilk ticari uygulamaları da getirdi.
+Yapay zekâ yavaş yavaş bir endüstri hâline geliyordu. DEC tarafından kullanılan ve müşteri siparişlerine göre donanım seçimi yapan R1 adlı uzman sistem şirkete bir yılda 40 milyon dolarlık tasarruf sağlamıştı. Birden diğer ülkeler de yapay zekâyı yeniden keşfettiler ve araştırmalara büyük kaynaklar ayrılmaya başlandı. 1988'de yapay zekâ endüstrisinin cirosu 2 milyar dolara ulaşmıştı.
+
+
+== Doğal dil işleme ==
+Antropoloji bilimi, gelişmiş insan zekâsı ile dil arasındaki bağlantıyı gözler önüne serdiğinde, dil üzerinden yürütülen yapay zekâ çalışmaları tekrar önem kazandı. İnsan zekâsının doğrudan doğruya kavramlarla düşünmediği, dil ile düşündüğü, dil kodları olan kelimeler ile kavramlar arasında bağlantı kurduğu anlaşıldı. Bu sayede insan aklı kavramlar ile düşünen Hayvan beyninden daha hızlı işlem yapabilmekteydi ve dil dizgeleri olan cümleler yani şablonlar ile etkili bir öğrenmeye ve bilgisini soyut olarak genişletebilme yeteneğine sahip olmuştu. İnsanların iletişimde kullandıkları Türkçe, İngilizce gibi doğal dilleri anlayan bilgisayarlar konusundaki çalışmalar hızlanmaya başladı. Önce, yine Uzman sistemler olarak karşımıza çıkan doğal dil anlayan programlar, daha sonra Sembolik Yapay Zekâ ile ilgilenenler arasında ilgiyle karşılandı ve yazılım alanındaki gelişmeler sayesinde İngilizce olan A.I.M.L (Artificial intelligence Markup Language) ve Türkçe T.Y.İ.D (Türkçe Yapay Zekâ İşaretleme Dili) gibi bilgisayar dilleri ile sentaktik (Örüntü) işlemine uygun veri erişim metotları geliştirilebildi. Bugün Sembolik Yapay Zekâ araştırmacıları özel Yapay Zekâ dillerini kullanarak verileri birbiri ile ilişkilendirebilmekte, geliştirilen özel prosedürler sayesinde anlam çıkarma ve çıkarımsama yapma gibi ileri seviye bilişsel fonksiyonları benzetimlendirmeye çalışmaktadırlar.
+Bütün bu gelişmelerin ve süreçlerin sonunda bir grup yapay zekâ araştırmacısı, insan gibi düşünebilen sistemleri araştırmaya devam ederken diğer bir grup ise ticari değeri olan rasyonel karar alan sistemler (Uzman sistemler) üzerine yoğunlaştı.
+
+
+=== Diyalog bazlı yapay zeka ===
+Doğal dil işleme ve makine öğrenmesi gibi yapay zeka teknolojileri kullanılarak insan ve makine (yazılım) arasında bir diyaloğun sürdürülmesini sağlayan yapay zeka alt dalına "diyalog bazlı yapay zeka" (conversational artificial intelligence) denir. Daha önce insanların bilgisayara komut vermesinde kullanılan web, mobil uygulama gibi grafiksel arayüzlerin (GUI) yerine geçmeyi amaçlayan diyalog bazlı arayüzler (CUI) insanların bilgisayara günlük dilde yazarak veya konuşarak komut verebilmesini amaçlar. Günümüzde, chatbotlar ve sesli asistanlar diyalog bazlı yapay zeka alanında sıkça kullanılan teknolojik ürünler olarak karşımıza çıkmaktadır.
+
+
+==== Chatbotlar ====
+Chatbotlar, diyalog bazlı yapay zekanın günlük hayatta kullanılan bir örneğidir. Kullanıcılar, Türkçeye sohbet robotları olarak geçmiş bu dijital ürünler ile yazışarak belirli bir konuda bilgi alabilir veya uçak bileti almak, banka havalesi yapmak veya bir kitap satın almak gibi günlük işlerini yapabilirler. Chatbotlar, şirketlerin web sitesinde veya mobil uygulamasında yer alabilirler. Bunun dışında chatbotlar, WhatsApp, Facebook Messenger gibi genel mesajlaşma platformlarında veya Google Assistant, Siri gibi sesli asistanlarda da yer alabilirler.
+Chatbotlar kullanıcı ile etkileşim kurma yöntemini, arkasında yer alan teknolojik altyapıya göre farklı çeşitlerde oluşturulabilir. Örneğin bir chatbot kullanıcı ile, sadece kullanıcı onunla etkileşime girdiğinde iletişim kuruyorsa reaktif bir chatbottur, eğer bir uyarıcı ile tetiklenerek kullanıcı ile olan diyaloğu başlatan taraf oluyorsa buna proaktif bir chatbot denir. Teknoloji açısından bakılacak olursa, yapay zeka tabanlı chatbotların yanında, doğal dil işleme, makine öğrenmesi gibi yapay zeka teknolojileri kullanılmadan geliştirilen kural tabanlı chatbotlar da kullanılmaktadır. Ancak bu iki tür chatbotun davranışı farklıdır. Kural bazlı chatbotlarda genellikle kullanıcıya belirli seçenekler sunulur ve yaratılan deneyim bu seçeneklerle sınırlı kalır. Yapay zeka tabanlı chatbotlarda ise kullanıcı serbest bir metin yazabilir, chatbotun doğal dil işleme teknolojisi bu metni anlamlandırıp doğru yanıtı belirleyerek kullanıcıya sunar.
+
+
+== Gelecekte yapay zekâ ==
+
+
+=== Süper zekâ ve tekillik ===
+Süper zekâ, en parlak ve en yetenekli insan zihninin zekâsını çok aşan bir zekâya sahip varsayımsal bir etkendir. Yapay genel zekâ üzerine yapılan araştırmalar yeterince zeki bir yazılım üretirse, yazılım kendini yeniden programlayabilir ve geliştirebilir. Gelişen yazılım kendini geliştirmede daha da iyi olur ve I. J. Good'un "zekâ patlaması" ve Vernor Vinge'in "tekillik" olarak adlandırdığı şeye yol açar.
+Ancak teknolojiler sonsuza kadar üstel olarak gelişemez ve genellikle S şeklinde bir eğri izler, teknolojinin yapabileceği şeyin fiziksel sınırlarına ulaştığında yavaşlar.
+
+
+=== Transhümanizm ===
+
+Robot tasarımcısı Hans Moravec, sibernetikçi Kevin Warwick ve mucit Ray Kurzweil, gelecekte insanların ve makinelerin birleşerek her ikisinden de daha yetenekli ve güçlü siborglara dönüşebileceğini öngördüler. Transhümanizm olarak adlandırılan bu fikrin kökleri, Aldous Huxley ve Robert Ettinger'ın yazılarında bahsedilmektedir.
+Edward Fredkin, "yapay zekânın evrimin bir sonraki adımı" olduğunu savunmaktaydı; bu fikir ilk olarak Samuel Butler'ın "Darwin among the Machines" adlı mektubunda 1863'te ortaya atıldı ve George Dyson tarafından 1998'deki Darwin Among the Machines: The Evolution of Global Intelligence adlı kitabında geliştirildi.
+
+
+== Uygulama alanları ==
+Yapay zekanın uygulama alanlarının bazı örnekleri şu şekildedir:
+
+Önerici sistemler: Kullanıcıların geçmiş davranışlarına dayanarak yeni içerik önerilmesi. Örneğin, sosyal medya sitelerinde yeni arkadaş, mağazalarda başka bir ürün, gazetede başka bir haber önerileri.
+Makine çevirisi: Bir dilde ifade edilen cümleyi farklı bir dile çevirmek. Örneğin, Google Translate, Microsoft Tercüman ve Yandex.Çeviri gibi çevrimiçi araçlar.
+Sinyal işleme: Ses ve görüntü gibi sinyallerin işlenerek bilgi çıkarımı. Örneğin, yüz ve ses tanıma.
+Prosedürel içerik üretimi: Rassal yöntemler kullanarak yapay içerik üretme. Örneğin, üretimsel müzik ve video oyunlarında prosedürel dünyalar.
+Regresyon analizi: Geçmiş verilere dayanılarak bir değişkenin gelecekteki değerinin tahmin edilmesi. Örneğin, ekonomik öngörüler, üretim miktarı öngörüleri.
+Görüntü işleme: Dijital görüntülerde bulunan objeleri tanıma, yerini bulma, sınıflandırma gibi işlemlerin tümü. Yapay zekadan önce bu işlemler Hough dönüşümü gibi kurala dayalı algoritmalar ile sürdürülürken, günümüzde bu kurallar veriden öğrenilmektedir. Görüntülemenin sık kullanıldığı tıp, biyoloji, otomotiv, üretim gibi alanlarda kullanılmaktadır.
+Makale yazma: Dünyada yapay zeka ile yazılan ilk köşe yazısı 8 Eylül 2020 tarihinde The Guardian gazetesinde yayınlanmıştır. Türkiye'de yapay zekanın yazdığı ilk haber ise Şalom gazetesinde 2018 yılında yayınlanmıştır.
+
+
+== Alt dallar ==
+
+
+== Ayrıca bakınız ==
+
+
+== Notlar ==
+
+
+== Kaynakça ==
+
+
+===== Makine öğrenmesi =====
+
+Makine öğrenimi (ML), veriden öğrenebilen ve görünmeyen verilere genelleştirebilen ve dolayısıyla açık talimatlar olmadan görevleri yerine getirebilen istatistiksel algoritmaların geliştirilmesi ve incelenmesiyle ilgilenen, yapay zekâda akademik bir disiplindir. Makine öğrenimi, bilgisayarların deneyimlerinden öğrenerek karmaşık görevleri otomatikleştirmeyi sağlayan bir yapay zeka alanıdır. Bu, veri analizi yaparak örüntüler tespit etme ve tahminlerde bulunma yeteneğine dayanır. Son zamanlarda yapay sinir ağları, performans açısından önceki birçok yaklaşımı geride bırakmayı başardı.
+Makine öğrenimi yaklaşımları, doğal dil işleme, bilgisayar görüşü, konuşma tanıma, e-posta filtreleme, tarım ve tıp dahil olmak üzere birçok alana uygulanmıştır. Bu teknikler, genellikle tahmine dayalı analitik olarak tanımlanan iş sorunlarına yönelik uygulamalarda önemli bir rol oynamaktadır. ML, iş sorunlarına yönelik uygulamasında tahmine dayalı analitik denir. Makine öğreniminin tümü istatistiksel temelli olmasa da, hesaplamalı istatistiksel yöntemlerinin önemli bir kaynağıdır.
+ML'nin matematiksel temelleri matematiksel optimizasyon (matematiksel programlama) yöntemleriyle sağlanır. Veri madenciliği, gözetimsiz öğrenme yoluyla keşifsel veri analizine (EDA) odaklanan ilgili (paralel) bir bilim dalıdır.
+Teorik bir bakış açısından bakıldığında, muhtemelen yüksek olasılıklı doğru (PAC) öğrenme, makine öğrenimini tanımlamak için bir çerçeve sağlar.
+Makine öğrenimi araştırmalarının odaklandığı konu bilgisayarlara karmaşık örüntüleri algılama ve veriye dayalı akılcı kararlar verebilme becerisi kazandırmaktır. Bu, makine öğreniminin istatistik, olasılık kuramı, veri madenciliği, örüntü tanıma, yapay zekâ, uyarlamalı denetim ve kuramsal bilgisayar bilimi gibi alanlarla yakından ilintili olduğunu gösterir. Makine öğrenimi, sağlık hizmetlerinde tanı süreçlerinin iyileştirilmesinde yaygın olarak kullanılmaktadır; örneğin radyoloji görüntülerinin otomatik analizi, hastalık tahmini ve tedavi planlaması gibi uygulamalarda yüksek doğruluk sağlar.
+
+
+== Özet ==
+Makine öğrenimi, bilgisayarların, açıkça programlanmadan karmaşık görevleri otomatikleştirmeyi öğrenmelerini sağlar. Belirli görevleri yerine getirmeleri için sağlanan verilerdeki örüntüleri ve ilişkileri keşfederek bu örüntüleri yeni durumlara uygulama yeteneği kazandırır. Bilgisayarlara atanan basit görevler için, makineye eldeki sorunu çözmek için gereken tüm adımları nasıl uygulayacağını bildiren algoritmalar programlamak mümkündür; bilgisayar tarafında öğrenmeye gerek yoktur. Daha gelişmiş görevlerde insan için gerekli algoritmaları elle yapmak zor olabilir. Uygulamada, insan programcıların gerekli her adımı belirlemesinden ziyade, makinenin kendi algoritmasını geliştirmesine yardımcı olmak daha etkili olabilir.
+Makine öğrenimi disiplini, bilgisayarlara tam olarak tatmin edici bir algoritmanın bulunmadığı görevleri gerçekleştirmeyi öğretmek için çeşitli yaklaşımlar kullanır. Çok sayıda olası yanıtın olduğu durumlarda, doğru yanıtlardan bazılarını geçerli olarak etiketlemek bir yaklaşımdır. Bu, daha sonra bilgisayarın doğru yanıtları bulmak için kullandığı algoritmayı/algoritmaları geliştirmede eğitim verisi olarak kullanılabilir. Örneğin, sayısal karakter tanıma görevinde sistemi eğitmek için el yazısıyla yazılmış rakamların MNIST veri kümesi sıklıkla kullanılır.
+
+
+== Tarihçe ==
+Makine öğrenimi terimi 1959'da bilgisayar oyunları ve yapay zeka alanında öncü ve IBM çalışanı olan Amerikalı Arthur Samuel tarafından icat edildi. 1960'larda makine öğrenimi araştırmasının temsili bir kitabı, Nilsson'un Öğrenme Makineleri hakkındaki kitabıydı ve çoğunlukla örüntü sınıflandırması için makine öğrenimi ile ilgiliydi. Model tanıma ile ilgili ilgi, 1973'te Duda ve Hart tarafından tanımlandığı gibi 1970'lerde de devam etti.
+1981'de, bir sinir ağı 'nın bilgisayar terminalinden 40 karakteri (26 harf, 10 rakam ve 4 özel sembol) tanımayı öğrenmesi için öğretme stratejilerinin kullanımına ilişkin bir rapor verildi.
+Tom M. Mitchell, makine öğrenimi alanında incelenen algoritmaların geniş ölçüde alıntılanan daha resmi bir tanımını yaptı: "Bir bilgisayar programının performans ölçüsü "P" ve bazı "T" görev sınıflarıyla ilgili olarak "T" görevlerindeki performansı "E" deneyimiyle iyileşiyorsa "P" ile ölçüldüğü gibi E deneyiminden öğrendiği söylenir.
+Makine öğreniminin söz konusu olduğu görevlerin bu tanımı, alanı bilişsel terimlerle tanımlamak yerine temelde operasyonel tanım sunar. Bu, Alan Turing'in "Computing Machinery and Intelligence" adlı makalesinde "Makineler düşünebilir mi?" "Makineler bizim (düşünen varlıklar olarak) yapabildiğimizi yapabilir mi?" sorusuyla değiştirilir.
+Günümüzün modern makine öğreniminin iki amacı vardır, biri verileri geliştirilen modellere göre sınıflandırmak, diğer amaç ise bu modellere dayalı olarak gelecekteki sonuçlar için tahminler yapmaktır. Verileri sınıflandırmaya özgü varsayımsal bir algoritma, kanserli benleri sınıflandırmada onu eğitmek için denetimli öğrenmeyle birleştirilen mollerin bilgisayar görüşü kullanabilir. Hal böyle olunca, hisse senedi ticareti için makine öğrenme algoritması, tüccara gelecekteki olası tahminler hakkında bilgi verebilir.
+
+
+== Diğer alanlarla ilişkiler ==
+
+
+=== Yapay zeka ===
+
+Bilimsel bir çaba olarak makine öğrenimi, yapay zeka arayışından doğdu. Yapay zekanın akademik disiplin olarak ilk günlerinde bazı araştırmacılar makinelerin verilerden öğrenmesini sağlamakla ilgileniyordu. Soruna çeşitli sembolik yöntemlerle ve daha sonra "sinir ağları" denilen yöntemlerle yaklaşmaya çalıştılar; bunlar çoğunlukla perceptronlar ve diğer modellerdi daha sonra istatistiklerin genelleştirilmiş doğrusal modellerin yeniden icatları oldukları anlaşıldı.
+Olasılık muhakeme de özellikle otomatik tıbbi tanı için kullanıldı. Ancak, mantıksal, bilgiye dayalı yaklaşım üzerindeki artan vurgu, yapay zeka ile makine öğrenimi arasında bir sürtüşmeye neden oldu. Olasılıklı sistemler, veri toplama ve gösteriminin teorik ve pratik problemleriyle boğuşuyordu.
+1980 yılına gelindiğinde, uzman sistemler yapay zekaya hâkim oldu ve istatistik gözden düştü.
+Sembolik/bilgiye dayalı öğrenme üzerine çalışmalar AI içinde devam etti ve endüktif mantık programlama'ya yol açtı ancak daha istatistiksel araştırma hattı artık örüntü tanıma da ve bilgi erişimdeydi.
+Sinir ağları araştırması, yapay zeka ve bilgisayar bilimi tarafından aynı zamanlarda terk edildi. Bu çizgi de diğer disiplinlerden John Hopfield, Rumelhart ve Hinton‘i içeren araştırmacılar tarafından AI/CS alanının dışında "bağlantısallık" olarak devam ettirildi. Ana başarıları, 1980'lerin ortasında geri yayılımın yeniden buluşuyla ortaya çıktı.
+Ayrı bir alan olarak yeniden düzenlenen makine öğrenimi (ML), 1990'larda gelişmeye başladı. Alan, amacını yapay zeka elde etmekten ziyade pratik nitelikteki çözülebilir problemlerle mücadele etmek olarak değiştirdi. Odağı, AI'dan miras aldığı sembolik yaklaşımlar'dan, istatistik ve olasılık teorisi’nden ödünç alınan yöntem ve modellere kaydırdı.
+2020 itibarıyla birçok kaynak, makine öğreniminin yapay zekanın bir alt alanı olmaya devam ettiğini iddiasını sürdürüyor.
+Ana anlaşmazlık, tüm makine öğreniminin Yapay zeka(YZ)'nın (AI) bir parçası olup olmadığıdır çünkü bu, makine öğrenimini kullanan herhangi birinin YZ kullandığını iddia edebileceği anlamına gelir. Diğerlerinin görüşü, tüm makine öğreniminin yapay zekanın bir parçası olmadığıdır ki burada, makine öğreniminin yalnızca 'akıllı' bir alt kümesi YZ'nin bir parçasıdır.
+Makine öğrenimi ve yapay zeka arasındaki farkın ne olduğu sorusu, "The Book of Why" adlı kitabında Judea Pearl tarafından yanıtlanır. Buna göre, makine öğrenimi pasif gözlemlere dayanarak öğrenir ve tahmin eder, oysa AI, hedeflerine başarılı bir şekilde ulaşma şansını en üst düzeye çıkaran eylemleri öğrenmek ve gerçekleştirmek için çevre ile etkileşime giren aracı ifade eder.
+
+
+=== Veri sıkıştırma ===
+Makine öğrenimi ile sıkıştırma arasında yakın bir bağlantı vardır. Tüm geçmişi göz önüne alındığında bir dizinin sonsal olasılıklarını tahmin eden bir sistem, optimum veri sıkıştırması için (çıkış dağılımında aritmetik kodlama kullanılarak) kullanılabilir. Tersine, tahmin için en uygun sıkıştırıcı (önceki geçmiş göz önüne alındığında en iyi sıkıştıran sembolü bularak) kullanılabilir. Bu eşdeğerlik, veri sıkıştırmanın "genel zeka" için ölçüt olarak kullanılmasının gerekçesi olarak kullanılmıştır.
+Alternatif bir görünüm, sıkıştırma algoritmalarının dizeleri örtülü özellik alanı vektörlerine örtülü olarak eşlediğini gösterebilir ve sıkıştırmaya dayalı benzerlik ölçümleri, bu özellik alanlarındaki benzerliği hesaplar. Her sıkıştırıcı C(.) için ilişkili bir vektör uzayı ℵ tanımlarız, öyle ki C(.), ||~x|| vektör normuna karşılık gelen giriş dizesi x'i eşler. Tüm sıkıştırma algoritmalarının altında yatan özellik uzaylarının kapsamlı incelemesi uzay nedeniyle engellenir; bunun yerine, özellik vektörleri üç temsili kayıpsız sıkıştırma yöntemini yani LZW, LZ77 ve PPM'yi incelemeyi seçer.
+Hutter Ödülü'nde daha doğrudan açıklanan bir bağlantı olan AIXI teorisine göre, x'in mümkün olan en iyi sıkıştırılması, x'i üreten mümkün olan en küçük yazılımdır. Örneğin, bu modelde bir zip dosyasının sıkıştırılmış boyutu hem zip dosyasını hem de zip açma yazılımını içerir. Çünkü her ikisi olmadan zip dosyasını açamazsınız ancak daha da küçük birleştirilmiş bir form olabilir.
+Yapay zeka destekli ses/video sıkıştırma yazılımı örnekleri olarak VP9, NVIDIA Maxine, AIVC, AccMPEG sayılabilir. Yapay zeka destekli görüntü sıkıştırma gerçekleştirebilen yazılımına OpenCV, TensorFlow, MATLAB'ın Image Processing Toolbox (IPT) ve High-Fidelity Generative Image Compression örnek olarak verilebilir.
+Denetimsiz makine öğreniminde, benzer veri noktalarını kümeler halinde gruplandırarak verileri sıkıştırmak için k-ortalama kümelemesi kullanılabilir. Bu teknik, önceden tanımlanmış etiketlerin bulunmadığı kapsamlı veri kümelerinin işlenmesini basitleştirir ve görüntü sıkıştırma gibi alanlarda çok kullanılır.
+Geniş dil modelleri aynı zamanda kayıpsız veri sıkıştırma özelliğiklidir.
+
+
+=== Veri madenciliği ===
+Makine öğrenimi ve veri madenciliği sıklıkla aynı yöntemleri kullanır ve önemli ölçüde örtüşür, ancak makine öğrenimi, eğitim verilerinden öğrenilen bilinen özelliklere dayalı olarak tahmine odaklanırken, veri madenciliği verilerdeki (daha önce) bilinmeyen özelliklerin keşfedilmesine odaklanır (bu, veritabanlarında bilgi keşfinin analiz adımıdır).
+Veri madenciliği farklı amaçlarla birçok makine öğrenimi yöntemini kullanır. Öte yandan makine öğrenimi, "denetimsiz öğrenme" olarak veya öğrenen doğruluğunu artırmak için bir ön işleme adımı olarak veri madenciliği yöntemlerini de kullanır. Bu iki araştırma topluluğu (çoğunlukla ayrı konferansları ve ayrı dergileri olan, ECML PKDD önemli bir istisnadır) arasındaki kafa karışıklığının büyük kısmı, birlikte çalıştıkları temel varsayımlardan kaynaklanmaktadır: Makine öğreniminde performans genellikle bilinen bilgiyi yeniden üretme becerisine göre değerlendirilirken, bilgi keşfi ve veri madenciliği (KDD)'de temel görev önceden bilinmeyen bilginin keşfidir. Bilinen bilgilere göre değerlendirildiğinde, bilgi verilmeyen (denetlenmeyen) bir yöntem, diğer denetlenen yöntemlere göre kolayca daha iyi performans gösterecektir, oysa tipik bir KDD görevinde, eğitim verilerinin mevcut olmaması nedeniyle denetlenen yöntemler kullanılamaz.
+Makine öğreniminin optimizasyonla da yakın bağları vardır: birçok öğrenme problemi, eğitim set örneklerinde bazı kayıp fonksiyonların en aza indirilmesi olarak formülleştirilir. Kayıp fonksiyonları, eğitilen modelin tahminleri ile gerçek problem örnekleri arasındaki tutarsızlığı ifade eder (örneğin, sınıflandırmada örneklere bir etiket atamak istenir ve modeller, bir dizi örnek için önceden atanmış etiketleri doğru şekilde tahmin edecek şekilde eğitilir).
+
+
+=== Genelleme ===
+Optimizasyon ve makine öğrenimi arasındaki fark, genelleştirme hedefinden kaynaklanır: Optimizasyon algoritmaları bir eğitim setindeki kaybı en aza indirebilirken, makine öğrenimi, görünmeyen örneklerdeki kaybı en aza indirmekle ilgilenir. Çeşitli öğrenme algoritmalarının genelleştirilmesinin karakterize edilmesi, özellikle derin öğrenme algoritmaları için güncel araştırmaların aktif bir konusudur.
+
+
+=== İstatistik ===
+Makine öğrenimi ve istatistik, yöntemler açısından birbiriyle yakından ilişkili alanlardır ancak temel hedefleri bakımından farklıdır: istatistik bir örnekten nüfus çıkarımları yaparken, makine öğrenimi genelleştirilebilir tahmin kalıpları bulur. Michael I. Jordan'a göre, metodolojik ilkelerden teorik araçlara kadar makine öğrenimi fikirlerinin istatistik alanında uzun bir geçmişi vardır. Ayrıca genel alanı adlandırmak için veri bilimi terimini yer tutucu olarak önerdi.
+Geleneksel istatistiksel analizler, çalışma veri seti için en uygun modelin önsel seçimini gerektirir. Ayrıca analize yalnızca önceki deneyimlere dayanan önemli veya teorik olarak ilgili değişkenler dahil edilir. Bunun aksine, makine öğrenimi önceden yapılandırılmış bir model üzerine kurulmamıştır; bunun yerine veriler, altta yatan kalıpları tespit ederek modeli şekillendirir. Modeli eğitmek için ne kadar çok değişken (girdi) kullanılırsa nihai model o kadar doğru olur.
+Leo Breiman iki istatistiksel modelleme paradigmasını birbirinden ayırdı: veri modeli ve algoritmik model,; burada "algoritmik model", Rastgele orman gibi az çok makine öğrenimi algoritmaları anlamına gelir.
+Bazı istatistikçiler, makine öğreniminden yöntemleri benimseyerek istatistiksel öğrenme adını verdikleri birleşik bir alana yol açtılar.
+
+
+=== İstatistiksel fizik ===
+Düzensiz sistemlerin köklü fiziğinden türetilen analitik ve hesaplamalı teknikler, örneğin derin sinir ağ'larının ağırlık uzayını analiz etmek için makine öğrenimi de dahil olmak üzere büyük ölçekli sorunlara genişletilebilir. İstatistiksel fizik bu nedenle tıbbi teşhis alanında da uygulama alanları bulmaktadır.
+
+
+== Teori ==
+Bir öğrencinin temel amacı, deneyiminden genelleme yapmaktır.  Bu bağlamda genelleme, öğrenen bir makinenin, bir öğrenme veri kümesini deneyimledikten sonra yeni, görülmemiş örnekler/görevler üzerinde doğru bir şekilde performans gösterme yeteneğidir. Eğitim örnekleri, genel olarak bilinmeyen bazı olasılık dağılımlarından gelir (oluşma uzayını temsil ettiği kabul edilir) ve öğrencinin, yeni durumlarda yeterince doğru tahminler üretmesini sağlayan bu alan hakkında genel bir model oluşturması gerekir. Bu bağlamda genelleme, öğrenen bir makinenin, bir öğrenme veri kümesini deneyimledikten sonra yeni, görülmemiş örnekler/görevler üzerinde doğru şekilde performans gösterme yeteneğidir. Eğitim örnekleri, genel olarak bilinmeyen bazı olasılık dağılımlarından gelir (oluşma uzayını temsil ettiği kabul edilir) ve öğrencinin, yeni durumlarda yeterince doğru tahminler üretmesini sağlayan bu alan hakkında genel bir model oluşturması gerekir.
+Makine öğrenimi algoritmalarının ve performanslarının hesaplamalı analizi, Yüksek Olasılıklı Doğru Öğrenme (PAC) modeli aracılığıyla hesaplamalı öğrenme teorisi olarak bilinen teorik bilgisayar biliminin bir dalıdır. Eğitim kümeleri sınırlı olduğundan ve gelecek belirsiz olduğundan, öğrenme teorisi genellikle algoritmaların performansına dair garanti vermez. Bunun yerine performansa ilişkin olasılıksal sınırlar oldukça yaygındır. Önyargı-varyans ayrıştırması, genelleme hatasını ölçmenin bir yoludur.
+Genelleme bağlamında en iyi performansı elde etmek için hipotezin karmaşıklığı, verilerin altında yatan işlevin karmaşıklığıyla eşleşmelidir. Hipotezin fonksiyondan daha az karmaşık olması durumunda model, verilere gereğinden az uyum sağlamıştır. Yanıt olarak modelin karmaşıklığı artarsa eğitim hatası azalır. Ancak hipotez çok karmaşıksa, model aşırı uyumdan etkilenir ve genelleme daha zayıf olur.
+Performans sınırlarına ek olarak, öğrenme teorisyenleri öğrenmenin zaman karmaşıklığını ve fizibilitesini de inceler. Hesaplamalı öğrenme teorisinde, bir hesaplamanın polinom zamanında yapılması mümkünse mümkün olduğu kabul edilir. İki tür zaman karmaşıklık sonucu vardır: Pozitif sonuçlar, belirli bir fonksiyon sınıfının polinom zamanda öğrenilebileceğini gösterir. Negatif sonuçlar bazı sınıfların polinom zamanında öğrenilemeyeceğini göstermektedir.
+
+
+== Uygulamalar ==
+Makine öğreniminin başlıca uygulamaları makine algılaması, bilgisayarlı görme, doğal dil işleme, sözdizimsel örüntü tanıma, arama motorları, tıbbi tanı, biyoinformatik, beyin-makine arayüzleri ve kiminformatik, kredi kartı dolandırıcılığı denetimi, borsa çözümlemesi, DNA dizilerinin sınıflandırılması, konuşma ve elyazısı tanıma, bilgisayarlı görmede nesne tanıma, oyun oynama, yazılım mühendisliği, uyarlamalı web siteleri ve robot gezisidir.
+
+
+== İnsan etkileşimi ==
+Makine öğrenimi sistemlerinin bir bölümü insan sezgisine olan gereksinimi tümüyle ortadan kaldırmaya çalışırken bazıları insan ve makine arasında işbirliğine dayalı bir yaklaşım benimsemektedir. Ne var ki, sistemi tasarlayan kişinin verinin kodlanma biçimi üzerinde tümüyle egemen oluşu insan sezgisinin tümüyle ortadan kaldırılmasını olanaksızlaştırmaktadır. Makine öğrenimi deneysel yöntemin otomatikleştirilmesi çabası olarak görülmektedir.
+Bazı istatistiksel makine öğrenimi araştırmacıları Bayes istatistiği çerçevesi kapsamında kullanılabilen yöntemler geliştirmektedirler.
+
+
+== Öğrenme yaklaşımları ==
+Makine öğrenimi algoritmaları hedeflenen sonuca göre birkaç sınıfa ayrılabilmektedir:
+
+Gözetimli öğrenme - Gözetimli öğrenme, bilgisayarların etiketlenmiş örnek verilerden öğrenme yeteneğini içerir. Bu yaklaşım, her örneğin bir girdi ve ona karşılık gelen bir çıktıya sahip olduğu durumlar için idealdir. Örneğin, bir görüntünün üzerindeki nesnelerin tanımlanması gibi bir problemde, etiketlenmiş veri setleri kullanılır. Makine, bu veri setlerini analiz ederek girdileri çıktılara eşleme yeteneğini geliştirir.
+Gözetimsiz öğrenme - Gözetimsiz öğrenme, bilgisayarların etiketlenmemiş verilerden örüntüleri keşfetme yeteneğini içerir. Bu yaklaşım, verilerdeki yapıları anlamak ve veri setlerindeki gizli ilişkileri keşfetmek için kullanılır. Örneğin, bir pazarlama analizi yapılırken, müşteri segmentlerini belirlemek için gözetimsiz öğrenme teknikleri kullanılabilir. Bu sayede, belirli bir önceden tanımlanmış etikete gerek kalmadan veri setindeki doğal gruplamaları keşfedebiliriz.
+Pekiştirmeli öğrenme - Pekiştirmeli öğrenme, bir ajanın çevresiyle etkileşime girerek deneme-yanılma yoluyla optimal davranışı öğrenme yeteneğini içerir. Bu yaklaşım genellikle karar alma ve kontrol problemleri için kullanılır. Ajan, bir ortamda belirli eylemler gerçekleştirir ve bu eylemlerin sonuçlarına göre ödüller veya cezalar alır. Bu ödüller ve cezalar, ajanın davranışını optimize etmesine yardımcı olur. Örneğin, bir robotun belirli bir ortamda dengede kalmasını öğrenmesi veya bir oyun oynarken en yüksek skoru elde etmesi için pekiştirmeli öğrenme kullanılabilir.
+Yarı gözetimli öğrenme - Uygun işlev ya da sınıflandırıcılar oluşturmak için etiketli ve etiketsiz örnekleri birlikte ele alır.
+Öğrenmeyi öğrenme - Önceki deneyimlerden yararlanır. 
+
+
+== Ayrıca bakınız ==
+
+
+== Kaynakça ==
+
+
+== Konuyla ilgili yayınlar ==
+
+
+== Dış bağlantılar ==
+"Makine öğrenimi algoritmalarının Ruby uygulamaları". 25 Haziran 2012 tarihinde kaynağından arşivlendi. 
+"Andrew Ng'in Stanford ders notları". 31 Ağustos 2009 tarihinde kaynağından arşivlendi. 
+"Berimsel Zekâ Ansiklopedisi". 11 Ekim 2007 tarihinde kaynağından arşivlendi. 
+"Uluslararası Makine Öğrenimi Topluluğu". 9 Mart 2012 tarihinde kaynağından arşivlendi. 
+"Makine öğrenimi, veri madenciliği ve KDD bilimsel konferansları". 3 Eylül 2009 tarihinde kaynağından arşivlendi. 
+"Açık kaynak kodlu makine öğrenimi yazılımları". 3 Ekim 2009 tarihinde kaynağından arşivlendi. 
+"Görüntülü makine öğrenimi dersleri". 16 Eylül 2009 tarihinde kaynağından arşivlendi. 
+"Berimsel Zekâ ve Makine Öğrenimi Sanal Topluluğu". 4 Ekim 2009 tarihinde kaynağından arşivlendi.
+
+
+===== Bilgisayar =====
+
+Bilgisayar, aritmetik veya mantıksal işlem dizilerini (berim) otomatik olarak yürütmek üzere programlanabilen dijital bir elektronik makinedir. Çağdaş bilgisayarlar, programlar olarak bilinen genel işlem kümelerini gerçekleştirebilir. Bu programlar, bilgisayarların çeşitli görevleri gerçekleştirmesini sağlar. Ayrıca bir bilgisayar sisteminin tam verimle çalışabilmesi için donanım, işletim sistemi ve çevresel cihazlara sahip olması gerekmektedir. Bu terim aynı zamanda bir bilgisayar ağı veya bilgisayar kümesi gibi birbirine bağlı ve birlikte çalışan bir grup bilgisayar anlamına da gelebilir.
+Çok amaçlı endüstriyel ve tüketici elektroniği, bilgisayarları kontrol sistemi olarak kullanır. Örneğin mikrodalga fırınlar ve uzaktan kumandalar gibi basit özel amaçlı aygıtlar, endüstriyel robotlar ve bilgisayar destekli tasarım gibi fabrika aygıtlarının yanı sıra kişisel bilgisayarlar gibi genel amaçlı aygıtlar ve akıllı telefonlar gibi mobil cihazlar da dahildir. Bilgisayarlar, milyarlarca başka bilgisayar ve kullanıcıyı birbirine bağlayan internete de (genel ağ) güç sağlar.
+Tarihteki ilk bilgisayarlar, sadece hesaplamalar için kullanılırdı. Abaküs gibi basit elle işletilen mekanik araçlar, eski zamanlardan beri insanların hesaplama yapmasına yardımcı olmuştur. Sanayi Devrimi'nin başlarında, dokuma tezgâhları için gerekli olan kılavuz desenler gibi uzun sıkıcı görevleri otomatikleştirmek için bazı mekanik aygıtlar geliştirildi. Daha karmaşık elektrikli makineler, 20. yüzyılın başlarında özel eş hesaplamalar yaptı. İlk dijital elektronik hesap makinesi ise II. Dünya Savaşı sırasında geliştirildi. 1940'ların sonundaki ilk yarı iletken transistörleri, 1950'lerin sonlarında silisyum temelli MOSFET (MOS transistör) ve monolitik bütünleşmiş devre (IC) gibi çip teknolojileri izledi ve 1970'lerde mikroişlemci ve mikrobilgisayar devrimine yol açtı. Bilgisayarların hızı, gücü ve çok yönlülüğü, transistör sayılarının hızla artmasıyla (Moore yasasının öngördüğü gibi) o zamandan beri çarpıcı bir şekilde artmaktadır ve 20. yüzyılın sonları ile 21. yüzyılın başlarında Sayısal Devrim'e yol açmıştır.
+Geleneksel olarak, çağdaş bir bilgisayar en az bir işlem öğesinden, tipik olarak bir mikroişlemci biçiminde bir merkezî işlem biriminden (CPU), bir tür bilgisayar belleğinden ve tipik olarak yarı iletken bellek yongalarından oluşur. İşlem öğesi, aritmetik ve mantıksal işlemleri gerçekleştirir ve bir sıralama ve denetleme birimi, saklanan bilgilere yanıt olarak işlemlerin sırasını değiştirebilir. Çevresel aygıtlar arasında giriş aygıtları (klavyeler, fareler, oyun çubuğu vb.), çıktı aygıtları (monitörler, yazıcılar vb.) ve her iki işlevi de yerine getiren giriş/çıkış aygıtları (ör. 2000'li yılların dokunmatik ekranı) bulunur. Çevresel aygıt, bilgilerin dış bir kaynaktan alınmasına izin verir ve işlemlerin sonucunun kaydedilmesini ve alınmasını sağlar.
+
+
+== Etimoloji ==
+Oxford English Dictionary'e göre, bilgisayarın bilinen ilk kullanımı İngiliz yazar Richard Brathwait'in 1613 tarihli The Yong Mans Gleanings adlı kitabındaydı: "I haue [sic] read the truest computer of Times, and the best Arithmetician that euer [sic] breathed, and he reduceth thy dayes into a short number." Terimin bu kullanımı, bir insan bilgisayarı, hesaplamaları veya hesaplamaları yapan bir kişiyi ifade eder. Sözcük 20. yüzyılın ortalarına kadar aynı anlamda devam etmiştir. Bu dönemin ikinci yarısında kadınlar, erkek meslektaşlarından daha az ücret alabilecekleri için genellikle bilgisayar olarak işe alındı. 1943'te insan bilgisayarlarının çoğu kadındı.
+Türkçe "bilgisayar" sözcüğünün kökeni ise, Türk bilgisayar mühendisi ve dilbilimci Aydın Köksal tarafından bilgi + say + -ar köklerinden türetilmiştir.
+
+
+== Tarihçe ==
+
+
+=== 20. yüzyıl öncesi ===
+
+Cihazlar, çoğunlukla parmaklarla birebir örten fonksiyon kullanılarak binlerce yıldır hesaplamaya yardımcı olmak için kullanılmıştır. En eski sayma cihazı ise muhtemelen bir tür çetele çubuğuydu. Daha sonra, Bereketli Hilal boyunca kayıt tutma araçları, içi boş kil kaplarda mühürlenmiş, muhtemelen çiftlik hayvanları veya tahıllar gibi ögeleri temsil eden taşları (kil küreler, koniler, vb.) içeriyordu. Sayma çubuklarının kullanımı buna bir örnektir.
+Abaküs ise başlangıçta aritmetik görevler için kullanılmıştır. Roma abaküsü, MÖ 2400 gibi erken bir tarihte Babil'de kullanılan cihazlardan geliştirildi. O zamandan beri, birçok çeşitte hesap tahtaları veya tabloları icat edilmiştir. Bir Orta Çağ Avrupası sayım evinde, bir masanın üzerine kareli bir bez konur ve para miktarlarını hesaplamaya yardımcı olmak için işaretler belirli kurallara göre üzerinde hareket ettirilirdi. Derek J. de Solla Price'a göre Antikythera düzeneğinin bilinen en eski mekanik analog bilgisayar olduğuna inanılıyor.
+Astronomik ve navigasyon kullanımı için hesaplama ve ölçüm için birçok mekanik yardımcı yapılmıştır. Planisfer, 11. yüzyılın başlarında Bîrûnî tarafından icat edilen bir yıldız haritasıydı. Usturlap, Helenistik dönemde MÖ 1. veya 2. yüzyıllarda icat edildi ve genellikle Hipparkos'a atfedilir. Planisfer ve dioptra'nın bir kombinasyonu olan usturlap, küresel astronomide birkaç farklı problem türünü çözebilen bir analog bilgisayardı. Mekanik bir takvim bilgisayarı ve dişli çarkları içeren bir usturlap, 1235'te İran'ın İsfahan kentinden Abi Bakr tarafından icat edildi. Bîrûnî, ilk mekanik dişli ay-güneş takvimi usturlabını, bir dişli takımı ve dişli çarkları olan, erken dönem sabit kablolu bilgi işleme makinesini icat etti.
+
+
+=== İlk bilgisayarlar ===
+
+İngiliz makine mühendisi ve bilgin Charles Babbage, programlanabilir bir bilgisayar kavramını ortaya çıkardı. "Bilgisayarın babası" olarak kabul edilen, 19. yüzyılın başlarında ilk mekanik bilgisayarı kavramsallaştırdı ve icat etti. 1833'te seyir hesaplamalarına yardımcı olmak için tasarlanan devrim niteliğindeki fark motoru üzerinde çalıştıktan sonra, çok daha genel bir tasarımın, bir Analitik Makinenin mümkün olduğunu fark etti. Programların ve verilerin girişi, o zamanlar Jakar gibi mekanik dokuma tezgahlarını yönlendirmek için kullanılan bir yöntem olan delikli kartlar aracılığıyla makineye sağlanacaktı. Çıktı için makinede bir yazıcı, bir eğri çizici ve bir zil bulunur. Makine ayrıca daha sonra okunmak üzere kartların üzerine sayıları da basabilecektir. Ayrıca makine, bir aritmetik mantık birimi, koşullu dallanma ve döngüler biçimindeki kontrol akışı ve entegre belleği bir araya getirerek, onu modern terimlerle Turing-tamamlanmış olarak tanımlanabilecek genel amaçlı bir bilgisayar için ilk tasarım haline getirdi.
+
+
+=== Dijital bilgisayarlar ===
+
+
+==== Elektromekanik ====
+
+1938'de Amerika Birleşik Devletleri Donanması, bir denizaltıda kullanılabilecek kadar küçük bir elektromekanik analog bilgisayar geliştirdi. Bu, hareketli bir hedefe bir torpido ateşleme problemini çözmek için trigonometri kullanan Torpido Veri Bilgisayarıydı. II. Dünya Savaşı sırasında diğer ülkelerde de benzer cihazlar geliştirilmiştir.
+
+
+=== Modern bilgisayarlar ===
+
+
+== Ayrıca bakınız ==
+
+Bilgisayar bilimi
+Bilgisayar bilimi tarihi
+İnsan-bilgisayar etkileşimi
+
+
+== Kaynakça ==
+
+
+===== Programlama =====
+
+Programlama ya da diğer adı ile yazılımlama (İngilizce: programming), bilgisayarın donanıma nasıl davranacağını anlatan, bilgisayara yön veren komutlar, kelimeler, aritmetik işlemlerdir. Diğer bir tanımla programlama, bilgisayar programlarının yazılması, test edilmesi ve bakımının yapılması sürecine verilen isimdir.
+Programlama, bir programlama dilinde yapılır. Bu programlama dili Java ve C# gibi yüksek seviyede bir dil olabileceği gibi C, assembly ve bazı durumlarda makine dili de olabilir. Yazılan kaynak kodu genellikle bir derleyici ve bağlayıcı yardımıyla belirli bir sistemde çalıştırılabilir hale getirilir. Ayrıca kaynak kodu, bir yorumlayıcı yardımıyla derlemeye gerek duyulmadan satır satır çalıştırılabilir. Derleyici, yazılan programları okuyup içerisinde mantıksal veya yazımsal hatalar olup olmadığını bulan, bulduğu hataları kullanıcıya göstererek programın düzeltilmesine yardım eden, hata yoksa programı çalıştırıp sonucunu gösteren, ayrıca çeşidine göre pek çok başka özelliği barındırabilen (bir değişkenin üzerine fare ile gelindiğinde değişkenin özelliklerini gösterme, fonksiyonun üzerine gelindiğinde kod içerisinde fonksiyonu bulup yazıldığı satıra gidebilme, kodların daha kolay okunabilmesi için etiketler yardımıyla kodları toparlayacak bölgeler oluşturabilme vb.) birer platformdur.
+Programcılar genelde programlamayı gerçek hayata benzetirler. Bir program yazmak veya bir problemi çözmek için öncelikle komutları unutmak ve çözümü gerçek hayatta yapıyormuş gibi düşünmek gerekir. Onlara göre komutlar sadece araçtır.
+
+
+== Programlamanın Önemi ==
+Proglamlama veya yazılım günlük hayatta oldukça işlevseldir.Örneğin bilgisiyar,telefon ve diğer devre kart benzerilerin işlevselliği için programlanır, aynı zamanda bireyin işlerin kolaylaştırmasına ve hızlıca çözüme ulaşmasına katkıda bulunur.Genelde iş dünyasında üretkenliği ve çalışma performansını üst düzeye taşır.Birçok insan kendi PCB kartına sahip(baskı kartı) olan insanlar internetten açık kaynaklı kodlara erişerek(veya kendi yazar)kendi devre kartını yaparak birçok proje yapılabilir imkanı sağlar, örneğin birey kendi DIY (ing "Do İt Yourself") yani "kendin yap" adı altında bireyin kendi imkanlarıyla devre kart programlayabilir.
+
+
+== Programcılığın katkıları ==
+Bilgisiyar programcılığın katkıları genelde bireyin, düşünmesine, çözüm bulmasına ve yazılımcının üretkenliğini arttırmaya  ve stratejik düşünmesine sağlar.
+
+
+== Programlama dilleri Örnekleri ==
+
+
+=== Python ===
+python,yapısı gereği hızlı, basit, sade ve kullanıcı dostu olmasıyla hatırlanır.basit işlemler için idealdir.python'da nesneye yönelik programlama yani OOP bulunur ve bu da python'nun ünlenmesine yardımcı oldu, aynı zamanda python yorumlayıcı bir dildir.
+
+
+=== Java ===
+java yapısı gereği ortalama bir hızda olup aynı zamanda derleyici bir dildir, genelde java her yerde olunması ve yüksek seviyeli olmasıyla oldukça beğenilen bir programlama dilidir.genelde bazı bireyler için java zor olabilir, zor ve yüksek seviyeli bir dil olduğundan dolayı öğrenim açısından yazılımcılığa yeni başlayan bireylere önerilmez.
+
+
+=== C++ ===
+C++ kullanıcıları zorlayan, anlaşılması zor olan ve derleyici olmasıyla bilinir,C programlama dilinin bir üst versiyonudur ve C de olamayan özellikler C++ da bulunur ancak arasında neredeyse çok bir fark yoktur.C++ en çok işletim sistemlerinde kullanılır.
+
+
+== Kaynakça ==
+
+
+===== Python =====
+
+Python, nesne yönelimli, yorumlamalı, birimsel (modüler) ve etkileşimli yüksek seviyeli bir programlama dilidir.
+Girintilere dayalı basit söz dizimi, dilin öğrenilmesini ve akılda kalmasını kolaylaştırır. Bu da ona söz diziminin ayrıntıları ile vakit yitirmeden programlama yapılmaya başlanabilen bir dil olma özelliği kazandırır.
+Modüler yapısı, sınıf dizgesini (sistem) ve her türlü veri alanı girişini destekler. Hemen hemen her türlü platformda çalışabilir (Unix, Linux, Mac, Windows, Amiga, Symbian). Python ile sistem programlama, kullanıcı arabirimi programlama, ağ programlama, web programlama, uygulama ve veritabanı yazılımı programlama gibi birçok alanda yazılım geliştirebilirsiniz. Büyük yazılımların hızlı bir şekilde prototiplerinin üretilmesi ve denenmesi gerektiği durumlarda da C ya da C++ gibi dillere tercih edilir.
+Python 1980'lerin sonunda ABC programlama diline alternatif olarak tasarlanmıştı. Python 2.0, ilk kez 2000 yılında yayınlandı. 2008'de yayınlanan Python 3.0, dilin önceki versiyonuyla tam uyumlu değildir ve Python 2.x'te yazılan kodların Python 3.x'te çalışması için değiştirilmesi gerekmektedir. Python 2 versiyonun resmi geliştirilme süreci, dilin son sürümü olan Python 2.7.x serisi versiyonların ardından 1 Ocak 2020 itibarıyla resmi olarak sona erdi. Python 2.x geliştirilme desteğinin sona ermesinin ardından, Python dilinin 3.7.x ve sonraki sürümlerinin geliştirilmesi devam etmektedir.
+
+
+== Geçmiş ==
+
+Geliştirilmeye 1990 yılında Guido van Rossum tarafından Amsterdam'da başlanmıştır. Adını sanılanın aksine bir yılandan değil Guido van Rossum'un çok sevdiği, Monty Python adlı altı kişilik bir İngiliz komedi grubunun Monty Python’s Flying Circus adlı gösterisinden almıştır. Günümüzde Python Yazılım Vakfı çevresinde toplanan gönüllülerin çabalarıyla sürdürülmektedir. Python 1.0 sürümüne Ocak 1994'te ulaşmıştır. 2.0 sürümü 16 Ekim 2000'de yayınlanmıştır. 3 Aralık 2008 tarihinden itibaren 3.x serisi yayınlanmaya başlamıştır; ancak 3.x serisi 2.x serisiyle uyumlu değildir.
+
+
+== Kullanım ==
+
+Django, Zope uygulama sunucuları, YouTube ve orijinal BitTorrent istemcisi Python kullanan önemli projelerden bazılarıdır. Ayrıca Google, NASA ve CERN gibi büyük kurumlar da Python kullanmaktadır. Pygame ile 2D oyun yapılabilir, Blockchain uygulamaları kodlanabilir, uzaktan kontrol veya görüntü işleme yapılabilir, veri analizi veya veri kontrolü yapılabilir, TensorFlow, PyTorch, Keras gibi kütüphanlerle derin makine öğrenmesi uygulamaları yapılabilir.
+Aynı zamanda Python Siber Güvenlik için çok kullanışlı bir programlama dilidir. Kötü amaçlı yazılım analizi ve sızma testi dahil olmak üzere birçok siber güvenlik işlevini yerine getirebilir.
+Ayrıca OpenOffice.org, GIMP, Inkscape, Blender, Scribus ve Paint Shop Pro gibi bazı programlarda betik dili olarak kullanılır.
+Pek çok Linux dağıtımında ve Apple macOS işletim sisteminde Python öntanımlı bir bileşen olarak gelir.
+
+
+== Söz dizimi ==
+
+Python'un son derece kolay okunabilir olması düşünülmüştür. Bu yüzden örneğin küme parantezleri yerine girintileme işlemi kullanılır. Hatta bazı durumlarda girintileme işlemine dahi gerek kalmadan kodun ilgili bölümü tek satırda yazılabilir. Böylece Python, program kodunuzu en az çaba ile ve hızlıca yazmanıza imkân tanır. Sade sözdizimi ile diğer programlama dillerinden üstündür.
+
+
+=== Girintileme ===
+
+Python'da ifade bloklarını sınırlandırmak için süslü ayraçlar ya da anahtar kelimeler yerine beyaz boşluk girintileme kullanılır. Belli ifadelerden sonra girinti artar; girintinin azalması geçerli blokun sonlandığını gösterir.
+
+
+=== İşleçler ===
+* işleci, çarpma işlemleri için
+/ işleci, bölme işlemleri için
+// işleci, tam sayı bölme işlemleri için
++ işleci, toplama işlemleri için
+- işleci, çıkarma işlemleri için
+% işleci, mod alma işlemleri için
+< işleci, 'küçüktür' anlamına gelir
+> işleci, 'büyüktür' anlamına gelir
+== işleci, 'eşittir' anlamına gelir
+<= işleci, 'küçük eşittir' anlamına gelir
+>= işleci, 'büyük eşittir' anlamına gelir
+!= işleci, 'eşit değil' anlamına gelir
+** işleci, 'üs alma' anlamına gelir
+True işleci, 'doğru' anlamına gelir
+False işleci, 'yanlış' anlamına gelir
+and işleci, 've' anlamına gelir
+or işleci, 'veya' anlamına gelir
+not işleci, 'değil' anlamına gelir.
+
+
+=== İfadeler ve akış kontrolü ===
+Python ifadeleri şunları içerir:
+
+if ifadesi, bir kod blokunu belli bir koşula bağlı olarak, else ve elif (else-if'in kısaltılması) ile birlikte çalıştırır.
+for ifadesi, yinelenebilir bir nesne üzerinden yineleme yapar, bu sırada ilgili bloktaki her ögeyi bir yerel değişkene atar.
+while ifadesi, koşulu doğru olduğu sürece o kod bloğunu çalıştırır.
+try ifadesi, eklenmiş kod bloğundan dolayı oluşan hataları yakalar ve except maddeleriyle; ayrıca finally blokundaki temizleme kodunun blok nasıl sonlanırsa sonlansın çalıştırılmasını sağlar.
+class ifadesi, bir kod blokunu çalıştırır ve onun yerel ad alanını bir sınıfa atar, bu sayede o sınıf Nesne Yönelimli Programlamada kullanılabilir.
+def ifadesi ile fonksiyon tanımlanır.
+with ifadesi, bir kod blokunu bir içerik yöneticisine hapseder (örneğin bir kod bloku çalışıtırılmadan önce bir kilit edinir ve sonrasında bu kilidi çözer)
+break ifadesi, döngüyü durdurur.
+continue ifadesi, döngüde geçerli değeri atlar ve sonrakinden devam eder break ifadesinden farklı olarak döngüyü durdurmaz.
+del ifadesi, nesneleri silmek için kullanılır.
+pass ifadesi, bir NOP görevi görür ve geçici kod bloku yerine kullanılabilir.
+assert ifadesi hata ayıklamada koşulları kontrol etmek için kullanılır.
+return ifadesi, fonksiyondan değer döndürür ve fonksiyonu sonlandırır.
+yield ifadesi, fonksiyondan değer döndürmek için kullanılır. return ifadesinden farklı olarak çalıştıktan sonra fonksiyonu sonlandırmaz. Fonksiyonun sonuna kadar devam eder.
+print ifadesi, bir ekrana yazdırma görevi görür. Bu ifade Python 3 sürümüyle birlikte print() fonksiyonu ile değiştirildi.
+import ifadesi, modülleri içe aktarmak için kullanılır.
+from ifadesi, modülün belli bir kısmını içe aktarmak için kullanılır
+as ifadesi, import ve from ifadelerini içe aktarırken modüllere takma ad vermek için kullanılır.
+Her ifadenin kendi sözdizimi vardır, örneğin def ifadesi diğer ifadelerin genelinin aksine blokunu anında çalıştırmaz.
+
+
+=== Metotlar ===
+Nesneler üzerindeki metotlar nesnenin sınıfına eklenmiş fonksiyonlardır; örnek.metod(değişken) sözdizimi, normal metot ve fonksiyonlar için Sınıf.metod(örnek, değişken) ifadesi için bir sözdizimsel şekerdir. Python metotlarının örnek verisine ulaşmaları için açık self parametresine sahip olmaları gerekir. Bu durum Java, C++, Ruby gibi bazı diğer nesne tabanlı programlama diliyle farklılık gösterir.
+
+
+== Standart kütüphane ==
+Python'un çok büyük bir standart kütüphanesi 30 Mart 2020 tarihinde Wayback Machine sitesinde arşivlendi. vardır. Bu, dilin artı özelliklerinden biri olarak kabul edilir.
+
+
+== Örnekler ==
+Python 3 ve üstü sürümler için uygundur.
+
+
+=== Merhaba dünya ===
+
+
+=== Yorum satırları ===
+
+
+=== Girdi alma ve ekrana basma ===
+
+
+=== Palindromik sayı kontrolü ===
+
+
+== Veri Tipleri ==
+
+
+== Sürüm Geçmişi ==
+
+
+== İsim Kaynağı ==
+Python'un ismi, dilin yaratıcısı olan Guido van Rossum'un dili geliştirirken keyif aldığı İngiliz komedi grubu Monty Python'dan gelmektedir. Monty Python'a ait birçok atıf Python kodunda ve kültüründe sıklıkla görülebilir. Örneğin, Python literatüründe sıklıkla kullanılan metasentaktik değişkenler, diğer dillerde bulunan geleneksel “foo” ve “bar” yerine “spam” ve “eggs” olarak geçer. Resmi Python belgeleri ayrıca Monty Python rutinlerine çeşitli referanslar içerir. Py- ön eki, bir şeyin Python ile ilgili olduğunu göstermek için kullanılır. Python uygulamalarının veya kitaplıklarının adlarında bu ön ekin kullanımına için Pygame, Qt ve GTK'yi Python'a bağlayan PyQt ve PyGTK ve orijinal olarak Python dilinde yazılmış bir Python uygulaması olan PyPy bunlara örnek olarak verilebilir.
+
+
+== Popülerlik ==
+2003 yılından itibaren PythonTIOBE Programlama Topluluğu Endeksi'nde en popüler 10 programlama dili arasında istikrarlı bir şekilde yer alırken, Ekim 2021 itibarıyla Java ve C programlama dillerini geçerek en popüler dil konumunda bulunmaktadır. 2007, 2010, 2018 and 2020 yıllarında ise bir yıl içerisindeki en yüksek kademe artışı çatısı altında “Yılın Programlama Dili” seçilmiştir ve bunu 4 kez yapabilen tek dildir.
+Deneysel bir akademik çalışma, Python gibi komut dosyası yazma dillerinin, dize işlemeyi ve sözlükte aramayı içeren programlama sorunları için C ve Java gibi geleneksel dillerden daha üretken olduğunu raporlamış, bellek tüketiminin genellikle "Java'dan daha verimli ve C veya C++'dan çok daha verimsiz” olmadığını saptamıştır.
+Python kullanan büyük kuruluşlar arasında Wikipedia, Google, Yahoo! CERN, NASA, Facebook, Amazon, Instagram ve Spotify gibi bazı kuruluşlar yer almaktadır. Sosyal haber ağı sitesi Reddit, çoğunlukla Python ile yazılmıştır.
+
+
+== Python'dan Etkilenen Programlama Dilleri ==
+Python programlama dilinin tasarımı ve felsefesi, diğer birçok programlama diline de ilham vermiş veya bu dillere etki etmiştir:
+
+Boo, benzer bir girintileme, sözdizimi ve nesne modeli kullanır.
+Cobra, benzer bir girintileme ve sözdizimi kullanır ve “Teşekkürler” kısmında bu dilin gelişimine ilham olan diller arasında Python ilk sırada yer alır.
+JavaScript ile çapraz derlenen bir programlama dili olan CoffeeScript, Python'dan ilham almış bir sözdizimine sahiptir.
+ECMAScript/JavaScript, Python'dan yineleyiciler ve oluşturucular ödünç almıştır.
+Python'a çok benzeyen bir betik dil olan GDScript, Godot oyun motoruna yerleştirilmiştir.
+Go, "Python gibi dinamik bir dilde çalışma hızı" ve dizileri dilimlemek için aynı sözdizimini paylaşması için tasarlanmıştır.
+Groovy, Python tasarım felsefesini Java'ya getirme motivasyonuyla geliştirilmiştir.
+Julia, “genel programlama için Python kadar kullanılabilir” olma hedefiyle tasarlanmıştır.
+Nim, girintileme ve benzer sözdizimi kullanır.
+Ruby'nin yaratıcısı Yukihiro Matsumoto Ruby'in gelişimine yönelik şunları ifade etmiştir: "Perl'den daha güçlü ve Python'dan daha nesne yönelimli bir betik dil hedefliyordum. Bu yüzden kendi dilimi tasarlamaya karar verdim."
+Apple tarafından geliştirilen bir programlama dili olan Swift, Python'dan ilham alan bir sözdizimine sahiptir.
+Python'un geliştirme uygulamaları diğer diller tarafından da taklit edilmiştir. Örneğin, Python'da “PEP” olarak geçen, bu dile yönelik bir değişikliğin gerekçesini ve bununla ilgili konuları açıklayan belge talep etme uygulaması, Tcl, Erlang, ve Swift'de de kullanılmaktadır.
+
+
+== Ayrıca bakınız ==
+PyTorch
+Python Imaging Library
+Pygame
+Tkinter
+ScientificPython
+Perl
+Kivy
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+Python Programlama Dili - Python 3 için Türkçe Kaynak 27 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi.
+Python programlama dili resmi sitesi17 Nisan 2018 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+www.learningpython.com 21 Temmuz 2014 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+
+
+===== JavaScript =====
+
+JavaScript (genellikle JS olarak kısaltılır), HTML ve CSS ile birlikte World Wide Web'in temel teknolojilerinden biri olan programlama dilidir. Web sitelerinin %97'sinden fazlası, web sayfası hareketleri için istemci tarafında JavaScript kullanırlar  ve kullanılan kodlar genellikle üçüncü taraf kitaplıkları içerir. Tüm büyük web tarayıcılarında, kaynak kodunu kullanıcıların cihazlarında yürütebilmek için özel bir JavaScript motoru bulunur.
+JavaScript, ECMAScript standardına uyan, genellikle eş zamanlı olarak derlenmiş, üst düzey bir dildir. Dinamik yazma, prototip tabanlı obje yönelimi ve birinci sınıf işlevlere sahiptir. Olay odaklı, işlevsel ve zorunlu programlama stillerini destekleyen çoklu paradigmadır. Metin, tarihler, düzenli ifadeler, standart veri yapıları ve Belge Obje Modeli (DOM) ile çalışmak için uygulama programlama arayüzlerine (API'ler) sahiptir.
+ECMAScript standardı, ağ oluşturma, depolama veya grafik olanakları gibi herhangi bir giriş/çıkış (I/O) içermez. Pratikte, web tarayıcısı veya diğer çalıştırma ortamları, I/O için JavaScript API'leri sağlarlar.
+JavaScript motorları başlangıçta yalnızca web tarayıcılarında kullanılıyordu, ancak günümüzde bazı sunucuların ve çeşitli uygulamaların da temel bileşenleridir. Bu kullanım için en yaygın çalışma zamanı sistemi Node.js'dir.
+Java ve JavaScript'in ad, sözdizimi ve ilgili standart kitaplıklar açısından benzerlikleri olsa da, iki dil birbirinden farklıdır ve tasarım açısından da büyük farklılıklar gösterir.
+
+
+== Tarihçe ==
+
+
+=== Netscape'te Oluşturma ===
+Grafik kullanıcı arayüzüne sahip ilk web tarayıcısı Mosaic, 1993 yılında piyasaya sürüldü. Teknik bilgisi olmayan kişilerin erişebildiği, yeni ortaya çıkan World Wide Web'in hızlı büyümesinde önemli bir rol oynamıştır. Mosaic'in önde gelen geliştiricileri daha sonra 1994'te daha parlak bir geleceği olduğu düşünülen Netscape Navigator tarayıcısını piyasaya süren Netscape şirketini kurdular. Netscape Navigator hızla en çok kullanılan tarayıcı haline geldi.
+Web'in yeni şekillenmeye başladığı bu yıllarda, web sayfaları yalnızca statik olabilirdi ve sayfa tarayıcıya yüklendikten sonra dinamik davranış yeteneğinden de yoksundu. Gelişen web geliştirme sahnesinde, programlamacıların bu sınırlamanın kaldırılmasına yönelik istekleri vardı, bu nedenle 1995'te Netscape, Navigator'a bir komut dosyası dili eklemeye karar verdi. Bunu başarmak için iki yol izlediler: Java programlama dilini yerleştirmek için Sun Microsystems ile iş birliği yaparken, aynı zamanda Scheme dilini yerleştirmek için de Brendan Eich'i işe aldılar.
+Netscape yönetimi kısa süre sonra Eich için en iyi seçeneğin Java'ya benzer ve daha az Scheme veya diğer mevcut komut dosyası dillerine benzeyen yeni bir dil tasarlamak olduğuna karar verdi. Eylül 1995'te Navigator beta'nın bir parçası olarak ilk sunulduğunda, eklenen yeni dil ve yorumlayıcı uygulaması LiveScript olarak adlandırılsa da, Aralık ayında resmi sürüm için adı JavaScript olarak değiştirildi.
+JavaScript adının seçimi, doğrudan Java ile ilgili olduğu imâ edilerek kafa karışıklığına neden oldu. O zamanlar dot-com balonu patlamıştı ve Java henüz yeni bir programlama dili idi, bu nedenle Eich, JavaScript adını Netscape'in bir pazarlama taktiği olarak gördü.
+
+
+=== Microsoft tarafından benimsenmesi ===
+Microsoft, 1995 yılında Internet Explorer'ı piyasaya sürerek Netscape ile bir tarayıcı savaşına yol açtı. JavaScript cephesinde, Microsoft, JScript adlı kendi yorumlayıcısını oluşturmak için Navigator yorumlayıcısında tersine mühendislik yaptı.
+JScript ilk olarak 1996'da, CSS için ilk ve HTML uzantıları ile birlikte piyasaya sürüldü. Bu uygulamaların her biri, Navigator'daki benzerlerinden belirgin şekilde farklıydı. Bu farklılıklar, geliştiricilerin web sitelerinin her iki tarayıcıda da sağlıklı şekilde çalışmasını zorlaştırdı ve birkaç yıl boyunca "En iyi Netscape'te görüntülenir" ve "En iyi Internet Explorer'da görüntülenir" şeklinde logoların yaygın olarak kullanılmasına yol açtı.
+
+
+=== JScript'in yükselişi ===
+Kasım 1996'da Netscape, JavaScript'i Ecma International'a tüm tarayıcı satıcılarının uyabileceği standart bir belirtimin başlangıç noktası olarak sundu. Bu, Haziran 1997'de ilk ECMAScript dil spesifikasyonunun resmî olarak yayınlanmasına yol açtı.
+Standartlar süreci, ECMAScript 2'nin Haziran 1998'de ve ECMAScript 3'ün Aralık 1999'da piyasaya sürülmesiyle birkaç yıl boyunca devam etti. ECMAScript 4 üzerindeki çalışmalar ise 2000 yılında başladı.
+Bu arada Microsoft, tarayıcı pazarında giderek daha baskın bir konuma geldi. 2000'lerin başında, Internet Explorer'ın pazar payı %95'e ulaştı. Bu durum, JScript'in Web'de istemci tarafı komut dosyası oluşturmak için gerçek bir standart haline geldiği anlamını taşıyordu.
+Microsoft başlangıçta standartlar sürecine katıldı ve bazı önerileri kendi JScript dilinde uyguladı, ancak sonunda Ecma çalışması üzerinde iş birliğini durdurdu. Böylece ECMAScript 4 yenilmiş oldu.
+
+
+=== Büyüme ve standardizasyon ===
+2000'lerin başında Internet Explorer'ın hakimiyeti döneminde, istemci tarafı komut dosyası oluşturma yöntemi oldukça durgundu. Bu, Netscape'in halefi Mozilla'nın Firefox tarayıcısını piyasaya sürdüğü 2004 yılında değişmeye başladı. Firefox birçok kişi tarafından iyi bir şekilde karşılandı ve Internet Explorer'dan önemli bir pazar payını kendisine aldı.
+2005 yılında Mozilla, ECMA International'a katıldı ve ECMAScript for XML (E4X) standardı üzerinde çalışmaya başladı. Bu, Mozilla'nın bir ECMAScript 4 taslağına dayanan ActionScript 3 dilinde E4X'i uygulayan Macromedia (daha sonra Adobe Systems tarafından satın alındı) ile ortak olarak çalışmasına yol açtı. Hedef, ActionScript 3'ü yeni ECMAScript 4 olarak standart hale getirmekti. Bu amaçla Adobe Systems, Tamarin uygulamasını açık kaynaklı bir proje olarak yayınladı. Ancak, Tamarin ve ActionScript 3, yerleşik istemci tarafı komut dosyası oluşturmaktan çok farklıydı ve Microsoft'un iş birliği olmadan, ECMAScript 4 hiçbir zaman istenen sonuçları vermedi.
+Bu arada, ECMA çalışmasına bağlı olmayan açık kaynak topluluklarında çok önemli gelişmeler yaşanıyordu. 2005'te Jesse James Garrett, Ajax terimini türettiği ve verilerin arka planda yüklenebileceği web uygulamaları oluşturmak için JavaScript'in omurgası olduğu bir dizi teknolojiyi tanımladığı ve tam sayfa gereksinimini ortadan kaldırdığı bir WhiteBook yayınladı. Bu, açık kaynak kitaplıkların ve onların etrafında oluşan toplulukların öncülük ettiği bir JavaScript rönesans dönemini ateşledi. jQuery, Prototype, Dojo Toolkit ve MooTools dâhil olmak üzere birçok yeni kitaplık oluşturuldu.
+Google, Chrome tarayıcısını 2008'de rakiplerinden daha hızlı olan V8 JavaScript motoruyla piyasaya sürdü. En önemli yenilik tam zamanında derlemeydi (JIT), bu nedenle diğer tarayıcı satıcılarının motorlarını JIT için elden geçirmeleri gerekiyordu.
+Temmuz 2008'de, bu farklı taraflar Oslo'da bir konferans için bir araya geldi. Bu birleşme, konuyla ilgili tüm çalışmaları birleştirmek ve dili ileriye taşımak için 2009 başlarında nihai anlaşmaya yol açtı. Sonucu ise Aralık 2009'da yayınlanan ECMAScript 5 standardıydı.
+
+
+=== Olgunluğa ulaşması ===
+Dil üzerinde iddialı çalışmalar birkaç yıl boyunca devam etti ve 2015 yılında ECMAScript 6'nın yayınlanmasıyla resmîleştirilen kapsamlı bir ekleme ve iyileştirme derlemesiyle sonuçlandı.
+Node.js'nin 2009 yılında Ryan Dahl tarafından oluşturulması, JavaScript'in web tarayıcıları dışında kullanımında önemli bir artışa yol açtı. Node, V8 motorunu, bir olay döngüsünü ve I/O API'lerini birleştirerek bağımsız bir JavaScript çalışma zamanı sistemi sağlamaktaydı. 2018 itibarıyla, Node milyonlarca geliştirici tarafından kullanılıyordu  ve npm dünyadaki herhangi bir paket yöneticisinden çok daha fazla modüle sahipti.
+ECMAScript taslak belirtimi şu anda GitHub'da herkese açık bir şekilde korunmaktadır ve sürümler düzenli şekilde yıllık anlık görüntüler aracılığıyla üretilmektedir. Dildeki olası revizyonlar, kapsamlı bir teklif süreciyle incelenir. Artık, sürüm numaraları yerine geliştiriciler, gelecek özelliklerin durumunu tek tek kontrol etmektedirler.
+Mevcut JavaScript ekosisteminde bulunan birçok kitaplık ve çerçevenin, bazıları yerleşik programlama uygulamaları ve web tarayıcılarının dışında JavaScript'in farklı kullanım alanları için oluşturulmuştur. Ayrıca, tek sayfalık uygulamaların ve diğer JavaScript ağırlıklı web sitelerinin artmasıyla birlikte, geliştirme sürecine yardımcı olmak için birkaç aktarıcı da oluşturulmuştur.
+
+
+== Ticari Marka ==
+"JavaScript" adı, Oracle Corporation'ın Amerika Birleşik Devletleri'ndeki ticari markasıdır.
+
+
+== Web sitesi istemci tarafı kullanımı ==
+JavaScript, web sitelerinin % 97'sinin bu amaçla kullandığı, Web'in baskın istemci tarafı komut dosyası dilidir. Komut dosyaları HTML belgelerine gömülür veya bunlar da dâhil edilmiş olur. Böylelikle kodlar DOM ile etkileşime girer. Tüm büyük web tarayıcılarında, kodu kullanıcının cihazında yürüten yerleşik bir JavaScript motoru bulunur.
+
+
+=== Komut dosyasıyla yazılmış davranış örnekleri ===
+Ajax veya WebSocket aracılığıyla sayfayı yeniden yüklemeden yeni web sayfası içeriği yükleme. Örneğin, sosyal medya kullanıcıları mevcut sayfadan ayrılmadan mesaj gönderip alabilir.
+Nesneleri soldurma, yeniden boyutlandırma ve taşıma gibi web sayfası animasyonları.
+Tarayıcı oyunları oynama.
+Akış ortamının oynatılmasını kontrol etme.
+Açılan (pop-up) reklamlar oluşturma.
+Veriler bir web sunucusuna gönderilmeden önce bir web formunun giriş değerlerinin doğrulanması.
+Kullanıcının davranışıyla ilgili verilerin günlüğe kaydedilmesi ve ardından bir sunucuya gönderilmesi. Web sitesi sahibi bu verileri analiz, reklam takibi ve kişiselleştirme için kullanabilir.
+Bir kullanıcıyı başka bir sayfaya yönlendirme.
+
+
+=== Kitaplıklar ve çerçeveler ===
+Web sitelerinin %80'inden fazlası, istemci tarafı komut dosyası oluşturma için bir üçüncü taraf JavaScript kitaplığı veya web çerçevesi kullanırlar.
+jQuery, web sitelerinin %75'inden fazlası tarafından kullanılan açık ara en popüler kitaplıktır. Facebook, web sitesi için React kitaplığını oluşturdu ve daha sonra bunu açık kaynak olarak yayınladı; Twitter dâhil diğer pek çok site günümüzde bunu kullanmaktadır. Aynı şekilde Google'ın YouTube ve Gmail'i de dâhil olmak üzere web siteleri için oluşturduğu Angular çerçevesi artık başkaları tarafından kullanılabilen açık kaynaklı bir projedir.
+Buna karşılık, "Vanilla JS" terimi, herhangi bir kitaplık veya çerçeve kullanmayan, bunun yerine tamamen standart JavaScript işlevselliğine dayanan web siteleri için oluşturulmuştur.
+
+
+== Diğer kullanımları ==
+JavaScript kullanımı, web tarayıcısı köklerinin ötesine geçmiştir. JavaScript motorları artık hem sunucu tarafı web sitesi dağıtımları hem de tarayıcı dışı uygulamalar için çeşitli diğer yazılım sistemlerine yerleştirilmiştir.
+Sunucu tarafı JavaScript kullanımını teşvik etmeye yönelik ilk girişimler, Netscape Enterprise Server ve Microsoft'un Internet Information Services  idi, ancak bunlar küçük özelliklerdi. Sunucu tarafı kullanımı, 2000'lerin sonlarında Node.js ve diğer yaklaşımların oluşturulmasıyla birlikte büyümeye başladı.
+Electron, Cordova, React Native ve diğer uygulama çerçeveleri, JavaScript'te uygulanan davranışla birçok uygulama oluşturmak için kullanılmıştır. Tarayıcı olmayan diğer uygulamalar, PDF belgelerini komut dosyası yazmak için Adobe Acrobat desteği  ve JavaScript ile yazılmış GNOME Shell uzantılarını içerir.
+JavaScript, son zamanlarda bazı gömülü sistemlerde, genellikle Node.js'den yararlanılarak görünmeye başladı.
+
+
+== Özellikler ==
+Aşağıdaki özellikler, aksi açıkça belirtilmediği sürece, uyumlu tüm ECMAScript uygulamaları için ortaktır.
+
+
+=== Zorunlu ve yapılandırılmış ===
+JavaScript, C'nin yapılandırılmış programlama sözdiziminin çoğunu destekler (örneğin, if ifadeleri, while döngüleri, switch ifadeleri, do while döngüleri vb.). Kısmi bir istisna kapsam belirlemedir: başlangıçta JavaScript yalnızca var ile işlev kapsamına sahipti; daha sonra ECMAScript 2015'te let ve const anahtar sözcükleriyle blok kapsamı eklendi. C gibi, JavaScript de expressionslar ve statementslar arasında bir ayrım yapar. C'den bir sözdizimsel farkı da, noktalı virgüllerin (deyimleri sonlandıran) atlanmasına izin veren otomatik noktalı virgül eklemedir.
+
+
+=== Zayıf yazılmış ===
+JavaScript zayıf yazılmıştır, bu kullanılan işleme bağlı olarak belirli türlerin dolaylı olarak yayınlandığı anlamına gelir.
+
+İkili + operatörü, her iki işlenen de sayı olmadığı sürece her iki işleneni de bir dizeye atar. Bunun nedeni, toplama operatörünün bir birleştirme operatörü olarak da kullanılmasından dolayıdır.
+İkili - işleci her zaman her iki işleneni de bir sayıya atar
+Her iki birli operatör (+, -) işleneni her zaman bir sayıya çevirir.
+Değerler aşağıdaki gibi dizgelere dönüştürülür:
+
+Dizeler olduğu gibi bırakılır
+Sayılar dize temsillerine dönüştürülür
+Dizilerin öğeleri dizelere dönüştürülür ve ardından virgül (,) ile birleştirilirler.
+Diğer objeler [object Object] dizesine dönüştürülür; burada Object, objenin yapıcısının adıdır
+Değerler, dizelere dönüştürülerek ve ardından dizeler de sayılara dönüştürülerek, sayılara dönüştürülür. Bu süreçler, sırasıyla dize ve sayı dökümü için prototip üzerinde toString ve valueOf işlevleri tanımlanarak değiştirilebilir.
+JavaScript, kuralların karmaşıklığı tutarsızlıkla karıştırılabileceğinden, bu dönüşümleri uygulama şekli nedeniyle eleştiriler almıştır. Örneğin, bir dizeye sayı eklerken, sayı birleştirme yapılmadan önce bir dizeye dönüştürülür, ancak bir dizeden bir sayı çıkarılırken, çıkarma işlemi yapılmadan önce dize bir sayıya dönüştürülür. 
+
+Genellikle, {} + [] ile sonuçlanan 0 (sayı) da belirtilir. Bu yanıltıcıdır: {} boş bir obje yerine boş bir kod bloğu olarak yorumlanır ve boş dizi kalan unary (tekli) + operatörü tarafından bir sayıya dönüştürülür. İfadeyi parantez içine alırsanız ({} + []) küme parantezleri boş bir obje olarak yorumlanır ve ifadenin sonucu beklendiği gibi "[object Object]" olur.
+
+
+=== Dinamik ===
+Yazım
+JavaScript, diğer çoğu betik dili gibi dinamik olarak yazılır . Bir tür, bir ifade yerine bir değerle ilişkilendirilir. Örneğin, başlangıçta bir sayıya bağlı olan bir değişken, bir dizgeye yeniden atanabilir. JavaScript, ördek yazımı dâhil, objelerin türünü test etmenin çeşitli yollarını destekler. 
+Çalışma zamanı değerlendirmesi
+JavaScript, çalışma zamanında dizeler olarak sağlanan ifadeler eval bir değerlendirme işlevi içerir.
+
+
+=== Nesne (Obje) yönelimi (prototip tabanlı) ===
+JavaScript'teki prototip kalıtım, Douglas Crockford tarafından şu şekilde tanımlanır: 
+EKSİK ALAN
+JavaScript'te bir obje, bir prototiple büyütülmüş bir ilişkisel dizidir (aşağıya bakın); her anahtar bir objenin özelliği için ad sağlar ve böyle bir adı belirtmenin iki sözdizimsel yolu vardır: nokta notasyonu (obj.x = 10) ve parantez gösterimi (obj['x'] = 10). Bir özellik, çalışma zamanında eklenebilir, geri tepebilir veya silinebilir. Bir objenin çoğu özelliği (ve bir objenin prototip miras zincirine ait olan herhangi bir özellik), bir for...in döngüsü kullanılarak numaralandırılabilir.
+
+Prototipler
+JavaScript, diğer birçok nesne yönelimli dilin kalıtım için sınıfları kullandığı prototipleri kullanır. JavaScript'te prototiplerle birçok sınıf tabanlı özelliği simüle etmek mümkündür.
+Obje oluşturucu olarak fonksiyonlar
+Fonksiyonlar, tipik rolleriyle birlikte obje oluşturucular olarak ikiye ayrılır. Bir fonksiyon çağrısına new ile önek eklemek, yapıcıdan özellikleri ve yöntemleri ( Object prototipinden özellikler dâhil) devralan bir prototip örneği oluşturur. ECMAScript 5, Object prototipinden otomatik olarak miras alınmadan bir örneğin açık bir şekilde oluşturulmasına izin veren Object.create yöntemini sunar (eski ortamlar prototipi null öğesine atayabilir). prototype özelliği, yeni objenin dâhili prototipi için kullanılan objeyi belirler. Yapıcı olarak kullanılan fonksiyonun prototipi değiştirilerek yeni yöntemler eklenebilir. JavaScript'in Array veya Object gibi yerleşik oluşturucuları da değiştirilebilen prototiplere sahiptir. Object prototipini değiştirmek mümkün olsa da, JavaScript'teki çoğu obje, Object prototipinden yöntemleri ve özellikleri devralacağından ve prototipin değiştirilmesini beklemeyebileceğinden, genellikle kötü uygulama olarak kabul edilirler.
+Metod olarak fonksiyonlar
+Birçok nesne yönelimli dilden farklı olarak, işlev tanımı ile metot tanımı arasında bir ayrım yoktur. Bunun yerine, fonksiyon çağrısı sırasında ayrım oluşur; Bir fonksiyon, bir objenin metodu olarak çağrıldığında, fonksiyonun yerel this anahtar sözcüğü, o çağrı için o objeye bağlanır.
+
+
+=== Fonksiyonel ===
+Bir fonksiyon birinci sınıftır ; bir fonksiyon bir obje olarak kabul edilir. Bu nedenle, bir fonksiyonun .call() ve .bind() gibi özellikleri ve metotları olabilir. İç içe fonksiyon, başka bir fonksiyon içinde tanımlanan bir fonksiyondur. Dış fonksiyon her çağrıldığında oluşturulur. Ek olarak, iç içe geçmiş her işlev sözcüksel bir kapanış oluşturur: dış işlevin sözcüksel kapsamı (herhangi bir sabit, yerel değişken veya bağımsız değişken değeri dâhil), dış işlevin yürütülmesi sona erdikten sonra bile, her bir iç fonksiyon objesinin iç durumunun bir parçası haline gelir. .  JavaScript ayrıca anonim işlevleri de destekler.
+
+
+=== Yetkilendirme ===
+JavaScript, örtük ve açık yetkilendirmeyi destekler.
+
+Rol olarak fonksiyonlar [Özellikler (Traits) ve Karışımlar (Mixins)]
+JavaScript, Traits  ve Mixins gibi Rol modellerinin çeşitli fonksiyon tabanlı uygulamalarını da yerel olarak destekler. Böyle bir fonksiyon, function gövdesi içinde this anahtar sözcüğüne bağlı en az bir yöntemle ek davranışı tanımlar. Daha sonra bir Rol, call yoluyla açıkça devredilmeli veya prototip zinciri aracılığıyla paylaşılmayan ek davranışlara sahip olması gereken objelere apply (uygulama) edilmelidir.
+Obje kompozisyonu ve kalıtım
+Açık fonksiyon tabanlı yetkilendirme JavaScript'te kompozisyonu kapsarken, örtük yetkilendirme, örneğin, bir objeyle ilgili olabilecek ancak doğrudan bir objeye ait olmayan bir metot bulmak için prototip zinciri her yürüdüğünde zaten gerçekleşir. Metot bulunduğunda, bu objenin bağlamında çağrılır. Bu nedenle JavaScript'teki kalıtım, yapıcı fonksiyonların prototip özelliğine bağlı bir yetkilendirme otomatizmi tarafından kapsanır.
+
+
+=== Çeşitli ===
+JS sıfır indeksli bir dildir.
+
+Çalışma zamanı ortamı
+JavaScript, komut dosyalarının ortamla etkileşime girebileceği objeler ve metotlar (örneğin, bir web sayfası DOM u) sağlamak için tipik olarak bir çalışma zamanı ortamına (örneğin bir web tarayıcısı ) dayanır. Bu ortamlar tek iş parçacıklıdır . JavaScript ayrıca, komut dosyalarını (örneğin, HTML <script> öğeleri) dahil etme/içe aktarma yeteneği sağlamak için çalışma zamanı ortamına da güvenir. Bu, başlı başına bir dil özelliği değildir, ancak çoğu JavaScript uygulamasında yaygındır. JavaScript, bir kuyruktan gelen mesajları birer birer işler. JavaScript, her yeni mesajla ilişkili bir fonksiyonu çağırır ve fonksiyonun bağımsız değişkenleri ve yerel değişkenlerle bir çağrı yığını (call stack) çerçevesi oluşturur. Çağrı yığını, fonksiyonun ihtiyaçlarına göre küçülür veya büyür. Fonksiyon tamamlandıktan sonra çağrı yığını boş olduğunda, JavaScript sıradaki bir sonraki mesaja ilerler. Buna olay döngüsü (event loop) denir ve "tamamlanmak için çalıştır" olarak tanımlanır, çünkü her mesaj bir sonraki mesaj dikkate alınmadan önce tamamen işlenir. Ancak, dilin eşzamanlılık modeli, olay döngüsünü engellemeyen olarak tanımlar: program girişi/çıkışı, olaylar ve geri arama işlevleri (callback fonksiyon) kullanılarak gerçekleştirilir. Bu, JavaScript'in bir veritabanı sorgusunun bilgi döndürmesini beklerken bir fare tıklamasını işleyebileceği anlamına gelir.
+Değişken (Varyadik) fonksiyonlar
+Bir fonksiyona sınırsız sayıda parametre iletilebilir. Fonksiyon bunlara biçimsel parametreler aracılığıyla ve ayrıca yerel arguments objesi aracılığıyla erişebilir. bind yöntemi kullanılarak değişken fonksiyonlar da oluşturulabilir.
+Dizi ve obje değişmezleri (literal)
+Birçok komut dosyası dili gibi, diziler ve objeler (diğer dillerdeki ilişkisel diziler ) kısa bir kısayol sözdizimi ile oluşturulabilir. Aslında, bu değişmez değerler JSON veri formatının temelini oluşturur.
+Düzenli ifadeler (Regular expressions)
+JavaScript ayrıca, yerleşik dize işlevlerinden daha karmaşık olan metin işleme için özlü ve güçlü bir sözdizimi sağlayan Perl'e benzer şekilde düzenli ifadeleri de destekler.
+Sözler (Promise) ve zaman uyumsuz/bekleme (Async/await)
+JavaScript, zaman uyumsuz işlemleri işlemek için promise ları ve Async/await destekler. Yerleşik bir Promise objesi, vaatleri işlemek ve işleyicileri eşzamansız bir eylemin nihai sonucuyla ilişkilendirmek için işlevsellik sağlar. Son zamanlarda, geliştiricilerin birden çok JavaScript promise ını birleştirmesine ve farklı senaryolara dayalı işlemler yapmasına olanak tanıyan JavaScript belirtiminde birleştirici yöntemler tanıtıldı. Tanıtılan yöntemler şunlardır: Promise.race, Promise.all, Promise.allSettled ve Promise.any. Zaman uyumsuz/bekleme, eşzamansız, engellemesiz bir işlevin sıradan bir eşzamanlı işleve benzer bir şekilde yapılandırılmasına izin verir. Asenkron, bloke edici olmayan kod, minimum ek yük ile geleneksel senkronize, bloke edici koda benzer şekilde yapılandırılabilir.
+
+
+=== Standart olmayan özellikler ===
+Tarihsel olarak, bazı JavaScript motorları bu standart olmayan özellikleri destekledi:
+
+koşullu catch cümleleri (Java gibi)
+Dizi kavrayışları (array comprehensions) ve üreteç ifadeleri (Python gibi)
+kısa fonksiyon ifadeleri (function(args) expr ; bu deneysel sözdizimi ok işlevlerinden önce gelir)
+ECMAScript for XML (E4X), ECMAScript'e yerel XML desteği ekleyen bir uzantı (sürüm 21  den beri Firefox'ta desteklenmemektedir)
+
+
+== Sözdizimi ==
+
+
+=== Basit örnekler ===
+JavaScript'teki değişkenler, var, let  veya const  anahtar sözcükleri kullanılarak tanımlanabilir.
+
+Yukarıdaki örnekte, hepsinin önünde iki eğik çizgi bulunan yorumlara dikkat edin.
+JavaScript'te yerleşik Giriş/Çıkış (I/O) işlevi yoktur; çalışma zamanı ortamı bunu sağlar. Sürüm 5.1'deki ECMAScript belirtimi şunları belirtir: aslında, bu spesifikasyonda harici veri girişi veya hesaplanan sonuçların çıkışı için herhangi bir şart yoktur.Ancak, çoğu çalışma zamanı ortamında çıktı yazdırmak için kullanılabilecek bir console objesi  bulunur. İşte JavaScript'te minimalist bir Hello World programı :HTML belgelerinde bir çıktı için bu program gereklidir:
+Basit bir özyinelemeli (recursive) fonksiyon:
+
+ya da aşağıdaki örnekte olduğu gibi faktöriyel hesaplamasını kontroller ve üçlü operatör vasıtasıyla da kullanabilirsiniz.
+
+Anonim (isimsiz) bir fonksiyon (veya lambda):
+
+Bu örnek, JavaScript'te fonksiyon kapanışlarının yerel olmayan değişkenlerini başvuru yoluyla yakaladığını gösterir.
+Ok işlevleri ilk olarak 6. Baskı - ECMAScript 2015'te tanıtıldı. JavaScript'te işlev yazmak için sözdizimini kısaltırlar. Ok işlevleri anonimdir, bu nedenle oluşturulduktan sonra onları çağırmak için bunlara başvurmak için bir değişken gerekir.
+Ok işlevi (arrow fonksiyon) örneği:
+
+JavaScript'te objeler, fonskiyonlarla aynı şekilde oluşturulur; bu nedenle ojbeler bir fonksiyon objesi olarak bilinirler.
+Obje örneği:
+
+Değişken fonksiyon gösterimi (arguments özel bir değişkendir):
+Anında çağrılan fonksiyon ifadeleri genellikle kapanışları (closures) oluşturmak için kullanılır. Kapanışlar, özelliklerin (properties) ve metotların bir ad alanında (namespace) toplanmasına ve bazılarının özel hale getirilmesine izin verir:
+
+JavaScript'te modülleri dışa ve içe aktarma 
+Export örneği:
+
+İmport örneği:
+
+
+=== Daha gelişmiş örnek ===
+
+Tarayıcı penceresinde aşağıdaki çıktı görüntülenmelidir.
+
+
+== Güvenlik ==
+
+JavaScript ve DOM, kötü niyetli yazarlara Web aracılığıyla bir istemci bilgisayarda çalıştırılacak komut dosyaları sunma potansiyeli sağlar. Tarayıcı yazarları, iki kısıtlama kullanarak bu riski en aza indirir. İlk olarak, komut dosyaları, dosya oluşturma gibi genel amaçlı programlama görevlerini değil, yalnızca Web ile ilgili eylemleri gerçekleştirebilecekleri bir sanal alanda çalışır. İkinci olarak, komut dosyaları aynı kaynak ilkesiyle sınırlandırılmıştır: bir Web sitesindeki komut dosyaları, başka bir siteye gönderilen kullanıcı adları, parolalar veya tanımlama bilgileri gibi bilgilere erişemez. JavaScript ile ilgili güvenlik hatalarının çoğu, aynı kaynak politikasının veya sanal alanın ihlali ile gerçekleşmektedir.
+Genel JavaScript'in alt kümeleri (ADsafe, Secure ECMAScript (SES)), özellikle üçüncü taraflarca oluşturulan kodlarda (reklamlar gibi) daha yüksek düzeyde güvenlik sağlar. Closure Toolkit, üçüncü taraf JavaScript ve HTML'nin güvenli bir şekilde yerleştirilmesi ve yalıtılması için başka bir projedir.
+İçerik Güvenliği Politikası, bir Web sayfasında yalnızca güvenilir kodun yürütülmesini sağlamanın ana yöntemi ve amacıdır.
+
+
+=== Siteler arası güvenlik açıkları ===
+JavaScript ile ilgili yaygın bir güvenlik sorunu, aynı kaynak ilkesinin ihlali olan siteler arası komut dosyası çalıştırmadır (XSS). XSS güvenlik açıkları, bir saldırgan çevrimiçi bankacılık web sitesi gibi hedeflenen bir Web sitesinin kurbana sunulan web sayfasına kötü amaçlı bir komut dosyası eklemesine neden olduğunda ortaya çıkar. Bu örnekteki komut dosyası daha sonra kurbanın ayrıcalıklarıyla bankacılık uygulamasına erişebilir, potansiyel olarak gizli bilgileri ifşa edebilir veya kurbanın izni olmadan para transfer edebilir. XSS güvenlik açıklarına bir çözüm, güvenilmeyen verileri görüntülerken HTML çıkışını kullanmaktır.
+Bazı tarayıcılar, saldırganın kötü amaçlı komut dosyası içeren bir URL sağladığında yansıyan XSS saldırılarına karşı kısmi koruma içerir. Ancak, bu tarayıcıların kullanıcıları bile, kötü amaçlı kodun bir veritabanında depolandığı saldırılar gibi diğer XSS saldırılarına karşı savunmasızdır. Yalnızca sunucu tarafında Web uygulamalarının doğru tasarımı XSS'yi tamamen önleyebilir.
+Tarayıcı yazarlarının uygulama hataları nedeniyle de XSS güvenlik açıkları oluşabilir.
+Bir başka siteler arası güvenlik açığı, siteler arası istek sahteciliğidir (CSRF). CSRF'de, bir saldırganın sitesindeki kod, kurbanın tarayıcısını, kullanıcının hedef sitede amaçlamadığı eylemleri gerçekleştirmesi için kandırır (bir bankada para transferi gibi). Hedef siteler, istek doğrulaması için yalnızca tanımlama bilgilerine güvendiğinde, saldırganın sitesindeki koddan kaynaklanan istekler, başlatan kullanıcının aynı geçerli oturum açma bilgilerini taşıyabilir. Genel olarak, CSRF'nin çözümü, kalıcı etkileri olabilecek herhangi bir isteğin kimliğini doğrulamak için yalnızca çerezlerde değil, gizli bir form alanında bir kimlik doğrulama değeri talep etmektir. HTTP Yönlendiren başlığını kontrol etmek de yardımcı olabilir.
+"JavaScript ele geçirme", bir saldırganın sitesindeki <script> etiketinin, kurbanın sitesinde JSON veya JavaScript gibi özel bilgiler döndüren bir sayfadan yararlandığı bir CSRF saldırısı türüdür. Olası çözümler şunları içerir:
+
+özel bilgi döndüren herhangi bir yanıt için POST ve GET parametrelerinde bir kimlik doğrulama belirteci eklemek.
+
+
+=== Müşteriye duyulan yanlış güven ===
+İstemci-sunucu uygulamalarının geliştiricileri, güvenilmeyen istemcilerin saldırganların denetimi altında olabileceğini bilmelidir. Uygulama yazarı, JavaScript kodunun amaçlandığı gibi (veya hiç) çalışacağını varsayamaz çünkü koda gömülü herhangi bir sır, belirli bir düşman tarafından ayıklanabilir. Bazı çıkarımlar şunlardır:
+
+Web sitesi yazarları, ham kaynak kodunun istemciye gönderilmesi gerektiğinden JavaScript'lerinin nasıl çalıştığını tam olarak gizleyemezler. Kod gizlenebilir, ancak şaşırtma tersine mühendislikle yapılabilir.
+JavaScript form doğrulaması güvenlik değil, yalnızca kullanıcılar için kolaylık sağlar. Bir site, kullanıcının hizmet şartlarını kabul ettiğini doğrularsa veya yalnızca sayı içermesi gereken alanlardan geçersiz karakterleri filtrelerse, bunu yalnızca istemcide değil sunucuda yapmalıdır.
+Komut dosyaları seçici olarak devre dışı bırakılabilir, bu nedenle bir görüntüyü kaydetmek için sağ tıklamak gibi işlemleri önlemek için JavaScript'e güvenilemez.
+Bir saldırgan tarafından ayıklanabileceğinden, şifreler gibi hassas bilgileri JavaScript'e gömmek çok kötü bir uygulama olarak kabul edilir.
+
+
+=== Geliştiricilere duyulan yanlış güven ===
+Npm ve Bower gibi paket yönetim sistemleri, JavaScript geliştiricileri arasında popülerdir. Bu tür sistemler, bir geliştiricinin, programlarının diğer geliştiricilerin program kitaplıklarına olan bağımlılıklarını kolayca yönetmesine izin verir. Geliştiriciler, kitaplıkların koruyucularının onları güvenli ve güncel tutacağına güvenirler, ancak bu her zaman böyle değildir. Bu kör güven nedeniyle bir güvenlik açığı ortaya çıktı. Güvenilir kitaplıklar, kitaplıklara dayanan tüm programlarda hataların veya güvenlik açıklarının ortaya çıkmasına neden olan yeni sürümlere sahip olabilir. Yani bir kitaplık vahşi doğada bilinen güvenlik açıklarıyla yamasız kalabilir. 133 bin web sitesi örneği incelenmiş bir çalışmada, araştırmacılar web sitelerinin %37'sinin bilinen en az bir güvenlik açığına sahip bir kitaplık içerdiğini buldu. "Her web sitesinde kullanılan en eski kütüphane sürümü ile bu kütüphanenin mevcut en yeni sürümü arasındaki ortalama gecikme, ALEXA'da 1.177 gündür ve halen aktif olarak kullanılan bazı kütüphanelerin geliştirilmesi yıllar önce durduruldu."  Başka bir olasılık, bir kütüphanenin yöneticisinin kütüphaneyi tamamen kaldırabilmesidir. Bu, Mart 2016'da Azer Koçulu'nun deposunu npm'den kaldırmasıyla meydana geldi. Bu, kütüphanelerine bağlı on binlerce programın ve web sitesinin bozulmasına neden oldu.
+
+
+=== Tarayıcı ve eklenti kodlama hataları ===
+JavaScript, bazıları arabellek taşmaları gibi kusurlara sahip olabilen çok çeşitli tarayıcı yetenekleri için bir arabirim sağlar. Bu kusurlar, saldırganların kullanıcının sisteminde istedikleri herhangi bir kodu çalıştıracak komut dosyaları yazmasına izin verebilir. Bu kod hiçbir şekilde başka bir JavaScript uygulamasıyla sınırlı değildir. Örneğin, arabellek taşması istismarı, bir saldırganın süper kullanıcı ayrıcalıklarıyla işletim sisteminin API'sine erişmesine izin verebilir.
+Bu kusurlar Firefox, Internet Explorer, ve Safari gibi büyük tarayıcıları etkilemiştir.
+Video oynatıcılar, Adobe Flash ve Microsoft Internet Explorer'da varsayılan olarak etkinleştirilen çok çeşitli ActiveX denetimleri gibi eklentiler, JavaScript aracılığıyla yararlanılabilen kusurlara da sahip olabilir (bu tür kusurlardan geçmişte yararlanılmıştır).
+Windows Vista'da Microsoft, Internet Explorer işlemini sınırlı ayrıcalıklarla çalıştırarak arabellek taşmaları gibi hata risklerini kontrol altına almaya çalışmıştır. Google Chrome benzer şekilde sayfa oluşturucularını kendi " sandbox "larıyla sınırlar.
+
+
+=== Korumalı alan uygulama hataları ===
+Web tarayıcıları, örneğin dosya oluşturmak veya silmek için gerekli ayrıcalıklarla birlikte JavaScript'i sanal alanın dışında çalıştırabilir. Bu tür ayrıcalıkların Web'den koda verilmesi amaçlanmamıştır.
+Web'den JavaScript'e yanlış ayrıcalıklar verilmesi, hem Internet Explorer hem de Firefox'taki güvenlik açıklarında rol oynamıştır. Windows XP Service Pack 2'de Microsoft, Internet Explorer'da JScript'in ayrıcalıklarını düşürmüştür.
+Microsoft Windows, bir bilgisayarın sabit sürücüsündeki JavaScript kaynak dosyalarının genel amaçlı, korumalı alanda olmayan programlar olarak başlatılmasına izin verir (bkz: Windows Komut Dosyası Ana Bilgisayarı ). Bu, JavaScript'i ( VBScript gibi) bir Truva atı için teorik olarak uygun bir vektör yapar, ancak JavaScript Truva atları pratikte nadirdir.
+
+
+=== Donanım açıkları ===
+2015 yılında, güvenlik araştırmacıları tarafından bir makalede, bir Rowhammer saldırısının JavaScript tabanlı bir kavram kanıtı uygulaması açıklanmıştır.
+2017 yılında, tarayıcı üzerinden JavaScript tabanlı bir saldırının ASLR'yi atlayabileceği gösterildi. Buna "ASLR⊕Cache" veya AnC denir.
+2018'de Intel ve diğer işlemcilerde Spekülatif Yürütmeye karşı Spectre saldırılarını açıklayan makale bir JavaScript uygulamasını içeriyordu.
+
+
+== Geliştirme araçları ==
+Önemli araçlar dil ile birlikte gelişmiştir.
+
+Her büyük web tarayıcısında, JavaScript hata ayıklayıcı dâhil olmak üzere yerleşik web geliştirme araçları bulunur.
+ESLint ve JSLint gibi statik program analiz araçları, bir dizi standart ve yönergeye uygunluk için JavaScript kodunu tarar.
+Bazı tarayıcılarda yerleşik profil oluşturucular bulunur. Benchmark.js ve jsbench gibi bağımsız profil oluşturma kitaplıkları da oluşturulmuştur.
+Birçok metin düzenleyici (IDE), JavaScript kodu için sözdizimi vurgulama desteğine sahiptir.
+
+
+== İlgili teknolojiler ==
+
+
+=== Java ===
+Yaygın bir yanılgı, JavaScript'in Java ile aynı olduğuna yöneliktir. Her ikisinin de gerçekten de C-benzeri bir sözdizimi vardır (C dili onların en yakın ortak ata dilidir). Ayrıca, genellikle korumalı alana alınırlar (bir tarayıcı içinde kullanıldığında) ve JavaScript, Java'nın sözdizimi ve standart kitaplığı göz önünde bulundurularak tasarlanmıştır. Özellikle, tüm Java anahtar sözcükleri orijinal JavaScript'te ayrılmıştır, JavaScript'in standart kitaplığı Java'nın adlandırma kurallarını takip eder ve JavaScript'in Math ve Date objeleri Java 1.0'dan alınan sınıflara dayanır.
+Java ve JavaScript ilk olarak 1995'te ortaya çıktı, ancak Java Sun Microsystems'den James Gosling ve JavaScript ise Netscape Communications'dan Brendan Eich tarafından geliştirildi.
+İki dil arasındaki farklılıklar benzerliklerinden daha belirgindir. Java'nın statik yazımı vardır, JavaScript'in yazımı ise dinamiktir. Java, derlenmiş bayt kodundan yüklenirken JavaScript, insan tarafından okunabilir kaynak kodu olarak yüklenir. Java'nın objeleri sınıf tabanlıdır, JavaScript'ler ise prototip tabanlıdır. Son olarak, Java, Java 8'e kadar işlevsel programlamayı desteklemezken, JavaScript, Scheme'den etkilenerek bunu başından beri yapmıştır.
+
+
+=== JSON ===
+JSON veya JavaScript Object Notation, JavaScript'in obje değişmez sözdiziminin bir alt kümesi olarak tanımlanan genel amaçlı bir veri değişim biçimidir.
+
+
+=== TypeScript ===
+TypeScript (TS), Microsoft tarafından geliştirilmekte ve desteklenmektedir. TS, JavaScript'in katı şekilde (strictly-typed) yazılan versiyonudur. TS, değişkenlere ve fonksiyonlara, tür açıklamaları ekleyerek farklılıkları gösterir ve JS içinde türlerin tanımlanması için bir tanıtım dilidir. Bunun dışında TS, JS ile istemci tarafında çalıştırılması, kolay, anlaşılır bir şekilde aktarılmasına izin vermek ve diğer JS kodlarıyla birlikte çalışabilmesi için hemen hemen aynı özellik setini paylaşır.
+
+
+=== WebAssembly ===
+2017'den beri web tarayıcıları, bir JavaScript motorunun web sayfası komut dosyalarının performans açısından kritik bölümlerini yerel hıza yakın yürütmesini sağlayan ikili bir biçim olan WebAssembly'yi desteklemektedir. WebAssembly kodu, normal JavaScript koduyla aynı sanal alanda çalışır.
+asm.js, WebAssembly'nin öncüsü olarak hizmet veren bir JavaScript alt kümesidir.
+
+
+=== Aktarıcılar (Transpilers) ===
+JavaScript, Web'in baskın istemci tarafı dilidir ve birçok web sitesi komut dosyası ağırlıklıdır. Bu nedenle, geliştirme sürecine yardımcı olabilecek diğer dillerde yazılmış kodu dönüştürmek için aktarıcılar oluşturulmuştur.
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+Curlie'de JavaScript (DMOZ tabanlı)
+"JavaScript: The First 20 Years". 6 Mart 2022 tarihinde kaynağından arşivlendi. Erişim tarihi: 6 Şubat 2022.
+
+
+===== C++ =====
+
+C++ (/ˈsiː plʌs plʌs/, telaffuz: si pılas pılas), Bjarne Stroustrup tarafından 1979 yılında Bell Laboratuvarları'nda geliştirilmeye başlanmış, C'yi kapsayan ve çok paradigmalı, yaygın olarak kullanılan, genel amaçlı bir programlama dilidir.
+İlk olarak C With Classes (Sınıflarla C) olarak adlandırılmış, 1983 yılında ismi C++ olarak değiştirilmiştir. Günüzümüzde en çok kullanılan programlama dillerinden biri olmuştur.
+C++ tasarlanırken C programlama dili ile olabildiğince uyumlu olması göz önüne bulundurulmuş ve K&R2'deki tüm örnek kodun derleneceği şekilde tasarlanmıştır.
+C++, C'nin sağladığı alt seviye sıkı donanım desteğinin yanında farklı veri türleri, sınıf, template, sıradışı durum yönetimi, ad alanı (namespace), işleç fazladan yüklemesi, işlev fazladan yüklemesi, referans, hafıza yönetimi ve pek çok kütüphane imkanı sunar.
+
+
+== Tarihi ==
+1979 senesinde bir Danimarkalı bilgisayar bilimci olan Bjarne Stroustrup, sonradan C++ olarak bilinecek olan "C with Classes" üzerinde çalışmaya başladı. Onu yeni bir dil geliştirmeye iten şey, doktora tezini geliştirirkenki programlama deneyimiydi. Stroustrup, Simula'nın büyük yazılımlar geliştirmeye yardımcı olan pek çok özelliğe sahip olduğunu, fakat dilin pratikte kullanım için fazla yavaş kaldığını, BCPL'in ise hızlı ancak büyük yazılımlar geliştirmek için fazla alt-seviye olduğunu fark etti. Stroustrup AT&T Bell Labs'ta çalışmaya başladığında UNIX çekirdeğini dağıtık bir sistem olarak incelemeye başladı. Doktora deneyiminden yola çıkarak, C dilini Simula'nın özellikleriyle zenginleştirmek için yola çıktı. C dili seçildi çünkü genel amaçlı, hızlı, taşınabilir ve zaten yaygın olarak kullanılıyordu.
+Başlangıçta, Stroustrup'un "C with Classes"ı sınıflar, türetilmiş sınıflar, güçlü türleme (strong typing), varsayılan fonksiyon argümanları (default argument) gibi özelliklerini bir C derleyicisi olan CPre'ye eklenmiştir.
+1982'de Stroustrup C with Classes'ı daha da ileri taşıyan, pek çok diğer isimlendirmelerden sonra "C++" (++ C'deki artırma operatörüdür) olarak anılan dili geliştirdi. Sanal fonksiyon, fonksiyon adı ve operatör fazladan yüklenmesi, referanslar, sabit oluşturma (constant), tür-güvenli bellek tahsisi (new ve delete kullanarak), geliştirilmiş tür kontrolü, BCPL'deki gibi iki slash karakteriyle yapılan tek satırlık yorumlar (//) eklenen özellikler arasındaydı. Dahası, Stroustrup, C++ için yeni bir derleyici olan Cfront'u geliştirdi.
+1984'te, Stroustrup ilk giriş/çıkış kütüphanesini gerçekledi. Bir isimli fonksiyon yerine çıkış operatörünün (<<) sağlanması fikri Doug McIlroy tarafından önerilmiştir (McIlroy öncesinde Unix pipe'larını öneren kişidir).
+1985'te The C++ Programming Language'in ilk baskısı yapılmış ve henüz resmî bir standard olmadığından bu kitap bir kesin referans olarak kabul edilmiştir. C++'ın ilk ticari gerçeklenimi aynı yılın ekim ayında yayınlanmıştır.
+1989'da C++ 2.0 yayınlandı ve 1991'de The C++ Programming Language kitabının güncellenmiş ikinci baskısı yapıldı. C++ 2.0 ile çoklu kalıtım, soyut sınıflar, statik üye fonksiyon, const üye fonksiyonlar ve protected üyeler eklenmiştir. 1990'da The Annotated C++ Reference Manual yayınlandı. Bu kitap, gelecekte yayınlanacak olan resmî standard için bir taban teşkil etmiştir. Sonrasında eklenen özellikler, template, sıradışı durum yönetimi, isim alanları, yeni isimli castlar (tür dönüştürme) ve bool veri türüdür.
+1998'de C++98 yayınlandı ve dilin standardlaştırılması başladı. 2003'te küçük bir güncelleme olan C++03 yayınlandı.
+C++98 sonrasında C++'ın evrimi 2011'e kadar görece yavaş ilerlemiştir. 2011'de C++11 yayınlandı. C++11 ile standard kütüphane genişlemiş ve C++ programcılarının faydalanacağı pek çok özellik eklenmiştir. Bir başka küçük güncelleme olan C++14 Aralık 2014'te yayınlandı. C++17 daha büyük bir güncellemedir ve Aralık 2017'de yayınlanmıştır. Şubat 2020'de tasarısı sonlandırılan  C++20 standardı 4 Eylül 2020 onaylanmış ve resmî olarak 15 Aralık 2020 basılmıştır.
+Stroustrup, 3 Ocak 2018'de "C++ programlama dilini kavramsallaştırması ve geliştirmesi" nedeniyle Charles Stark Draper Prize mühendislik ödülünün 2018 yılı kazananı olarak duyurulmuştur.
+(Aralık 2022 (2022-Aralık) itibarıyla) C++ TIOBE index'te Java'yı TIOBE sıralamasındaki tarihinde ilk kez geride bırakmış Python ve C programlama dillerinin ardından üçüncü sırada listelenmiştir.
+
+
+=== Etimoloji ===
+Stroustrup'a göre, "isim C dilinden yapılan değişimlerin evrimsel doğasını vurguluyor."
+İsimlendirme Rick Mascitti tarafından (1983'ün ortalarında) yapılmıştır ve ilk defa Aralık 1983'te kullanılmıştır. Mascitti'ye bununla ilgili soru yöneltiğinde (1992'de), mizah amaçlı bu ismin verildiğini belirtmiştir. İsimlendirme C'nin ++ operatöründen (eklendiği değişkenin değerini artırır) gelir ve "+" geliştirilmiş bilgisayar programlarını ifade etmede kullanılan yaygın bir isimlendirme geleneğidir.
+C++'ın geliştirilmesi sürecinde, dil son adını almadan evvel, "new C" ve "C with Classes" diye anıldığı da olmuştur.
+
+
+=== Felsefe ===
+C++'ın yaşamı boyunca geliştirilmesi ve evrimi bir dizi ilkeye dayandırılmıştır:
+
+Gerçek sorunlara göre yönlendirilmeli ve özellikleri gerçek programlarda hemen faydalı olmalıdır.
+Her özellik (makul derecede açık bir yöntemle) gerçeklenebilir olmalıdır.
+Programcılar kendi programlama stillerini seçme özgürlüğüne sahip olmalıdır ve bu stil C++ tarafından tam olarak desteklenmelidir.
+Faydalı olacak bir özelliğe izin vermek, C++'ın her türlü yanlış kullanımını engellemekten daha önemlidir.
+Programları, ayrı, iyi tanımlanmış parçalar şeklinde organize edilmesini sağlayacak imkanlar sunmalı ve bu ayrı geliştirilen parçaların birleştirilmesini mümkün kılmalıdır.
+Tür sisteminin örtük (implicit) ihlallerine izin verilmemelidir (ancak programcı tarafından kasıtlı (explicit) olarak talep edilen ihlallere izin verilir).
+Kullanıcı tarafından oluşturulan türler, yerleşik türlerle aynı destek ve performansa sahip olmalıdır.
+Kullanılmayan özellikler, oluşturulan yürütülebilir dosyaları olumsuz etkilememelidir (örneğin daha düşük performansa neden olmamalıdır).
+C++'ın altında  bir başka dil olmamalıdır (assembly dili haricinde).
+C++, kendi ayrı ve uyumsuz programlama ortamını teşvik etmek yerine, mevcut diğer programlama dilleriyle uyumlu çalışabilmelidir.
+Programcının niyeti bilinmiyorsa, programcıya manuel kontrol sağlayarak bunu belirtme imkanı verilmelidir.
+
+
+=== Standardizasyon ===
+
+Bir programlama dilini oluşturan gramer, anlam ve standard kütüphane yapıları muğlak olmayacak bir biçimde belgelenir (spec veya specification) ve yayınlanır. Derleyici sağlayıcıları bu belgeyi kullanarak dili gerçekleyen derleyiciyi oluşturur.
+C++ dilinin özelliklerini belirleyen bu belge (buradan sonrasında, standard) ISO / IEC Ortak Teknik Komitesi 1 (İng: Joint Technical Committee 1, JTC1) / Altkomite 22 (Subcommittee 22, SC22) Çalışma Grubu 21 (Working Group 21, WG21) (ISO/IEC JTC1/SC22/WG21) tarafından geliştirilir.
+İlk standard 1998'de ISO/IEC 14882:1998 adıyla yayınlandı. Sonrasında C++03, C++11, C++14, C++17, C++20 ve mevcut standard olan C++23 yayınlandı. 2012 sonrası üçer senelik periyotlarla yayınlanmaya başlanmıştır.
+
+
+== Dil ==
+C++ dili iki temel bileşenden oluşur: C'den devraldığı yapılarla donanım özellikleriyle doğrudan eşleşme ve bu eşleşmeler üzerine kurulmuş maliyetsiz soyutlamalar (zero-overhead abstractions). Stroustrup C++'ı şu şekilde açıklamıştır: "etkili kullanım ve elegan soyutlamalar için [tasarlanmış] bir hafif soyutlama programlama dili" ve "hem donanım erişimi ve hem de soyutlama desteği C++'ın temelidir. Onu diğer dillerden ayıran, bunu etkili bir biçimde yapmasıdır."
+
+
+=== Nesne saklama ===
+C++, C'de olduğu gibi, dört farklı bellek yönetimine sahiptir: otomatik saklama süresince barındırılan nesneler, statik saklama süresince barındırılan nesneler, dinamik saklama süresince barındıran nesneler ve thread'te saklama süresince barındırılan nesneler.
+
+
+==== Otomatik saklama süresince barındırılan nesneler ====
+Bir fonksiyon veya kapsamda (scope) tanımlanan nesneler bir stack veri yapısında tutulur. Buna göre, bir kapsama girildiğinde ({) nesnelerin tanımlanma sırasına göre yapıcı üye fonksiyon (constructor) çağrılır, kapsam terk edildiğinde (}) nesne yaşam süresinin sonuna gelinir ve tanımlanma sırasının tersi yönünde yok edici üye fonksiyon (destructor) çağrılır (RAII). En son tanımlanan en önce yok edilir (son giren ilk çıkar).
+
+
+==== Statik saklama süresince barındırılan nesneler ====
+Statik saklama sürecine sahip nesneler kapsamdan bağımsız olarak program süresince saklanır ve main() fonksiyonu çağrılmadan oluşturulup, main() bitiminden sonra tanımlanma sırasının tersi yönünde yok edilir.
+
+
+==== Dinamik saklama süresince barındırılan nesneler ====
+Dinamik saklama sürecine sahip nesneler new çağrısıyla oluşturulur ve delete çağrısıyla yok edilir. new çağrısı tahsis edilmiş bellek alanı döndürür. C++ Core Guidelines, new ve delete yerine, tekil kaynak sahipliği için make_unique<T>, paylaşılmış kaynak sahipliği için make_shared<T> çağrılarıyla oluşturabilecek zeki işaretçilerin (smart pointer) kullanılmasını tavsiye eder.
+
+
+==== Thread saklama süresince barındırılan nesneler ====
+Thread saklama sürecine sahip nesneler thread_local anahtar sözcüğüyle oluşturulur ve statik saklama sürecine oldukça benzer. Temel fark, nesnelerin oluşturulması thread oluşturulmasından öncedir ve yok edilmesi thread çalışmasının bitimiyle (join) olur.
+
+
+=== Template ===
+
+Template (Türkçe: şablon) yapısı türden bağımsız derleme zamanında parameterize değişken, fonksiyon veya sınıf yazılmasına izin verir ve jenerik programlamayı, parametrik türün oluşturulmasından önce (type instantiation) tür manipulasyonuna izin veren template metaprogramlamayı ve kod optimizasyonunu mümkün kılar. Template mekanizması Turing-tam'dır, böylece herhangi bir hesaplamanın bir şekilde derleme zamanında programlanarak ifade edilebilmesini sağlar. Template'e geçilen parametre bir tür (type) ve türün nesnesi (non-type) olabilir.
+
+
+=== Nesne ===
+C++, nesne tanımlamada RAII(Resource Acquisition Is Initialization) tekniğini kullanır. Nesne için gerekli olan kaynak ayrımı (Resource Acquisition), tanımlandığı anda yapılır (Initialization) ve gerektiğinde deterministik olarak serbest bırakılır. Böylece kaynaklar init()/destroy(), allocate()/free(), open()/close() gibi fonksiyon çiftleriyle manuel olarak yönetilmek zorunda kalmaz.
+
+
+==== Kapsülleme ====
+Kapsülleme (encapsulation), veri yapısının geliştirici tarafından doğru bir şekilde kullanılacağından emin olmak için nesneye ait bilgilerin bir kısmını erişilemez yapmaktır. C++, sınıf yapısında üyelerin public, protected veya private tanımlanmasına izin verir. private üyeler yalnızca sınıfın üyeleri tarafından erişilebilir, böylece sınıfın kendisini ilgilendiren bazı üye değişken veya fonksiyonlar kullanıcıdan (client) saklanır. Ayrıca bu yolla nesnenin yaşamı süresince değişmemesi gereken durumlar (class invariant) korunabilir.
+
+
+==== Kalıtlama ====
+Kalıtlama (inheritence) var olan bir türün özelliklerini taşıyan yeni bir tür oluşturmayı sağlar. Temel sınıftan kalıtım, "public", "protected" veya "private" olarak ilan edilebilir. Diğer iki kalıtım türü arayüzün anlaşılmasını zorlaştırdığından çoğu zaman yalnızca public kalıtım kullanılır. Geçiş belirteci belirtilmezse, class private, struct public olarak kalıtılır.
+Temel sınıftan kalıtım sanal (virtual) olarak ilan edilebilir, buna sanal kalıtım (virtual inheritence) denir. Sanal kalıtım çoklu kalıtımın problemlerinden sıyrılarak temel sınıfın yalnızca bir örneğinin kalıtım grafiğinde olmasını sağlar.
+
+
+=== İşleçlerin ve işlevlerin fazladan yüklenmesi ===
+C++ dilinde işleçlerin (operator) çoğu fazladan yükleme yoluyla genelleştirilebilir. Örneğin + işleci sayılar için anlamlıyken, std::string sınıfı için de fazladan yüklenmiş, böylece türün temsil ettiği veriye + işleciyle birleştirilme yeteneği kazandırılmıştır. Benzer şekilde iki std::string sınıfı nesnesinin eşitliği == işleciyle kontrol edilebilir. Kullanıcı tanımlı herhangi bir tür (sınıf), işleçleri fazladan yükleyebilir.
+Aynı isme sahip işlevler (function) farklı tür veya sayıda parametre alarak fazladan yüklenebilir. Örneğin std::to_string fonksiyonu int, float ve double türleri için fazladan yüklenmiştir.
+
+
+=== Çokbiçimlilik ===
+Çokbiçimlilik (polymorphism) kullanılarak farklı türler aynı arayüz üzerinden erişilebilir. Çokbiçimli bir tür kendisini oluşturan diğer türler gibi davranabilir. C++, dinamik (çalışma zamanında) ve statik (derleme zamanında) çokbiçimlilik çeşitlerine izin verir.
+
+
+==== Dinamik çokbiçimlilik ====
+
+
+===== Kalıtlama kullanılarak =====
+Üst sınıfa işaret eden bir pointer veya ona ait bir referans, alt sınıfları da gösterebilir.
+Bu durumda üst sınıf bir çokbiçimli türdür (polymorphic type). Eğer üst sınıf bir fonksiyona referans veya pointer şeklinde parametre olarak geçilirse, ondan türetilmiş sınıflar da geçilebilir. Üst sınıf üzerinden alt sınıfların üyeleri kullanılabilir. Alt sınıflardan hangisinin geçildiği dynamic_cast kullanılarak belirlenebilir.
+
+
+===== Sanal üye fonksiyonlar kullanarak =====
+Türetilmiş sınıf, üst sınıfta sanal (virtual) olarak işaretlenmiş bir üye fonksiyonun içeriğini değiştirerek
+tekrar gerçekleyebilir (override). Bu durumda çokbiçimli tür, tekrar gerçeklenen üye fonksiyonu çağıracaktır.
+
+
+==== Statik çokbiçimlilik ====
+Template yapısı farklı türler için parçalı veya tam özelleştirilerek parametrik çokbiçimlilik sağlanabilir.
+İşlevlerin fazladan yüklenmesi de statik çokbiçimlilik olarak düşünülebilir. Aynı isme sahip fonksiyonlar, parametre türü veya sayısına göre farklı fonksiyonları çağırır.
+
+
+=== Lambda ifadeleri ===
+C++ lambda ifadeleriyle anonim fonksiyon yazımını destekler. 
+
+dönüş_tipi düşürülebilir, bu durumda dönüş tipi gövdeden çıkarımsanır:
+
+Lambda parametre almıyorsa, () yapısı düşürülebilir:
+
+Lambda değişkene atanarak isim alabilir ve tekrar kullanılabilir:
+
+Lambda tanımlandığı anda çalıştırılıp hesaplama sonucuna erişilebilir:
+
+C++20 ile template lambda ifadeleri yazılabilir:
+
+
+=== Sıradışı durum yönetimi ===
+Program çalışırken yolunda gitmeyen bir şey oluştuğunda ve programın aniden sonlandırılması arzu edilmiyorsa, sıradışı durum yönetimi (exception handling) kullanılarak ana koddan ayrı olarak yönetim sağlanabilir. Sıradışı durum (exception) oluştuğu yerde bir hata kodu fırlatır ve sıradışı durum yöneticisi (exception handler) tarafından yakalanana kadar kapsam dışana taşar. Eğer hata kodu yakalanmazsa program sonlandırılır.
+
+
+== Standard Kütüphane ==
+
+C++ standard kütüphanesi, pek çok tutucu tür, algoritma, G/Ç, dosya sistemi, string, regex, multithread, metaprogramlama araçları, hafıza yönetimi, zaman yönetimi, sıradışı durum yönetimi, çeşitli matematik fonksiyonları, rastgele sayı üreteci, C ile geriye dönük uyumluluk başlık dosyaları bulundurur.
+
+
+== C++ Core Guidelines ==
+C++ Core Guidelines (Türkçe, C++ Temel Yönelgeleri), C++ programcılarının daha basit, daha etkili, daha yönetilebilir kod yazmalarını sağlamayı hedefleyen yönelgeleri içeren bir projedir. Projenin editörlüğünü dilin yaratıcısı Bjarne Stroustrup ile ISO C++ Çalışma Grubu başkanı Herb Sutter sürdürür.
+Core guidelines pek çok stil, iyi uygulama ve modern C++ tavsiyeleri bulundurur. Statik analiz araçları bu tavsiyeleri gerçekleyerek kod yazılırken programcıları kötü uygulamalardan kaçınmasına yardımcı olur.
+Guideline Support Library (GSL), Core Guidelines'ta tavsiye edilen pek çok tür ve fonksiyonu barındıran bir kütüphanedir.
+
+
+== Derleme modeli ==
+C++ çoğunlukla derlenen bir dil olarak gerçeklenmiştir. Kaynak kodun derlenme süreci dört aşamadan oluşur, sırasıyla; önişleme, derleme, assembly ve bağlama. Derleyici kaynak koda uygulandığında bu aşamalar birbiri ardına gerçekleşir.
+
+Önişlemci (preprocessor) #include direktifiyle eklenen dosyaları koda taşır. Ayrıca kodda sözcük değişiklikleri yapabilir, koşullu derleme sağlayabilir, derleyicinin bir takım özelliklerini kontrol edebilir veya kodun derleneceği platform hakkında bilgi alabilir.
+Derleyici (compiler veya compiler proper) kodu tarar, parçalara ayırır, sözdizimi ve anlamı analiz eder, hataları bildirir, optimize eder ve işlemcinin sahip olduğu mimarinin assembly koduna derler.
+Assembly kodu assembler tarafından yerdeğiştirebilir (relocatable object code) hedef koduna dönüştürülür.
+Bağlayıcı (linker) yerdeğiştirebilir hedef kodunu diğer hedef kodlarına (geliştirilen veya önceden derlenmiş sistem kütüphanleri vd.) bağlar ve çalıştırılabilir hedef kodunu oluşturur.
+
+
+== Örnekler ==
+
+
+=== Değişkenler ===
+Değişkenlerin bir programda çalıştırmak için değişkenlerin veri türünü belirtmek gereklidir (örneğin, int, char, double, bool, std::string) ancak C++11'de auto anahtar kelimesi eklendiği için değişkenin veri türünü belirtmek gerek yoktur. 
+
+
+=== Yorum Satırları ===
+Yorum satırları derleyici tarafından çalıştırılmaz. Bunlar kodun anlaşılmasını kolaylaştırmak için eklenir.
+
+
+=== Merhaba Dünya ===
+
+Bu program uçbirim ekranına "Merhaba, dunya!" yazacaktır. 
+
+
+=== İşleçlerinin fazladan yüklenmesi ===
+
+
+=== Lambda ifadeleri ===
+
+
+=== Sıradışı durum yönetimi ===
+
+
+== Ayrıca bakınız ==
+C tabanlı programlama dilleri listesi
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+
+Standart C++'ı Yeni Bir Dil Olarak Öğrenmek8 Nisan 2014 tarihinde Wayback Machine sitesinde arşivlendi.-Bjarne Stroustrup'un yazısının çevirisi
+C++ reference 1 Mart 2024 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+Cplusplus.com1 Mart 2024 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+C++ Super-FAQ1 Mart 2024 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+C++ Language Reference 1 Mart 2024 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+Hacking C++ — Çağdaş C++ Öğrenin 15 Şubat 2024 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+
+
+===== Linux =====
+
+Linux (telaffuz: Lin-uks); Linux çekirdeğine dayalı, açık kaynak kodlu, Unix benzeri bir işletim sistemi ailesidir. GNU Genel Kamu Lisansı versiyon 2 ile sunulan ve Linux Vakfı çatısı altında geliştirilen bir özgür yazılım projesidir. Linux ismi ilk geliştiricisi olan Linus Torvalds tarafından 1991 yılında verilmiştir. Günümüzde süper bilgisayarlarda, akıllı cihazların ve internet altyapısında kullanılan cihazların işletim sistemlerinde yaygın olarak kullanılmaktadır. Bunlardan en popüler olanı Google tarafından geliştirilen Android işletim sistemidir.
+Ayrıca Linux ismi, bu çekirdek kullanılarak oluşturulan işletim sistemlerini genel anlamda tanımlamak için yaygın bir kısaltma olarak da kullanılmaktadır. Örneğin Linux çekirdeği ve GNU araçları bir araya getirilerek tam bir işletim sistemi olarak sunulduğunda GNU/Linux dağıtımı olarak adlandırılır, ancak konuşma dilinde kısaca Linux olarak ifade edilmektedir.
+Linux kelimesinin bu iki farklı kullanımının yol açabileceği karışıklıktan kaçınmak için çekirdek yazılım hakkındaki teknik bilgiler Linux çekirdeği maddesinde, dağıtımlar hakkındaki bilgiler Linux dağıtımları maddesinde verilmiştir.
+
+
+== Tarihçe ==
+
+Linux, 1991 yılında Linus Torvalds adlı bir Fin üniversite öğrencisi tarafından, daha eski işletim sistemlerinden birisi olan UNIX'in mimarisine ve POSIX standartlarına uygun şekilde sıfırdan yazılmaya başlanmıştır. Geliştirilmesinde Unix mimarisinden esinlenilmiş olmakla birlikte Linux içinde Unix'ten alınmış herhangi bir kod bulunmamaktadır. Geliştirilen bu yazılım, kullanıcı araçları olmayan sadece bir çekirdek yazılımıdır.
+Linux'tan çok daha önce, 1984 yılında, yine UNIX mimarisiyle uyumlu yeni bir işletim sistemini özgür yazılım projesi olarak geliştirmek isteyen Richard Stallman MIT'deki görevinden ayrılmıştı. GNU Projesi adını verdiği işletim sistemi geliştirme projesi 1991 yılına gelindiğinde kullanıcı araçları hazır ancak çekirdek yazılımı eksik bir durumdaydı.
+1992 yılında Linus Torvalds geliştirdiği bu çekirdek yazılımı daha çok geliştirici ve katkıcının desteğini alabilmek için özgür yazılım olarak GNU Genel Kamu Lisansı ile yayınlamaya karar verdi. Böylece bu iki proje (Linux çekirdeği ve GNU Tasarısı) birbirlerinin eksik taraflarını tamamlamış ve tam bir işletim sistemi olarak sunulabilir hale gelmiş oldu. Bu işletim sistemi 1994 yılında GNU bülteninde "Özgür UNIX Benzeri" olarak duyuruldu.
+Linus Torvalds Linux'u geliştirme hikâyesini Yalnızca Eğlenmek İçin adlı eserinde anlatmıştır.
+
+
+=== Özgür yazılım olmasının Linux'a etkisi ===
+Özgür yazılımlar lisansları gereği yazılımın kopyalanabilmesi, kodlarının değiştirilebilmesi ve bu şekilde dağıtılabilmesini yasal olarak mümkün kılmaktadır, yazılımlar isteyen herkes tarafından paylaşılarak geliştirilebilmektedir. Bu nedenle Linux'un GNU Genel Kamu Lisansı'nı tercih etmesi Linux tarihindeki en önemli kırılma noktasıdır. Bu sayede Linux projesi Dünya genelinden pek çok gönüllü uzmanın katkısını almayı başarmıştır.
+Richard Stallman tarafından başlatılan özgür yazılım hareketi de daha iyi bilinir olmuş ve başarısı kanıtlanmış bir geliştirme modeli olarak kabul görmüştür. 
+
+
+=== İnternet'in Linux'a etkisi ===
+İnternet özgür yazılımların ihtiyacı olan, evrensel olarak birlikte yazılım geliştirebilme ortamını herkese sağlayan bir alan açmıştır. GNU/Linux projesi bu imkânı çok iyi değerlendirerek 90'lı yıllardan günümüze kadar dünya çapındaki uzmanlardan katkı alarak gelişmiştir.
+Özellikle Apache yazılımı rakiplerine göre internet sunucularının daha hızlı ve kararlı, maliyet açısından daha ucuz olmasını sağlamıştır. Bu durum 90'lı yılların sonlarından itibaren Linux sistemlerin ticari ve teknolojik olarak gelişmesine büyük katkı yapmıştır.
+Ayrıca 2000'li yıllarda internetin evlere ve küçük işletmelere kadar yaygınlaşması çok geniş internet altyapısına ve çok farklı özellikteki ağ cihazlarına olan ihtiyacı arttırmıştır. GNU/Linux sisteminin cihaz üreticileri tarafından sınırsızca özelleştirilebilir olması ve ücretsiz sunulması bu üreticiler tarafından yaygın olarak tercih edilmesine neden olmuştur.
+
+
+=== Dağıtımların ortaya çıkışı ===
+
+Linux dağıtımı (ya da GNU/Linux dağıtımı); Linux çekirdeği, GNU araçları, bir görüntü sunucusu ve bir masaüstü ortamının bir araya gelmesiyle, bu birlikteliği sürdürülebilir şekilde yönetecek yapılandırma araçları ile oluşturulan tam bir işletim sistemidir.
+1993 Yılında Patrick Volkerding, çeşitli ağ araçları, grafik arabirimi ve diğer araçları bir arada sunduğu bir GNU/Linux projesi başlatmıştır. Slackware adını verdiği proje ilk GNU/Linux dağıtımıdır. Aynı yıl benzer amaçlarla Ian Murdock tarafından Debian projesi duyurulmuştur. Debian dağıtımı hâlen yaygın kullanılan en eski dağıtım olma özelliği taşımaktadır. Bu konudaki ayrıntılı bilgilere Linux dağıtımı maddesinden ulaşılabilir.
+GNU/Linux, gelişiminin ilk yıllarında çeşitli konferanslarda ve üniversite çevrelerinde disketlerle çoğaltılıp elden ele dağıtılmaktaydı. Dağıtım (distrubution) tanımına yol açan bu yöntem günümüzde internet yoluyla indirme şeklinde yapılsa da bu terim hâlen kullanılmaktadır.
+
+
+=== Ticari alanda kullanıma başlanması ===
+Linux 1995 Yılında DEC Alpha ve Sun SPARC iş istasyonlarında da çalışabilir hale getirilmiştir. 1998 Yılında ise IBM, Compaq ve Oracle Linux'a destek vermeye başlamıştır. InfoWorld dergisi 2000 yılında sunucu bilgisayarlarda kullanılan Red Hat Linux'u "Yılın İşletim Sistemi" ödülüne layık görmüştür. Red Hat Şirketi 2005 yılında NASDAQ-100 listesine girmeyi başarmıştır. 2004 Yılında Canonical Ltd. tarafından duyurulan Ubuntu Linux ise sunucu sistemlerin yanında masaüstü sistemlerde de popüler olmayı başarmıştır.
+2008 Yılında Google, mobil cihazlar için geliştirdiği ve Linux çekirdeği kullanan Android işletim sisteminin 1.0 sürümünü duyurmuştur. Sonraki yıllarda Samsung ve Sony gibi büyük üreticilerin de mobil cihazlarında kullandığı Android son kullanıcı piyasasındaki en yaygın Linux tabanlı işletim sistemi olmayı başarmıştır.
+Android, 2017 yılının ilk aylarında internet kullanan cihazlar istatistiğine göre Microsoft Windows'un kullanım oranını yakalamıştır.
+
+
+=== Masaüstünde kullanılmaya başlaması ===
+Linux çekirdeği tek başına çalıştırıldığında grafiksel bir masaüstü ortamı sağlamaz. Bunun için pek çok yazılımın bir araya getirilmesi gerekmektedir.
+Gerçekte 1991 yılında UNIX sistemlerde grafik arabirim sağlamak üzere geliştirilen X386 projesi mevcuttu. Ancak projenin SGCS firmasına özgür olmayan bir lisansla satılması ile bu projenin özgür versiyonu olan XFree86 arasında bazı hukuki sorunlar ortaya çıktı. Ayrıca bazı teknik sorunlar projenin gelişmesini yavaşlattı.
+X.Org Konsorsiyumu 2004 yılında XFree86 kodlarını çatallayarak X Pencere Sistemini geliştirmeye başladı ve 2005 yılında ilk sürümünü duyurdu. Ancak bu tarihe kadar MacOS ve özellikle Microsoft Windows işletim sistemleri, masaüstü sistem piyasasında çoktan lider ve belirleyici konuma gelmişti.
+Bundan sonraki dönemde de ticari Linux dağıtımının gelirlerini masaüstü yerine sunucu ve mobil sistemlerden elde ediyor olması geliştiricilerin ve şirketlerin masaüstü ortamına desteğinin kısıtlı olmasına yol açtı. Ancak günümüzde Linux sistemlerin GNOME, KDE, Xfce gibi gelişmiş masaüstü teknolojileri mevcuttur, bu konudaki bilgilere Masaüstü ortamı maddesinden ulaşılabilir. 
+
+
+=== Simgesi ===
+
+Linus Torvalds 1996 yılında Canberra, Avustralya Ulusal Hayvanat Bahçesini ziyaretinde bir penguen tarafından ısırılmıştır. Burada Linus, Linux maskotunun bir tür küçük penguen olacağından bahsetmiştir. Başlatılan yarışmaya Larry Ewing bugün de kullanılan penguen çizimi ile katılmış ve çizimi seçilmiştir. Bu sembole isim önerisi ise James Hughes'ten gelmiştir, Hughes'un "'Torvald's Unix'" (Torvalds'ın Unix'i) kelimelerindeki harflerden yola çıkarak önerdiği "'Tux'" kısaltması kabul edilmiştir. Bu ismin bir esprisi de penguenlerin tüy renklerinin Smokin kıyafetine benzemesidir, İngilizcedeki smokin sözcüğünün karşılığı "tuxedo'dur.
+
+
+== Kullanım alanları ==
+
+
+=== İnternet sunucuları ===
+
+Linux sunucu işletim sistemlerinde kullanım oranı bakımından dünya çapında ilk sırada tercih edilmektedir. Linux ürünleri sunucu işletim sistemi olarak uzun zamandır oldukça yaygın bir şekilde kullanılmaktadır, 2008 Eylül ayında Microsoft CEO'su Steve Ballmer, dünya genelinde web sunucularının %60'ında Linux'un, %40'ında Windows'un kullanıldığını itiraf etmiştir. IDC'nin 2007 raporunda, GNU/Linux yüklü olarak satılmış sunucular göz önüne alınarak o zaman genel sunucu pazarının %12,7'sinin GNU/Linux'a ait olduğu belirtilmiştir. Ancak bu istatistik, çeşitli şirketler tarafından satılan Linux sunucuların sayısı dayalıdır yani ve sonradan GNU/Linux yüklenerek kullanılan sunucuları içermemektedir. Netcraft'ın Eylül 2006'da yayınladığı rapora göre, on güvenilir internet şirketinden sekizi GNU/Linux ürünlerini internet sunucularında kullanmaktadır.
+Linux dağıtımları LAMP sunucu-yazılım kombinasyonunun (Linux, Apache, MySQL, PHP) köşe taşıdır. Linux dağıtımları diğer anabilgisayar işletim sistemleri ile karşılaştırıldığında, fiyatlandırma nedeniyle son on yılda giderek popüler olmuştur. Aralık 2009'da, bilgisayar devi IBM, pazarlamaya öncelik vereceğini ve ana bilgisayar tabanlı kurumsal Linux sunucularını satacağını bildirdi.
+
+
+=== Ev ve ofis ===
+
+Linux çekirdeği kullanan sistemler masaüstü, dizüstü ve netbook bilgisayar pazarında yaklaşık olarak %2 pazar payına sahiptir. Daha çok yazılım geliştiriciler, bilgisayar uzmanları ve özgür yazılım gönüllüleri tarafından tercih edilmektedir.
+Masaüstü Linux sistemlerine Ubuntu, Debian, Fedora, openSUSE, Linux Mint, Mageia örnek olarak gösterilebilir. Son kullanıcıya hitap etmek amacıyla geliştirilmekte olan Linux dağıtımlarda; kullanıcı arayüzünü teşkil eden GNOME, KDE, Xfce gibi bir masaüstü ortamı, Mozilla Firefox, Chromium gibi bir web tarayıcı, LibreOffice gibi bir ofis yazılım seti video-müzik oynatıcı, CD/DVD yazıcı, grafik işleme yazılımı vb. türden gözde özgür yazılımlar paketlenerek son kullanıcıya sunulmaktadır. 
+
+
+=== Süperbilgisayarlar ===
+Kasım 2017 tarihinden bugüne en iyi 500 süperbilgisayar sistemin tamamı (%100) Linux kullanmaktadır. Ayrıca dünyanın en güçlü süperbilgisayarı olan ve 2011'de kullanılmaya başlanan IBM Sequoia için de işletim sistemi olarak seçilmiştir.
+
+
+=== Bulut bilişim ===
+Bulut bilişim gibi büyük verilerin depolandığı sistemler için Linux oldukça uygun ve ölçeklenebilir bir yapı sunmaktadır. Bu alanda Linux üzerine inşa edilen OpenStack projesi büyük teknoloji şirketlerinin desteğini almıştır.
+
+
+=== Mini bilgisayarlar ===
+
+2000'li yıllardan itibaren az güç tüketen bir Mikroişlemci mimarisi olan ARM mimarisi sayesinde kredi kartı boyutunda bilgisayar sistemleri mümkün hale gelmiştir. Özellikle Raspberry Pi markası ile teknoloji çevrelerinde tanınan benzer donanımlar çok çeşitlidir. Linux bu donanımlarda başarılı bir şekilde çalışabilmekte ve popüler Linux dağıtımının bu donanımlar için özel sürümleri bulunmaktadır.
+
+
+=== Mobil cihazlar ===
+
+Android: Google tarafından, mobil cihazlar için üretilen, Linux temelli açık kaynak kodlu bir işletim sistemi. Günümüzde akıllı telefon sektöründe yılı içi akıllı telefon satışları göz önüne alındığında pazar lideri konumundadır.
+Tizen: Linux Vakfı bünyesinde Samsung ve Intel'in öncülüğünde akıllı telefonlar, tabletler ve TV'ler için geliştirilen bir işletim sistemi projesi. HTML5 tabanlı bir arayüze sahiptir.
+webOS: LG'nin özellikle televizyonlar için geliştirmekte olduğu işletim sistemi.
+Postmarketos:Tabanı Alpine Linux'a dayanan bu işletim sistemi şu ana dek 200'den fazla cihaza destek vermektedir.
+Ubuntu Touch: Canonical Ltd. ve Ubuntu topluluğu tarafından yeni nesil akıllı telefonlar ve tabletler için geliştirilmiş bir mobil işletim sistemi projesidir. 5 Nisan 2017'de Ubuntu Touch projesi için yapılan yatırımların sona ereceği duyuruldu.
+
+
+=== Gömülü cihazlar ===
+Gömülü sistemler sadece belli bir görev için üretilmiş özel donanımlar ve özel tasarlanmış işletim sistemlerinden oluşur. Akıllı TV'ler, Internet yönlendiricileri, endüstriyel otomasyon ve makine kontrol sistemleri gibi geniş bir kullanım alanı vardır. Linux'un ölçeklenebilir yapısı bu alanda da yaygın kullanılmasını sağlamıştır.
+
+
+=== Nesnelerin interneti ===
+21.Yüzyılın en önemli bilişim devrimlerinden birisi olarak görülen Nesnelerin interneti henüz emekleme aşamasındadır ve belli bir standarda kavuşmamıştır. Bu alanda kullanılan cihazlar düşük güç tüketimli, yüksek kararlılıkla çalışma ve yüksek ölçeklenebilir özellikte olması beklenmektedir. Linux bu imkânları başarı ile sağladığından oldukça avantajlı konumdadır ve başta Linux Vakfı tarafından olmak üzere pek çok proje ile desteklenmektedir.
+
+
+=== Oyun ve eğlence ===
+Ticari PC Oyunları üreten firmaların pek çoğu son yıllara gelinceye kadar Linux sistemlere uygun oyunlar üretmemişlerdir. Bu nedenle Linux sistemlerdeki oyun imkânları oldukça sınırlı kalmıştır. Oyun yazılımlarının kullandığı DirectX kütüphanesi Linux sistemlerde çalışmamaktadır. Linux ile çalışan OpenGL kütüphanesi ise üreticiler tarafından tercih edilmemiştir.
+Ancak 2012 yılında Steam oyun platformunun Linux İstemcisi sunmasıyla birlikte bazı popüler oyunların Linux sürümleri üretilmeye başlanmıştır. Ayrıca Android işletim sistemine ait uygulama mağazasında da geniş bir oyun seçeneği bulunmaktadır.
+
+
+=== Otomotiv ===
+Toyota, Nissan, Jaguar, Land Rover, Ford, Mazda, Mitsubishi, Subaru gibi büyük otomobil üreticileri araçlarının dijital sistemlerinde uzun zamandır Linux kullanmaktadır. Automotive Grade Linux projesi ise Linux Vakfı tarafından akıllı otomobiller üretilmesi için yürütülmektedir, büyük teknoloji ve otomotiv üreticileri projeye üye olmuşlardır.
+
+
+== Geliştirme ==
+
+Linux ve öbür popüler işletim sistemleri arasındaki ana fark Linux çekirdeği ile sistemi oluşturan öbür parçaların özgür ve açık kaynak kodlu yazılım olmasıdır. Linux özgür olan tek işletim sistemi olmamakla beraber en çok kullanılan örnektir. Bazı Özgür yazılım lisansları, kopyalanan kodun aynı şartlar altında dağıtılmasını öngören Copyleft prensibine dayanır. En sık kullanılan özgür yazılım lisanslarından GNU Genel Kamu Lisansı (GPL) bir tür copyleft'tir ve Linux kerneli ile birçok GNU yazılımında bulunmaktadır.
+Linux tabanlı dağıtımlar, geliştiricileri tarafından öbür işletim sistemleri ve yerleşmiş bilgisayar standartlarıyla uyumluluk göze alınarak yapılır. Linux sistemleri POSIX, Single UNIX Specification, Linux Standart Base, ISO ve ANSI standartlarına uygun yapılır.
+Özgür yazılım projeleri, iş birliği ile geliştirilmelerine karşın sıklıkla birbirlerinden bağımsız üretilirler.
+Çoğu Linux dağıtımı ağ bağlantısı ile sistem ve aplikasyon yazılımlarını indirmeye olanak tanıyan uzaktan bağlantıları yöneten paket yöneticilerine sahiptir. Dağıtımlar bireyler, topluluklar, gönüllüler ve ticari kuruluşlar tarafından geliştirilir. Bir dağıtım, indirilen Linux kernelinin varsayılan konfigürasyonu, genel sistem güvenliği ve farklı yazılım paketlerinin tüm sisteme entegrasyonundan sorumludur. Dağıtımlar yazılım indirmek, silmek ve sistemi güncellemek için genelde apt, rpm, pacman gibi paket yöneticilerini kullanır.
+
+
+== Linux Vakfı ==
+Linux Vakfı'na üye kuruluşlar şunlardır;
+
+
+== Telif hakkı ve isimlendirme ==
+Linux ve çoğu GNU yazılımı GNU Genel Kamu Lisansı altında lisanslıdır. GPL, Linux dağıtıcılarına kaynak kodu(ya da herhangi bir değişikliği) alıcılar için aynı şartlar altında kullanılabilir hale getirmesini gerektirir. Yazılım sisteminin diğer anahtar bileşenleri başka lisanslar kullanabilir. Örneğin birçok kütüphane GNU, LGPL'yi ve GPL'nin birçok serbest versiyonunu kullanır. Ek olarak X Pencere sistemini X.org uygulamaları MIT Lisansı'nı kullanır.
+Torvalds, Linux çekirdeğinin Genel Kamu Lisansı'nın 2. versiyonundan 3. versiyonuna geçmeyeceğini belirtir. Torvalds özellikle yeni lisansta yer alan ve dijital haklar yönetiminde yazılım kullanımını yasaklayan bazı hükümleri sevmemektedir ve aynı zamanda sayısı binleri bulan bütün telif hakkı sahiplerinden izin almak kullanışsız olacaktır.
+Bir kısım kitle tarafından “Linux” kelimesiyle ifade edilen çekirdek, bir kısım kitle tarafından da GNU Projesi yazılım ve araçlarını içermesi nedeniyle “GNU/Linux” diye ifade edilmekte, bu söz grubu ile adlandırılmaktadır. Adlandırma konusundaki tartışma uzun bir süredir devam etmektedir.
+
+
+== Ayrıca bakınız ==
+
+Özgür yazılım
+Açık kaynak
+Özgür Yazılım Vakfı
+GNU Projesi
+Linux dağıtımı
+Linux kullanıcıları listesi
+Richard Stallman
+Linus Torvalds
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+
+
+===== Windows =====
+
+Microsoft Windows, kullanıcıya grafik arabirimler ve görsel iletilerle yaklaşarak yazılımları çalıştırmak, komut vermek gibi klavyeden yazma zorunluluğunu ortadan kaldıran, Microsoft'un geliştirdiği dünyanın en popüler işletim sistemi ailesidir. İlk Windows, 20 Kasım 1985 tarihinde satışa sunulmuştur.
+Çekirdek olarak NT çekirdeğini kullanır ve bu da Windows'un bir Unix işletim sistemi değil, aksine Unix benzeri bir işletim sistemi olduğunu gösterir. POSIX bakımından ise uyumluluğunu, psxss.exe ve psxdll.dll adlı iki dosyadan alır. Bu iki dosya Windows'ta bir POSIX alt sistemi oluşturur.
+Microsoft'un ilk işletim sistemi olan MS-DOS'tan farklı olarak Windows'ta aynı anda çok sayıda yazılımla çalışmak mümkündür.
+Windows, masaüstü pazarında en yaygın kullanılan işletim sistemidir. 2002 yılında, Windows dünya çapında masaüstü piyasasında yaklaşık %97,46'lık bir pay sahibiydi. Aralık 2023 itibarıyla Windows'un tüm dünyadaki kullanım oranı %68,87'dir. Bu alanda en ciddi rakibi şu anda macOS'tur.
+Microsoft Windows ailesinin son üyesi 5 Ekim 2021'de piyasaya sürülen Windows 11'dir. Windows Vista'dan sonra Microsoft, Windows 7 ve Windows 10 ile birlikte kullanıcılar tarafından daha pozitif yorumlar almıştır. Microsoft, Windows 10 ile yakaladığı başarıyı Windows 11 ile daha da yükseltmeyi hedeflemektedir.
+Microsoft Windows işletim sistemleri ailesi, daha eski IBM PC için olan MS-DOS ortamının üzerine bir grafik katmanı olarak başlamıştır. Modern sürümleri daha yeni olan Windows NT çekirdeği üzerine kuruludur. Windows 32-bit ve 64-bit Intel ve AMD işlemciler üzerinde çalışır; daha eski sürümleri DEC Alpha, MIPS R4000 ve PowerPC mimarilerinde de çalışmaktaydı. SPARC mimarisinde de çalışması için çalışmalar vardı.
+Intel Itanium işlemciler tarafından kullanılan IA-64 ve daha sonra AMD64 (x86-64 olarak da biliniyor, Microsoft tarafından x64 olarak isimlendiriliyor ve Intel tarafından adı EM64T olarak ruhsatlanarak kullanılıyor) mimarilerinin çıkmasıyla Microsoft güncel işletim sistemlerinin bunları destekleyen sürümlerini sundu. Modern 64-bit Windows ailesi Windows XP 64-bit Edition for IA-64 systems, Windows XP Professional x64 Edition for AMD64 systems ve Windows Server 2003'ten (hem IA-64, hem de AMD64 sürümlü) oluşur.
+Windows'un taşınabilir cihazlar için geliştirilmiş sürümü Windows CE (Pocket PC, Windows Mobile) ailesi olarak anılır, gerçek 32-bit bir işletim sistemidir; ARM, StrongARM, Intel XScale ve MIPS işlemcilerinde çalışır.
+Windows NT, XP, CE ve 8'in gömülü çalışan sürümleri de mevcuttur.
+
+
+== Logoları ==
+
+
+== Tarihçe ==
+
+1983: Windows'un beta sürümü çıktı ve Windows adı ilk kez kullanıldı.
+1985: İlk Windows satışa sunuldu.
+1991: Windows 3.0'ın multimedya destekli sürümü çıktı.
+1992: Windows 3.1 tabanlı bir işletim sistemi olup taşınabilir aygıtlar için tasarlanmış ilk Windows olan; fakat 2002'de yerini Windows for Tablet PC'ye bırakan "Windows for Pen Computing" serisinin satışına başlandı.
+1993: Windows 3.1x tabanlı olan Windows NT'nin ilk sürümü olan Windows NT 3.1 sürüldü.
+1994: Çince konuşan ülkelere özel Windows sürümü Windows 3.2, Çin ve Tayvan gibi Çince konuşan ülkelerde raflardaki yerini aldı.
+1995: Windows 95 piyasaya sürüldü. Başlat menüsü, Internet Explorer ve görev çubuğu ilk olarak bu sürümde sunulmuştu.
+1998: Taşınabilir aygıtlar için geliştirilmiş Windows'lar olan Windows CE satışa sunuldu.
+1998: Windows 98 satışa sunuldu.
+2000: İlk iş interneti olan işletim sistemi Windows 2000 satışa sunuldu.
+2000: Windows 9x ailesinin son üyesi olup ilk internet oyunu, sistem geri alma gibi yazılımlar bulunan Windows ME satışa sunuldu.
+2001: Çoğu yeni özelliğin eklendiği günümüzdeki Windows'ların öncüsü olan Windows XP satışa sunuldu.
+2001: Windows 9x dönemi biterek iş ve ev sürümlerinin ikisi de NT tabanlı olmaya başladı.
+2002: Tablet PC için Windows piyasaya sürüldü.
+2003: 24 Nisan'da Windows Server 2003 satışa sunuldu.
+2004: Windows'un ilk 64-bitlik versiyonu sayılabilecek Windows XP x64 Edition piyasaya sürüldü.
+2006: Windows Vista'nın beta sürümü satışa sunuldu.
+2007: İlk DVD kayıt, RSS, Phishing süzgeci ve Windows Aero gibi özellikleriyle tanınan Windows Vista satışa sunuldu.
+2007: İlk ev sunucusu olan işletim sistemi Windows Home Server satışa sunuldu.
+2008: 27 Şubat'ta Windows Server 2008 satışa çıktı.
+2009: Windows 7 işletim sistemi piyasaya sürüldü.
+2011 Windows 8'in RTM sürümü 1 Temmuz 2011'de çıkması beklendi; ama çıkmadı.
+2011 Windows 8'in deneme sürümü (RTM) 15 Temmuz 2011'de kullanıma sunulmuştur.
+2012: Windows 8'in 2012 ilkbaharında release preview versiyonu duyuruldu.
+2012: 4 Eylül'de Windows Server 2012 satışa sunuldu.
+2012: 25 Ekim'de Windows 8 lansmanı yapıldı ve resmî olarak satışa sunuldu.
+2012: 1 Kasım'da Windows 8'in Türkiye lansmanı yapıldı.
+2013: Windows 8 için Windows 8.1 güncellemesi duyuruldu.
+2013: Windows 8.1 satışa sunuldu.
+2014: Windows 8.1'e Update 1 güncelleştirmesi sunuldu.
+2014: Microsoft, Windows 10'un çıkacağını duyurdu.
+2014: Windows 10 duyuruldu.
+2014: Windows 10 Technical Preview Çıktı.
+2015: Windows 10 lansmanı yapıldı.
+2015: 29 Temmuz tarihinde Windows 10 kullanıcılarla buluştu.
+2015: Windows 10 1511 (Kasım Güncellemesi) yayımlandı (12 Kasım).
+2016: Windows 10 1607 (Yıldönümü Güncellemesi) yayımlandı (2 Ağustos).
+2017: Windows 10 1703 (Yaratıcılar Güncellemesi) indirmeye sunuldu (5 Nisan), ardından güncelleme olarak yayımlandı (11 Nisan).
+2017: Windows 10 1709 (Sonbahar Yaratıcıları Güncellemesi) yayımlandı. (17 Ekim)
+2018: Windows 10 1803 (Nisan 2018 Güncellemesi) indirmeye sunuldu (30 Nisan) ardından güncelleme olarak yayımlandı (8 Mayıs)
+2018: Windows 10 1809 (Ekim 2018 Güncellemesi) yayımlandı (2 Ekim)
+2019: Windows 10 1903 (Mayıs 2019 Güncellemesi) yayımlandı (21 Mayıs)
+2019: Windows 10 1909 (Kasım 2019 Güncellemesi) yayımlandı (12 Kasım)
+2019: Windows 10X duyuruldu.
+2020: Windows 10 2004 (Mayıs 2020 Güncellemesi) yayımlandı (27 Mayıs)
+2020: Windows Server 2022 ilk resmî sürümü yayınlandı (18 Ağustos)
+2020; Windows 10 20H2 (Ekim 2020 Güncellemesi) yayımlandı (20 Ekim)
+2020: Windows 10X iptal edildi.
+2021: Windows 10 21H1 (Mayıs 2021 Güncellemesi) yayımlandı (18 Mayıs)
+2021: Windows 11'in ani bir şekilde beta sürümünün ISO dosyası Microsoft tarafından sızdırıldı (16 Haziran).
+2021: Windows 11 duyuruldu. (24 Haziran)
+2021: Windows Server 2022 için Windows 10 tabanlı son sürüm yayımlandı. (18 Ağustos)
+2021: Windows 11'in 5 Ekim 2021'de yayımlanacağı açıklandı. (31 Ağustos)
+2021: Windows 11 yayımlandı. (4-5 Ekim gecesi)
+2021: Windows 10 21H2 (Kasım 2021 Güncellemesi) yayımlandı. (16 Kasım)
+2022: Windows 11 22H2 (2022 Güncellemesi) yayımlandı. (20 Eylül)
+2022: Windows Server 2022 için Windows 11 tabanlı yeni bir sürüm yayımlandı. Bu Windows Server 2025 için ilk sürümler denilebilir. (23 Eylül)
+2022: Windows 10 22H2 (2022 Güncellemesi) yayımlandı. (18 Ekim)
+2023: Windows 11 23H2 (2023 Güncellemesi) yayımlandı. (31 Ekim)
+2023: Windows Server 2025 duyuruldu.
+2024: Windows Server 2025 ilk resmî sürümü yayımlandı. (26 Ocak)
+2024: Windows 11 24H2 (2024 Güncellemesi) yayımlandı. (8 Şubat)
+2025 Windows 11 25H2 (2025 Güncellemesi) yayımlandı (30 Eylül)
+
+
+== Pencereleme sistemi ==
+Bu pencereler bir bilgisayarın, yazılım ile kullanıcı tarafından kullanımını sağlayan arayüzlerdir. İlk kullanıcı ara yüzü 1970'li yıllarda Xerox PARC'da geliştirilen WIMP-Paradigma (Window, Icon, Menu, Pointing-device) tasarısıdır. Bu tasarı ilk olarak Microsoft Windows tarafından kullanılmıştır. Bu arayüz Windows Explorer yazılımıdır.
+
+
+== Windows sürümleri ==
+
+
+=== 16 Bit DOS Tabanlı Sürümler ===
+Windows 1.01 (20 Kasım 1985)
+Windows 2.0 (Kasım 1987)
+Windows 3.0 (22 Mayıs 1990)
+Windows 3.1 (1 Mart 1992)
+Windows 3.11 (Aralık 1993)
+Windows 3.2 (1994) (sadece Çin'de)
+Windows for Workgroups 3.1 (Ekim 1992, Kod adı „Sparta“)
+Windows for Workgroups 3.11 (1993)
+
+
+=== 32 Bit (Windows 9x) DOS Tabanlı Sürümler ===
+Windows 95 (İlk defa Windows 95'te 32 bit işlemciye geçilmiştir.)
+Windows 95 (15 Ağustos 1995, Kod adı „Chicago“)
+Windows 95a (Şubat 1996)
+Windows 95b (Temmuz 1996)
+Windows 95b (Mart 1996)
+Windows 95c (Kasım 1997)
+Windows 98
+Windows 98 (30 Temmuz 1998, Kod adı „Memphis“)
+Windows 98 SE (Mayıs 1999), SE Second Edition (İkinci sürüm)
+Windows Me (Ağustos/Eylül 2000, Kod adı „Millennium“), Me (resmi olarak küçük „e“) Millennium Edition.
+Windows 2000 son DOS tabanlı sürümdür.
+
+
+=== NT (New Technology) Tabanlı Sürümler ===
+NT sürümü daha güvenilir iş kullanımı için tasarlanmıştır fakat Windows XP'den itibaren kişisel kullanıma da sunulmuştur. İlk tasarlanan NT 3.1 ve devamı aşağıda sıralanmıştır. NT 3.1, NT 3.5, NT 3.51 NT 4.0 ve Windows 2000 sürümleri Microsoft Product Activation içermemektedir.
+
+Microsoft Windows NT:
+Microsoft Windows NT 3.1 (Temmuz 1993)
+Microsoft Windows NT Workstation 3.1 (1993)
+Microsoft Windows NT Advanced Server 3.1 (1993)
+Microsoft Windows NT 3.5 (Eylül 1994, Kod adı „Daytona“)
+Microsoft Windows NT Workstation 3.5 (1994)
+Microsoft Windows NT Server 3.5 (1994)
+Microsoft Windows NT 3.51 (Mayıs 1995)
+Microsoft Windows NT Workstation 3.51 (1995)
+Microsoft Windows NT Server 3.51 (1995)
+Microsoft Windows NT 4.0 (29 Ağustos 1996, Kod adı „Shell Update Release“)
+Microsoft Windows NT Workstation 4.0 (1996)
+Microsoft Windows NT Server 4.0 (1996)
+Microsoft Windows NT Server 4.0 Enterprise Edition (1997)
+Microsoft Windows NT Server 4.0 Terminal Server Edition (1998)
+Microsoft Windows 2000 (NT Versiyonu 5.0, Şubat 2000)
+Microsoft Windows 2000 Professional
+Microsoft Windows 2000 Server
+Microsoft Windows 2000 Advanced Server
+Microsoft Windows 2000 Datacenter Server
+
+
+==== Hibrit işletim sistemleri ====
+Microsoft Windows XP (NT Versiyonu 5.0, çıkış tarihi 25 Ekim 2001 genişletilmiş destek bitiş tarihi 8 Nisan 2014, Kod adı “Whistler“)
+Microsoft Windows XP Starter Edition (2004)
+Microsoft Windows XP Home Edition
+Microsoft Windows XP Home Edition N (Windows Media Player önceden yüklü değil, 2005)
+Microsoft Windows XP Professional
+Microsoft Windows XP Professional x64 Edition (2005)
+Microsoft Windows XP Professional N (Windows Media Player önceden yüklü değil, 2005)
+Windows XP Media Center Edition
+Windows XP Media Center Edition 2002, Kod adı „eHome“ (Sadece Amerika ve Çin'de)
+Windows XP Media Center Edition 2003, Kod adı „Freestyle“
+Windows XP Media Center Edition 2004, Kod adı „Harmony“ (Avrupa'daki ilk sürüm)
+Windows XP Media Center Edition 2005, Kod adı „Symphony“
+Windows XP Tablet PC Edition (2002)
+Windows XP Tablet PC Edition 2004 (2004)
+Microsoft Windows PE (Microsoft Windows Preinstallation Environment/XP-Kernel)
+Microsoft Windows Fundamentals for Legacy PCs (WinFLP, Kodadı „Mönch“, „Eiger“, XP'nin Thin-Client-Sürümü, 2006)
+Microsoft Windows XP Embedded (2001)
+Microsoft Windows Embedded for Point of Service (2004)
+Microsoft Windows Server 2003 (NT Versiyonu 5.2, Çıkış tarihi 24 Nisan 2003 Genişletilmiş destek sonu 14 Temmuz 2015)
+Microsoft Windows Server 2003 Standard Edition
+Microsoft Windows Server 2003 x64 Standard Edition (2005)
+Microsoft Windows Server 2003 Enterprise Edition
+Microsoft Windows Server 2003 x64 Enterprise Edition (2005)
+Microsoft Windows Server 2003 Datacenter Edition
+Microsoft Windows Server 2003 x64 Datacenter Edition (2005)
+Microsoft Windows Server 2003 Web Edition
+Microsoft Windows Compute Cluster Server 2005
+Microsoft Windows Home Server
+Microsoft Windows Storage Server 2003
+Windows Server 2003 R2, (NT Versiyonu 5.2 Çıkış tarihi 6 Aralık 2005 genişletilmiş destek sonu 14 Temmuz 2015)
+Microsoft Windows Vista (NT Versiyonu 6.0, Çıkış tarihi kişisel bilgisayarlar için 30 Ocak 2007; Şirketler için 30 Kasım 2006, genişletilmiş destek sonu 11 Nisan 2017 Kod adı „Longhorn“)
+Microsoft Windows Vista Starter (Avrupa'da piyasaya sürülmedi)
+Microsoft Windows Vista Home Basic
+Microsoft Windows Vista Home Basic N
+Microsoft Windows Vista Home Basic K (Sadece Kore için Media Player yüklü değil)
+Microsoft Windows Vista Home Premium
+Microsoft Windows Vista Business
+Microsoft Windows Vista Business N
+Microsoft Windows Vista Business K (Sadece Kore için Media Player yüklü değil)
+Microsoft Windows Vista Enterprise
+Microsoft Windows Vista Ultimate
+Microsoft Windows Server 2008, (NT Versiyonu 6.0 kod adı Longhorn Server Piyasaya çıkış tarihi 27 Şubat 2008 genişletilmiş destek bitiş tarihi 14 Ocak 2020)
+Microsoft Windows 7, (NT Versiyonu 6.1 kod adı işletim sistemiyle aynıdır Piyasaya çıkış tarihi 22 Ekim 2009, genişletilmiş destek bitiş tarihi 14 Ocak 2020)
+Microsoft Windows Server 2008 R2, (NT Versiyonu 6.1 Kod adı Windows Server 2008'de de kullanılan Longhorn Server'dır Piyasaya çıkış tarihi 22 Ekim 2009 genişletilmiş destek bitiş tarihi 14 Ocak 2020)
+Microsoft Windows 8, (NT Versiyonu 6.2 Kod adı Windows 8 Piyasaya çıkış tarihi 26 Ekim 2012, genişletilmiş destek bitiş tarihi 12 Ocak 2016)
+Microsoft Windows Server 2012, (NT Versiyonu 6.2 Piyasaya çıkış tarihi 4 Eylül 2012 genişletilmiş destek bitiş tarihi 10 Ocak 2023)
+Microsoft Windows 8.1, (NT Versiyonu 6.3 Kod adı Windows 8.1 Piyasaya çıkış tarihi 17 Ekim 2013 genişletilmiş destek bitiş tarihi 10 Ocak 2023)
+Microsoft Windows Server 2012 R2, (NT Versiyonu 6.3 Piyasaya çıkış tarihi 18 Ekim 2013 genişletilmiş destek bitiş tarihi 10 Ocak 2023
+Microsoft Windows 10 (NT Versiyonu 10.0 kod adları Threshold, Redstone, Vanadium (19H1), Vibranium (19H2), Manganese, Iron, Cobalt Piyasaya çıkış tarihi 29 Temmuz 2015, genişletilmiş destek bitiş tarihi LTSB ve LTSC sürümleri hariç 14 Ekim 2025)
+(Windows 10 LTSB ve LTSC:
+2015 LTSB: 14 Ekim 2025
+2016 LTSB: 13 Ekim 2026
+2019 LTSC: 9 Ocak 2029
+2021 LTSC: 12 Ocak 2027
+2021 LTSC IoT: 13 Ocak 2032)
+
+Microsoft Windows Server 2016, (NT Versiyonu 10.0 Piyasaya çıkış tarihi 26 Eylül 2016 genişletilmiş destek bitiş tarihi 12 Ocak 2027)
+Microsoft Windows Server 2019, (NT Versiyonu 10.0 Piyasaya çıkış tarihi 2 Ekim 2018 genişletilmiş destek bitiş tarihi 9 Ocak 2029)
+Microsoft Windows 11, (NT Versiyonu 10.0 Kod adı Sun Valley Piyasaya Çıkış tarihi 5 Ekim 2021)
+Microsoft Windows Server 2022, (NT Versiyonu 10.0 Piyasaya çıkış tarihi 2 Eylül 2021 genişletilmiş destek bitiş tarihi 14 Ekim 2031)
+
+
+=== CE (Compact Edition) Tabanlı - Taşınabilir aletler için ===
+Microsoft Windows Embedded Compact:
+Microsoft Windows CE 1.0
+Microsoft Windows CE 2.0
+Microsoft Windows CE 2.01
+Microsoft Windows CE 2.02
+Microsoft Windows CE 2.1
+Microsoft Windows CE 2.11
+Microsoft Windows CE 2.12
+Windows CE 3.0
+Windows CE 4.0
+Windows CE 4.1
+Windows CE 4.2
+Windows CE 5.0
+Windows Embedded CE 6.0
+Windows Embedded Compact 7
+Windows Embedded Compact 2013
+Microsoft Pocket PC:
+Microsoft Pocket PC 2001
+Microsoft Pocket PC 2002 (ayrıca Phone Edition Dokunmatik olmayan telefonlar için)
+Microsoft Windows Mobile 2003 für Pocket PC (ayrıca Phone Edition Dokunmatik olmayan telefonlar için)
+Microsoft Windows Mobile 5.0 (ayrıca Phone Edition Dokunmatik olmayan telefonlar için)
+Microsoft Windows Mobile 6.0 (Standard Edition Smartphone'lar için, Professional Edition PDA'lar için, Telefon fonksiyonlu veya Classic Edition PDA'lar için)
+Microsoft Windows Mobile 6.5 (Windows Mobile 6.0 güncelleştirmesi)
+Microsoft Windows Automotive
+Windows 10 IoT
+
+
+=== İptal edilen projeler ===
+Cairo, Windows NT 3.51'e yepyeni bir arayüz getirecekti. Daha sonradan Windows 95 ile birleştirildi. Fikirler Windows 95 ve NT 4.0'a aktarıldı.
+Nashville, Windows 95'in takipçisi olacaktı. Planlanan özellikler Windows 98'e Memphis kod adı altında eklendi.
+Neptune, Windows 2000'in kişisel kullanım için geliştirilen takipçisi olacaktı. Fikirler Windows XP'ye aktarıldı.
+Odyssey, Windows 2000'in işletmeler için geliştirilen takipçisi olacaktı. Fikirler Windows XP'ye aktarıldı.
+Triton, Neptune için çıkacak küçük bir güncellemeydi. Mart 2001'de çıkması planlanıyordu ama iptal edildi. Fikirler Windows XP'ye aktarıldı.
+Longhorn, Windows XP'nin takipçisidir. Yenilik olarak Sidebar, Avalon (sonradan Windows Presentation Foundation olarak bilinir) ve WinFS bulundurmaktaydı. Microsoft sadece ekran görüntüsünü göstermekle yetindi. Longhorn'un geliştirilmesi 2004'te sıfırlandı ve Windows Server 2003 SP1 kaynak kodundan yola çıkılarak Windows Vista geliştirildi.
+Polaris, Windows Core OS'den yola çıkarak geliştirilen çift ekranlı bilgisayarlar için geliştirilen bir işletim sistemi olacaktı. İptal edilince yerine Windows 10X geliştirilmeye başlandı.
+Windows 10X, Microsoft'un Chrome OS'a rakip işletim sistemi olacaktı. Fakat Windows 10'un satışları artınca yeni gelecek özelliklerin çoğu Windows 11'e aktarıldı.
+Windows 10S, Microsoft'un Windows 10'dan daha iyi yapmaya çalıştığı bir işletim sistemiydi. Fakat Windows 10S kötü olunca Windows 10X kararlaştırıldı.
+
+
+== Ayrıca bakınız ==
+Microsoft yazılımları listesi
+Microsoft Windows'un tarihi
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+
+Resmî site 25 Mayıs 2022 tarihinde Wayback Machine sitesinde arşivlendi.
+Resmî Blog Sayfası16 Şubat 2015 tarihinde Wayback Machine sitesinde arşivlendi.
+
+
+===== İnternet =====
+
+İnternet, bilgisayar sistemlerini birbirine bağlayan elektronik iletişim ağıdır. TDK, internet sözcüğüne karşılık olarak genel ağı önermiştir. İnternet yerine zaman zaman sadece net sözcüğü de kullanılır.
+İnternet, çok protokollü bir ağ olup birbirine bağlı bilgisayar ağlarının tümü olarak da tanımlanabilir. Binlerce akademik ve ticari ağ ile devlet ve serbest bilgisayar ağının birbirine bağlanmasıyla oluşmuştur. Bilgisayarlar arasında bilgi çeşitli protokollere göre paketler hâlinde transfer edilir. İnternet üzerinde elektronik posta ve birbirine bağlı sayfalar gibi çok çeşitli bilgiler ve hizmetler vardır. İnternet üzerinden oyunlar da oynanabilir.
+İnternetin kökeni, hataya dayanıklı, sağlam ve özel bir bilgisayar ağı kurmak isteyen Amerika Birleşik Devletleri hükûmeti tarafından 1960 yılındaki araştırmalara dayanır. 1980'lerde Ulusal Bilim Vakfı tarafından yeni bir ABD omurgasının finansmanı için toplanan özel fonlar, dünya çapında katılım ve birçok özel ağın birleşmesine neden olmuştur. 1990'larda uluslararası bir ağın yaygınlaşması ile internet, modern insan hayatının temelinde yer almıştır.
+
+
+== Etimoloji ==
+1985 yılında kullanılmaya başlayan İngilizce internet kelimesi, "kendi aralarında bağlantılı ağlar" anlamına gelen Interconnected Networks teriminin kısaltmasıdır. Ön ek olan inter-, İngilizcede arasında ve karşılıklı anlamlarına gelir. Net kelimesi ise ağ anlamına gelir.
+Zaman zaman internet kelimesi yerine kullanılan "WWW" kısaltması ise World Wide Web (Dünya Çapında Ağ) sözcüklerinin akronimidir ve internet ile eş anlamlı değildir.
+
+
+=== Yazılışı ===
+İnternet, belirli ve tek bir iletişim ağının adı olduğu için özel isimdir. Özel isimlerin büyük harfle yazılması gerektiği kuralına dayanarak büyük harfle yazılmalıdır. Ancak bunun dışında, özel isimler, anlamı dışında kullanıldığı zaman küçük harfle yazılabilir. Örneğin: "Güneş'e en yakın gezegen Merkür'dür" cümlesinde Güneş büyük harfle yazılırken "Bu odaya hiç güneş girmiyor" cümlesinde "güneş" özel isim anlamı yerine "güneş ışığı" anlamında kullanıldığından küçük harfle yazılır. Buna benzer olarak "İnternet" de bazen anlamı dışında, örneğin "Evimde internet yok", "İnternet hızım düşük" gibi bir cümlelerde "internet bağlantısı" anlamında kullanılabilir ve özel isimlerin yazım kuralı gereği bu kullanımlar bağlamında küçük harfle yazılabilir. İnternet'in yaygınlaşmasıyla, özel isim olan temel anlamı dışındaki yan anlamlar da yaygınlaşmış, Türk Dil Kurumu Sözlüğü'nde de sadece "isim" olarak nitelendirilmiş ve küçük harfle yazılmış, temel anlamının gerektirdiği "özel isim" yazım biçimine yer verilmemiştir.
+
+
+== Geçmiş ==
+
+İnternet üzerinden ağ sayesinde iletişim kuran bilgisayar sistemleri olan askerî  iletişim sistemi Semi-Automatic Ground Environment (SAGE) ve ticari hava yolu rezervasyon sistemi olan Semi-Automatic Business Research Environment (SABRE) 1950'lerin başında başlamıştır. 1960'larda ise the Advanced Research Projects Agency (ARPA), ABD'nin savunma sistemi için the Advanced Research Projects Agency Network'ün (ARPANET) tasarım finansmanı olmaya başladı. 1960'larda oluşturulan projelerin sayesinde 1969'da internet o dönemin zirvesine ulaşmıştır. Bu tarihten sonra da ARPANET bildiğimiz modern internet olarak hayatımıza girmiş oldu. 70'li yılların başında Amerikan üniversitelerinde bu projeden yararlanma imkânı verilmesinin ardından e-posta (SMTP) ve NNTP uygulamaları yaygınlık kazanmaya başlamıştır. Bunları FTP ve HTTP izlemiştir. 30 Nisan 1993'te CERN tarafından WWW ön eki ile internet kamunun ulaşabileceği şekle getirildi. internet teknolojisi Türkiye'ye ilk olarak 1987 yılında Ege Üniversitesi'nin öncülüğünde kurulan Türkiye Üniversite ve Araştırma Kurumları Ağı (TÜVAKA) ile geldi, 12 Nisan 1993 tarihinde ODTÜ'den Ankara-Washington arasında kiralık hat ile de Türkiye'de ilk internet bağlantısı kuruldu ve vatandaşların kullanımına açıldı.
+
+
+== Kişisel kullanım ==
+Kişisel bilgisayarlar ile internete bağlanabilmek için genellikle bir telefon hattına ihtiyacı vardır. Bunun yanında uydu, kablo ve Wi-Fi diye adlandırılan radyo yayınlarıyla da internete bağlanılabilir. En yaygın olanı ise bir analog modem ile belli hızda bir internet servisi veren bir şirketin hizmetinden yararlanmaktır. Modemin ayarları şirketin verdiği servis telefon numarası ve özelliklerine göre ayarlanıp, bağlan komutu verilir. Analog modem bilgisayarın dijital verileri (bits) çeşitli ses frekanslarına çevirip telefon hattından internet servisine ulaştırmakta olup tersine aynı yöntemle verileri almaktadır.
+Her görüntülenen sitenin bir adresi numarası vardır Bu, dört yuvadan oluşan ve her yuvanın 0 ile 255 arası değeri olan bir adrestir. Fakat kullanıcı bu yalın sayı değerini her çağıracağı site için aklında tutamayacağı için bu adresleri Web sayfasına eş değer tutan DNS bilgisayarları vardır. Bunların görevi ise görüntülenecek her site ismine eş değer IP adresini hazır tutmak ve bilgi taşıma protokolünün paketlerini (TCP/IP) bu adrese yönlendirmektir. Tıpkı telefon rehberlerindeki isim-numara eşleştirmesi gibi alan adı-IP eşleştirmesi yapar. Böylece az uğraşla internet gezgincisinin çağırdığı sitedeki bilgilere ulaşılabilir.
+Günümüzde analog modemlerin yerini daha hızlı ve daha az hatalı olan dijital (ADSL) modemler almaktadır. Bunların kullanım ücretleri, çoğul katılımın artması sayesinde makul ödenebilir düzeye inmektedir. ADSL bir analog modemden 10x - 1500x kez hıza sahip olup canlı videolu sohbet imkânı yanında bir sinema filmini kısa bir zaman dilimi içinde yükleme imkânı vermektedir.
+WWW. Dünyası yanında dosya indirimi sanal sohbet odaları, eCommerce (sanal ticaret), tartışma mekânları (forum), internet üzerinden sohbet doğrudan mesaj (IM) gibi kullanım alanlarını, bugün bütün Dünya'da yüz milyonlarca insan kullanmaktadırlar.
+
+
+=== Günümüzdeki kullanımı ===
+Günümüzde özellikle mobil internet aygıtlarıyla hemen hemen her yerden internete erişilebilir. Kablosuz ağ bağlantısını destekleyen cep telefonları, taşınabilir oyun konsolları, dizüstü bilgisayarlar gibi cihazlarla kullanıcılar istedikleri zaman istedikleri yerden internete ulaşabilirler. Servis sağlayıcılarının hizmetleri ve sundukları kablosuz veri iletim ücretleri diğer erişim yöntemlerine göre daha yüksek olabilir.
+
+
+=== Yaygınlaşması ===
+Radyo, televizyon ve internetin bulunuşundan 50 milyon kullanıcıya ulaşmak için geçen süre incelendiğinde radyo için 38, televizyon için 13 yıl iken internet için sadece beş yıldır.
+İnternet Türkiye'ye 1993 yılında gelmiştir ve geldikten sonra Türkiye'de kullanımı yaygınlaşmıştır. İnternet günümüzde de yaygın olan 7'den 70'e herkesin kullandığı teknoloji ürünü olan ve her gün yenilenen bir bilgi kaynağı teknoloji ürünüdür.
+
+
+== Terimler ==
+İnternet ve "World Wide Web" sözcükleri günlük kullanımda genelde aynı anlamda kullanılır fakat aynı şey değillerdir. İnternet yazılım ve donanım altyapısı ile sağlanan küresel veri iletişim dizgesidir fakat web, internet ile sağlanan iletişim şekillerinden yalnızca birisidir.
+
+
+=== Site ===
+
+İnternet sitesi, internet üzerinden yazı, resim ve diğer dosyaların paylaşıldığı dijital sayfalar grubudur. internetin, ekran aracılığıyla görsel olarak hoparlörler aracılığıyla da işitsel olarak kullanıldığı ortamlardır. Bir internet sitesi bir sayfadan ya da binlerce sayfadan oluşabilir. Bir sitenin kullanıcının karşısına çıkan ilk sayfasına "ana sayfa" denir. Ana sayfadan, linkler (bağlantılar) aracılığıyla sitenin diğer kısımlarına veya yabancı sitelere ulaşılabilir.
+
+
+=== Modem ===
+
+Telefon sinyallerini sayısal verilere çeviren ve bilgisayarın internete bağlanmasını sağlayan elektronik alettir.
+
+
+=== TCP/IP ===
+interneti çağın haberleşme ortamı yapan ise TCP/IP dosya iletişim protokolüdür. Açılımı; Transmission Control Protocol/Internet Protocol'dur (Aktarım Denetim Kuralı/internet Kuralı).
+TCP/IP, özde makinelerin konuşmasını sağlayan, işletim sisteminden veya uygulama yazılımlarından bağımsız bir kuralıdır. Bu özelliği sayesinde, cep telefonu, kişisel bilgisayar veya bir saat dahi internete bağlı diğer cihazlarla konuşabilir.
+
+
+=== Adres işareti (@) ===
+
+internette sık kullanılan sembollerden birisi @'dir (okunuşu: et). Elektronik posta adreslerinde kullanıcı ismi ile gönderilen hedef alanını (site adı) ayırır. Adres işareti, güzel a olarak da bilinir. Türk Dil Kurumu çengelli a ya da kuyruklu a karşılıklarını önermiştir.
+
+
+=== E-posta ===
+
+E-posta (İngilizce: e-mail) "elektronik posta" sözcüklerinin kısaltmasıdır. internet üzerinden gönderilen ve alınan dijital mektuplardır. Günlük kullanımda "mail" (okunuşu: meyl) olarak da geçer. Görsel olarak kâğıt bir mektup ile aralarında büyük bir fark yoktur. E-postalara resim, müzik, video gibi her türlü dosya türü eklenebilir ve alıcının bilgisayarına transfer edilebilir. Her gün Dünya'da milyarlarca e-posta gönderilmektedir. Ucuzluğu ve kolaylığı nedeniyle kâğıt mektuplardan daha yaygın olarak kullanılmaktadır ancak güvenilirliğinin yetersizliği nedeniyle resmî işlerde kullanımı oldukça kısıtlıdır.
+E-posta hesapları bu hizmeti veren çeşitli sitelerden ücretsiz veya belirli bir ücret karşılığında açılabilir. E-posta adresleri; kullanıcı adı, adres işareti, hesabın oluşturulduğu sitenin e-posta sunucusunun adı, nokta (.) ve site uzantısının aralık bırakılmadan yazılması ile oluşur. Örneğin: vikipedist@vikipedi.com
+
+
+== Dijital tehlikeler ==
+Pek çok faydasının yanında internet çeşitli tehlikelere de yol açar. İnternet ağına bağlanıldığı andan itibaren çeşitli zararlı yazılımların saldırılarına maruz kalınabilir, hacker diye tanımlanan bilgisayar korsanlarının bilgisayarı ele geçirebileceğine şahit olunabilir, çevrimiçi bankacılık aracılığı ile banka hesabı boşaltılabilir; cihazlar, anlaşılamayan garip davranışlarda bulunmaya başlayabilir.
+
+
+=== Virüsler ===
+Bilgisayar virüsleri, zararlı kod ve programcıklardır. Bilgisayarlara veri taşıyan diskler, taşınabilir hafızalar, yerel ağlar ya da internet aracılığıyla girerler. Kendini kopyalamak, verileri silmek, istenmeyen programları çalıştırmak, kişisel (şifre vb.) bilgileri yaymak gibi zararlı faaliyetlerde bulunabilirler. Bilgisayarlara zarar verme yöntemleri canlılarda hastalık meydana getiren virüslere benzediği için bu isim uygun görülmüştür.
+Bazı virüsler bir programın zaman aşımına uğramış veya bozunmuş yani istem dışı çalışan ve genellikle görevleri belli olmayan hâlleridir. Kötü emeller için hazırlanan trojan, win32, win29, solucan vb. virüsler başkaları tarafından bulaştırılırlar. Virüsler kendi kendine oluşmazlar, fark edildiğinde derhâl temizlenmesi gerekir.
+
+
+=== Casus programlar ===
+Malware, adware, spyware gibi çeşitli şekillerde adlandırılan casus programlar, bilgisayarlardan bilgi toplamak amacıyla oluşturulmuş küçük yazılımlardır. Virüs gibi faaliyet gösterirler; bu nedenle bir kısmı virüs olarak da adlandırılır. Bilgisayar kullanıcısının internet alışkanlıkları, hesap numaraları gibi bilgileri zararlı kişi ve kuruluşlara ulaştırırlar. Bazıları çok zararlı olmamakla birlikte, veri toplarken arka planda çalışarak bilgisayar hafızasını gereksiz yere işgal ederler. Bazı casus programlar ise resmî kuruluşlar tarafından suçluları ve terörist faaliyetleri izlemek amacı ile geliştirilmiştir. Ayrıca devletler eski casusluk yöntemleri yerine bilgisayar ortamında casusluk yöntemlerine başvurmakta buna bağlı olarak risk ve maliyeti düşürmektedirler.
+
+
+=== Bilgisayar korsanları ===
+Başka insanların bilgisayar, telefon gibi elektronik cihazlardaki bilgilerine izinsiz olarak ulaşarak kişisel bilgilerini çalan kişilerdir. Fakat her zaman bu gerekmez. Bazı hackerlara yer verilen sitelerde hackerlar, sitelerin teknik gelişimine yardım ederler. Bunun Vikipedi'de örneği teknisyenlerdir.
+
+
+=== Bu tehlikelerden korunma yöntemleri ===
+Bilgisayarları internetten gelebilecek tehditlere karşı korumanın en etkin yolu bilinçli olmaktır. Şüpheli sitelere, bağlantılara girilmemeli ve antivirüs, anticasus ve güvenlik duvarı yazılımları kullanılmalıdır. Norton, Kaspersky, McAfee, Avast gibi günümüzdeki birçok ticari güvenlik yazılımı, bu üç korumayı da içerir.
+
+
+== İnternetten gelebilecek diğer tehlikeler ==
+İnternetin yaygınlaşması sonucu her gün milyonlarca insanın hiç tanımadığı insanlarla şahsi bilgilerini paylaşması, virüslerden çok daha tehlikeli bir tehdit oluşturmaktadır. İnternetin dikkatsiz kullanımı, kimlik bilgilerinin çalınması ya da polisiye olaylara istemeden karışmak gibi sonuçlar doğurabilir.
+Sohbet ve oyun odaları, çok güzel dostluklara ve ilişkilere vesile olabildiği gibi, hırsızlık, pedofili, teşhir, taciz, tecavüz ve hatta cinayete varan tehditlere de kapımızı sonuna kadar açmaktadır.
+Pornografiye erişimin hızlı ve kolay olması, her yaşta pornografi bağımlılığı riskini artırmakta; şahısların cinsel hayatını, aile hayatını ve zaman zaman da psikolojilerini tehdit etmektedir. Çocukların çok küçük yaşta pornografiye kolayca erişebilmeleri, ileriki yaşlarda ciddi cinsel ve psikolojik rahatsızlıklara sahip olmalarına neden olabilmektedir.
+
+
+== Ayrıca bakınız ==
+WWW
+İnternet sansürü
+İnternet (terim isim)
+İnternete erişim hakkı
+Ölü İnternet teorisi
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+
+internet, Nsf.gov7 Eylül 2008 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+Siberalem hakkında bilgi, Harvard Üniversitesi1 Şubat 2004 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+internet, email vs. hakkında detaylı bilgi (İng.)1 Mayıs 2008 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+Bilim-Teknoloji-internet18 Şubat 2008 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+internet Vadisi1 Temmuz 2006 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)
+Global Internet Traffic Report (İngilizce)
+
+
+===== Web =====
+
+World Wide Web (Dünya Çapında Ağ; kısaca WWW veya Web), internet üzerinde yayınlanan birbirleriyle bağlantılı hiper-metin dokümanlarından oluşan bir bilgi sistemidir. Bu dokümanların her birine web sayfası adı verilir ve web sayfalarına İnternet kullanıcısının bilgisayarında çalışan web tarayıcısı adı verilen bilgisayar programları  aracılığıyla erişilir. Web sayfalarında metin, resim, ses, video ve diğer çoklu ortam ögeleri bulunabilir ve bağlantı (link) adı verilen hiper-bağlantılar ile başka web sayfalarına geçiş yapılabilir.
+İnternet ve web terimleri aynı olguyu tanımlamaz. Zira web sadece İnternet üzerinde çalışan bir servistir. Web kavramı, CERN'de bir bilgisayar programcısı olan Tim Berners-Lee'nin HTML adlı metin işaretleme dilini geliştirmesiyle oluşmuştur. Bugün de kendisinin başkanı olduğu W3C (World Wide Web Consortium) tarafından standartları belirlenmektedir.
+
+
+== Yapısı ==
+Web'in temeli İnternet'tir. Web İnternet üzerinde kurulmuştur ve İnternet'in sunduğu mekanizmalardan çoğunun kullanılmasını sağlar. İnternet'in fiziksel görünüşleri –bilgisayarlar, ağlar ve servisler– dünya üzerindeki diğer binlerce bilgisayara bağlanmamıza izin verir. Web, İnternet'in en tepesindeki soyutlanmış genel servisler kümesidir. World Wide Web (W3), insanların fikir ve projelerinin paylaşılmasını sağlayan bir bilgi ve kültür havuzudur. İstemci-sunucu uygulamaları ile yapılan birçok organizasyon üzerinde web tarayıcıları istemci olarak çalışabilirler. Web yürütümü standart istemci-sunucu modelini izler. Web tarayıcısı adı verilen programı çalıştıran bir istemci bilgisayar ile web sunucu yazılımı çalıştıran bir sunucu bilgisayar arasındaki etkileşime "istemci-sunucu" etkileşimi adı verilir. İstemci bilgisayar, sunucudan HTTP'yi (Hypertext Transfer Protocol) ve İnternet mesaj standardı TCP/IP'yi kullanarak bir belge ister ve sunucu, istemcinin göstereceği belgeyi verir.
+World Wide Web ifadesi HTTP ile anlaşan sunucuların kolektif ağını ifade etmek için kullanılır. HTTP, var olan bilgilerin kullandıkları protokolün küresel yapısıdır.
+Web tarayıcıların ve sunucuların kendi aralarında iletişim için kullandıkları protokole HTTP (Hypertext Transfer Protocol) adı verilir. Bunun için web sunuculara genellikle HTTP sunucu denir.
+
+
+=== Sunucular ve istemciler arasındaki iş paylaşımı ===
+Tarayıcı, istemcinin isteğini sunucuya isim sunucularının, alan adı (domain) isimlerinin, adres isimlerinin ve fiziksel konumların tutulduğu diğer araçlarla iletir.
+Bilgiler web sunucuya gelince, sunucu onları başka bir işleme gönderir (arama işlemi veya bir uygulama) ve bir süre bekler. Cevabı alırsa nesneyi hedef tarayıcıya gönderir. 
+Tarayıcı birçok değişik parçayı birlikte tutar. Bir web sayfası ağ üzerindeki birçok nesnenin referansını tutabilir. Hepsini birlikte çeker ve son ürünü geri sunar.
+
+
+== İstatistikler ==
+
+2001'deki bir çalışmaya göre, çoğunlukla görünmez web ya da derin web'de 550 milyardan fazla belge vardı. 2.024 milyon web sayfası arasında, İngilizce sayfalar %56,4'le birinci sırada, ardından %7,7 ile  Almanca, %5,6 ile Fransızca ve %4,9 Japonca gelir. Örnek olarak, 75 farklı dilde web arması olarak kullanılan yeni bir çalışmada, Ocak 2005 sonu itibarıyla kamuya endekslenebilir 11,5 milyar web sayfası bulunduğu belirlenmiştir. Mart 2009 itibarıyla endekslenebilir web 25 milyardan fazla sayfa içerir.
+
+
+== Hypertext ==
+
+WWW belgelerinin temel özelliklerinden biri Hypertext yapılarıdır. Grafik terminalde bir referans, alt çizgili bir yazı veya işaretçi ile sunulur. Kullanıcı bunu tıklar ve referans edilen belge gelir. Bu yöntem, bilgilerin kopyalanmasını gereksiz kılar, verinin bir kere yüklenmesi yeterlidir ve ona referans edilen bütün bağlarla orijinal belgeye ulaşılabilir.
+
+
+== URL ==
+
+URL, web nesnesini bulmak için web istemcinin ihtiyacı olan erişim yöntemini (nasıl), konumunu (nerede) ve sunucu ismini (ne) belirtir. URL'nin genel yapısı: erişim-yöntemi://sunucu-ismi[: port] / konum şeklindedir.
+
+
+== Nasıl Çalışır? ==
+1. İnternet üzerinde kendi sitesini barındırmak isteyen abc firması ya da kişisi, kendisine ait bir alan (domain) adı seçer. Örneğimizde bu alan adı abc.com olsun. Daha sonra, kişi ya da firma, alan adı kaydı yapabilen bir firmaya giderek (registrar) kendisi için belirlemiş olduğu alan adını, belli bir süre için (bir yıldan az olmamak şartı ile) tescil ettirir.
+2. Nasıl ki bir yere gitmek için gidilecek yerin adresine ihtiyaç varsa sanal dünya olan İnternet'te de bir siteye girmek için o sitenin adresine ihtiyacımız vardır. İnternet üzerindeki sunucuların adresleri IP (Internet Protocol) denilen ve her biri 0..255 arasında olan dört basamaktan oluşur (Ör: 10.23.12.5, 192.168.5.3 gibi).
+İnternet kullanıcılarının girmek istedikleri web sitelerinin IP adreslerini akıllarında tutmaları çok zor olacağından, İnternet üzerinde alan adı – IP adresi eşleştirmesi yapan servisler yer almaktadır. Bunlara Alan Adı Servisi, kısaca DNS (Domain Name Service) adı verilir. DNS'ler kendilerine sorulan alan adlarının IP adreslerini kullanıcılara verirler. Çok basit olarak bunu bir telefon rehberine benzetebilirsiniz.
+Alan Adı	IP Adresi
+abc.com	13.56.11.120
+vyz.com	168.32.45.11
+bcg.net	89.86.10.51
+...	...
+Dolayısıyla, alan adını tescil ettirirken hangi DNS sunucusunda alan adına ait IP adresi bulunacak ise kayıt yapan firmaya bu bilgi de verilir. Böylece alan adına ait IP adresi, tüm dünyadaki İnternet kullanıcıları tarafından erişilebilir duruma gelir.
+3. Bir İnternet kullanıcısı www.abc.com sayfasına girmek istediği zaman web tarayıcı programının adres çubuğuna www.abc.com yazar. İnternet üzerindeki adresleme yukarıda anlatıldığı gibi IP tabanlı olduğu için tarayıcının bu alan adının IP adresini öğrenmesi gerekmektedir. Öğrenmek için ise kullanıcı bilgisayarında tanımlı olan DNS sunucusuna giderek abc.com'un IP adresini sorar.
+4. DNS sunucusundan cevap olarak abc.com'un IP adresinin bilgisini alır (tıpkı bilinmeyen numaralar için yapılan telefon numarası sorgulama servisi gibi)
+5. Bu işlemin sonunda www.abc.com'un IP adresini öğrenen tarayıcı program abc.com'un web sunucusuna ulaşır ve kendisine buradaki ana sayfa dosyasının gönderilmesini ister.
+6. Bunun üzerine www.abc.com'un web sunucusu, ana sayfa dosyasını gönderir. Genellikle ana sayfalar index.html, default.html (veya *.asp, *.php) gibi adlı dosyalardan oluşur. Kullanıcı bilgisayarına ana sayfa dosyası yüklendikten sonra tarayıcı program tarafından bu dosya görüntülenir. Kullanıcı, ana sayfadaki başka bağlantılara tıklamak suretiyle www.abc.com web sunucusunun kendisine başka dosyalar göndermesini de isteyebilir. Sunucudan gelen dosyalar da aynı şekilde gösterilir.
+
+
+== Gizlilik ==
+Zaman ve paradan tasarruf edip bilgisayarın kolaylık ve eğlencesinden yararlanan bilgisayar kullanıcıları, web dahil, teknoloji getirilerini kullanma karşılığında özel hayatın gizliliği haklarını kullanmış ya da kullanmamış olabilirler. Yani, İnternet kullanıcılarının bir kısmı özel hayatını gizli tutarken bir kısmı bunu fazla önemsemeyebilir. Dünya çapında yarım milyondan fazla insan, İnternet'i kullanarak ve İnternet'le büyümüş olan ABD vatandaşlarının yarısı, birçok çevrim içi profiller oluşturarak bu nesle mahsus bir değişimin de parçası olmuş durumdalar. Örneğin, ilk başlarda yalnızca ABD üniversite öğrencileri tarafından kullanılan Facebook, şimdilerde %70'i ABD vatandaşı olmayan kişiler tarafından dünya çapında kullanılıyor. Üstelik 2009'da yapılan araştırmalar gösteriyor ki bu kullanıcıların yalnızca %20'si özel hayatın gizliliği ayarlarını kullanıyor.
+
+
+== Hız sorunları ==
+İnternet'teki yoğunluktan dolayı bazen sayfa yüklemelerinde aşırı gecikmeler olmaktadır. Bu nedenden dolayı, World Wide Web' (Dünya Çapında Ağ) terimi yerine alaycı bir yaklaşımla World Wide Wait (Dünya Çapında Bekleme) denmektedir. İnternet'i hızlandırma tartışmaları Qos teknolojilerini kullanmak üzerine devam ederken W3C'de başka çözümler de bulundu.
+İdeal web sayfası standart süre aralıkları şunlardır:
+
+0,1 saniye (100 ms), ideal cevap süresi olup kullanıcı herhangi bir kesinti hissetmez.
+1 saniye, kullanıcının kesinti hissetmeyeceği azami cevap süresidir.
+10 saniye, kullanıcıların genellikle siteden ayrılmayı tercih ettikleri ya da tarayıcı programın otomatik olarak siteden ayrıldığı süredir.
+
+
+== Ayrıca bakınız ==
+Elektronik yayıncılık
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+İlk İnternet sitesinin resmi26 Mayıs 2011 tarihinde Wayback Machine sitesinde arşivlendi.
+https://www.oxfordreference.com/view/10.1093/oi/authority.20110803124909393 24 Mayıs 2021 tarihinde Wayback Machine sitesinde arşivlendi.
+
+
+===== Veri =====
+
+Veri (İng. ve Lat. datum; ç. data), ham (işlenmemiş) gerçek enformasyon parçacığına verilen addır. Veriler ölçüm, sayım, deney, gözlem ya da araştırma yolu ile elde edilmektedir. Ölçüm ya da sayım yolu ile toplanan ve sayısal bir değer bildiren veriler nicel veriler, sayısal bir değer bildirmeyen veriler de nitel veriler olarak adlandırılmaktadır. Her sembolik gösterim gibi, veri de belirli bir nesne, birey ya da olguya ilişkin bir soyutlamadır. Ancak enformasyon ve bilginin soyutluk düzeyleri ile karşılaştırıldığında, verilerin soyutluk düzeyi daha düşüktür. Bir verinin tek başına bir anlamı ve işlevi bulunmamaktadır. Veriler toplandıktan sonra gruplanarak, sıralanarak ve özetlenerek, elle ya da bilgisayarla işlenip enformasyona dönüştürüldüklerinde anlam kazanmakta; ait oldukları bağlamı açıklama gücüne kavuşmaktadır. Problem çözme ya da karar verme gibi bir amaca hizmet edebilecek duruma gelmektedir.
+
+
+== İstatistikte veri kavramı ==
+İstatistikte yorumlanmak ve sunulmak amacı ile toplanmış, çözümlenmiş ve özetlenmiş gerçeklere veriler denmektedir. Sayısal (nümerik) veriler nicel, nitel veriler ise kategorik olarak tanımlanmaktadır. Nicel veriler ayrıca kendi aralarında ayrışık ve sürekli olarak iki gruba ayrılmaktadır. Ayrışık veriler sayım yolu ile toplanmakta ve çoğu kez sayma sayıları cinsinden ifade edilmektedir. Sürekli veriler ise ölçüm yolu ile toplanmakta ve gerçek (reel) sayılar cinsinden ifade edilmektedir. Nitel veriler de nominal ve ordinal olarak iki gruba ayrılmaktadır. Nominal veriler yazı ile ifade edilmekte ve anlamlı herhangi bir sıralamaya tabi olmamaktadır. Ordinal veriler ise yazı ile ifade edilmekle birlikte anlamlı bir sırlamaya konabilen verilerdir. İstatistikte, doğum Yılı örneğinde olduğu gibi, doğrudan elde edilen veriler basit veriler; yaş = içinde Bulunulan Yıl − doğum Yılı örneğinde görüldüğü üzere, basit verilerin işlenmesi yolu ile elde edilen veriler de türetilmiş veriler olarak bilinmektedir. Sayılar cinsinden ifade edilmektedir.
+
+
+== Bilgisayar bilimleri açısından veri kavramı ==
+Bilgisayar bilimleri açısından veri, hesaplama ya da manipülasyon amacı ile kullanılan bir gerçeği belirtmektedir. Veriler ya makine düzeyinde ikili (İng. binary) gösterimle ifade edilmekte ya da karakterler (harfler veya rakamlar) biçiminde kodlanmaktadır. Her verinin bir türü bulunmakta, bu türlere veri yapısı denmektedir. Veri yapıları basit ya da karmaşık olabilmektedir. Belirli bir bağlamda elde edilmiş çok sayıda ve farklı türden veri bir veritabanında toplanmakta; veri tabanları oluşturmak ve yönetmek için veritabanı yönetim sistemleri denen yazılımlardan yararlanılmaktadır.
+
+
+== Telekomünikasyonda veri kavramı ==
+Telekomünikasyon uygulamaları için veri, anlam ve bağlamdan bağımsız, bütünlüğü ve yapısı bozulmamış ve ekonomik olarak bir noktadan diğerine iletilmesi istenen metinler, sesler, görseller ve videoları ifade eder.
+
+
+== İşletme yönetimi açısından veri kavramı ==
+İşletme yönetiminde veriler fiziksel ve parasal hareketlerin kaydedilmesi, izlenmesi ve yönetim kararlarının verilmesi için kullanılmaktadır. Denetim ve karar verme süreçlerinin etkinliği bakımından, işletmecilikte veri kalitesi önemli bir yer tutmaktadır. Veri kalitesi, en genel anlamda, kaydedilen verilerin güvenilir ve kullanılabilir olması demektir. Kaliteli veriler ait oldukları kişi, nesne ve olguları geçerli bir biçimde betimlemektedir. Bu bakımdan veri kalitesi, verilerin temel oluşturduğu kararlarla ve karar vericilerle ilişkili bulunmaktadır. Verilerin geçerlilik derecesi bir ölçüde kullanım amacına bağlı olduğundan, veri kalitesi değerlendirmeleri için kullanılan ölçütler nesnel olabildiği gibi öznel de olabilmektedir. Yüksek veri kalitesi, başta kurumsal zeka uygulamaları olmak üzere, kurumsal kaynak planlaması, müşteri ilişkileri yönetimi, performans yönetimi, tedarik zinciri yönetimi ve elektronik ticaret çözümlerinin de başarısına olumlu katkıda bulunmaktadır. Buna karşın, özellikle satış, lojistik ve muhasebe operasyonlarında düşük veri kalitesinin yol açtığı aksaklıklar tepe yönetimlerinin dikkatinden kaçtığında ise, işletmeler açısından ciddi para ve itibar kayıpları söz konusu olabilmektedir.
+
+
+== Veri alt terimleri ==
+
+
+== Kaynakça ==
+
+
+===== Algoritma =====
+
+Algoritma, belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yol. Matematikte ve bilgisayar biliminde bir işi yapmak için tanımlanan, bir başlangıç durumundan başladığında, açıkça belirlenmiş bir son durumunda sonlanan, sonlu işlemler kümesidir. Genellikle bilgisayar programlamada kullanılır ve tüm programlama dillerinin temeli algoritmaya dayanır. Aynı zamanda algoritma tek bir problemi çözecek davranışın, temel işleri yapan komutların veya deyimlerin adım adım ortaya konulmasıdır ve bu adımların sıralamasına dikkat edilmelidir. Bir problem çözülürken algoritmik ve sezgisel (herustic) olmak üzere iki yaklaşım vardır. Algoritmik yaklaşımda da çözüm için olası yöntemlerden en uygun olan seçilir ve yapılması gerekenler adım adım ortaya konulur. Algoritmayı belirtmek için; metinsel olarak düz ifade ve akış diyagramı olmak üzere 2 yöntem kullanılır. Algoritmalar bir programlama dili vasıtasıyla bilgisayarlar tarafından işletilebilirler.
+İlk algoritma, el-Hârizmî tarafından "Hisab el-cebir ve el-mukabala" kitabında sunulmuştur. Algoritma sözcüğü de el-Hârizmî'nin isminin Avrupalılarca telaffuzundan doğmuştur.
+
+
+== Tarihi ==
+
+Algoritma sözcüğü, Özbekistan'ın Harezm bölgesindeki Hive kentinde doğmuş olan Ebu Abdullah Muhammed İbn Musa el Harezmi'den gelir. Bu alim 9. yüzyılda cebir alanındaki algoritmik çalışmalarını kitaba dökerek matematiğe çok büyük bir katkı sağlamıştır. "Hisab el-cebir ve el-mukabala (حساب الجبر و المقابلة)" kitabı dünyanın ilk cebir kitabı ve aynı zamanda ilk algoritma koleksiyonunu oluşturur. Latince çevirisi Avrupa'da çok ilgi görür. Alimin ismini telaffuz edemeyen Avrupalılar "algorizm" sözcüğünü "Arap sayıları kullanarak aritmetik problemler çözme kuralları" manasında kullanırlar. Bu sözcük daha sonra "algoritma"ya dönüşür ve genel kapsamda kullanılır.
+
+
+== Uygulama ==
+Çoğu algoritmalar bilgisayar olarak uygulanmak üzere tasarlanmıştır. Bununla birlikte, başka yöntemlerle de uygulanmaktadır, biyolojik sinir ağı (örneğin insan beyninin hesap yapması veya bir böceğin yemek araması), elektrik devresi veya mekanik cihazlar gibi.
+Bilgisayar algoritmasına örnek verelim. Kullanıcının girdiği dört sayının ortalamasını görüntüleyen algoritmayı yazalım:
+
+ A0 --> Başla
+ A1 --> Sayaç=0 (Sayaç'ın ilk sayısı 0 olarak başlar.)
+ A2 --> Sayı=? : T=T+Sayı (Sayıyı giriniz. T'ye sayıyı ekle ve T'yi göster.)
+ A3 --> Sayaç=Sayaç+1 (Sayaç'a 1 ekle ve sayacı göster.)
+ A4 --> Sayaç<4 ise A2'ye git. (Eğer sayaç 4'ten küçükse Adım 2'ye git.)
+ A5 --> O=T/4 (Ortalama için T değerini 4'e böl)
+ A6 --> O'yu göster. (Ortalamayı göster.)
+ A7 --> Dur
+
+İkinci dereceden ax² + bx + c = 0 biçiminde bir denklemin tüm köklerini bulmak için algoritma yazalım:
+
+Adım 1: Başla.
+Adım 2: a, b, c, D, x1, x2, rp ve ip değişkenlerini tanımla.
+Adım 3: Diskriminant değerini hesapla.
+D ← b2-4ac
+Adım 4: Eğer D≥0
+x1 ← (-b+√D) / 2a
+x2 ← (-b-√D) / 2a
+değerlerini hesapla ve x1,x2 değişkenleri göster.
+Eğer D≥0 değilse,
+Gerçek kısım(rp) ve sanal kısmını(ip) hesapla.
+rp ← b / 2a
+ip ← √ (D) / 2a
+Adım 5: "rp + j(ip)" ve "rp - j(ip)" değerlerini göster.
+Adım 6: Dur.
+
+Kullanıcı tarafından girilen bir sayının faktöriyel değerini bulmak için bir algoritma yazalım:
+
+Adım 1: Başla.
+Adım 2: factorial, i ve n değişkenlerini tanımla.
+Adım 3: Değişkenlerin başlangıç değerlerini tanımla.
+factorial ← 1
+i ← 1
+Adım 4: Ekrandan girilen n değerini oku.
+Adım 5: (i=n) eşitliği sağlanana kadar tekrarla.
+5.1: factorial←factorial*i
+5.2: i←i+1
+Adım 6: factorial değişkeninin değerini göster.
+Adım 7: Dur.
+
+
+== Hukuki Konular ==
+Algoritmalar, tek başlarına, genellikle patent verilebilir değildirler. Amerika Birleşik Devletleri'nde soyut kavramların, sayıların ve işaretlerin yalnızca basit yönlendirmelerinden oluşan bir iddia "süreç" oluşturmaz (USPTO 2006) ve bundan dolayı algoritmalar patent verilebilir değildir (Gottschalk v.Benson'da olduğu gibi). Bununla birlikte, algoritmanın pratik uygulamaları zaman zaman patent verilebilirdir. Örneğin, Diamond v.Diehr'da, sentetik kauçuğun muhafaza edilmesine yardımcı olmak için kullanılan basit geri bildirim algoritmasının uygulaması patent verilebilir sayılmıştır. Yazılım patenti son derece tartışmalıdır ve algoritmaları içeren birçok eleştirilmiş patent vardır, özellikle veri sıkıştırma algoritmaları, Unisys' LZW patentinde olduğu gibi.
+Ek olarak, bazı kriptografik algoritmaların ihracat kısıtlamaları vardır.
+
+
+== 1950'den Sonraki Tarihi ==
+Faaliyetlerin birçoğu algoritmanın tanımının geliştirilmesine yönlendirilmiştir ve aktifliği çevredeki sorunlar nedeniyle, özellikle matematiğin temelleri (özellikle Church-Turing tezi) ve akıl felsefesi (özellikle yapay zeka konusundaki tartışmalar) sebebiyle devam etmiştir.
+
+
+== Algoritmalara eleştirel yaklaşımlar ==
+Algoritmaların kullanımı hayatın her alanında giderek yaygınlaşmaktadır. İş yerlerindeki performans değerlendirmelerinden bankaların kime kredi vereceğine, güvenlik sistemlerinden sosyal medya platformlarındaki önerilere kadar hayatın her alanında etkili olan algoritmalara özellikle de sosyal bilimci akademisyenler çeşitli eleştiriler yöneltmektedir. Algoritmaların teknolojik etkilerinin yanı sıra toplumsal bir güce de sahip oldukları, toplumsal gruplar arasındaki eşitsizlikleri derinleştirdikleri, yeni güç dengeleri oluşturdukları ve farklı otoriteler tarafından toplumun belli kesimlerini baskılamak için kullanıldıklarının altı çizilmektedir.
+
+
+== Önemli algoritma türleri ==
+Arama algoritmaları
+Bellek yönetimi algoritmaları
+Bilgisayar grafiği algoritmaları
+Birleşimsel algoritmalar
+Çizge algoritmaları
+Evrimsel algoritmalar
+Genetik algoritmalar
+Kripto algoritmaları veya kriptografik algoritmalar
+Kök bulma algoritmaları
+Optimizasyon algoritmaları
+Sıralama algoritmaları
+Veri sıkıştırma algoritmaları
+
+
+== Ayrıca bakınız ==
+Algoritmalar listesi
+Algoritmaların tarihsel sıralaması
+Algokrasi
+
+
+== Kaynakça ==
+
+
+===== Robot =====
+
+Robot, otonom veya önceden programlanmış görevleri yerine getirebilen elektro-mekanik bir makinedir. Güncel tanımı ile robotlar, elektronik ve mekanik birimlerden oluşan, algılama yeteneğine sahip olan ve programlanabilen cihazlardır. Başka bir tanımla robotlar, canlıların işlevlerini ve davranışlarını taklit edebilen, fiziksel yeteneklere ve yapay zekâya sahip, disiplinler arası öğeler içeren mühendislik ürünleridir.
+Robotlar doğrudan bir operatörün kontrolünde çalışabildikleri gibi bağımsız olarak bir bilgisayar programının kontrolünde de çalışabilir. Robot deyince insan benzeri makineler akla gelse de robotların çok azı insana benzer.
+Günümüzde robotların en büyük kullanım alanı endüstriyel üretimdir. Özellikle otomotiv endüstrisinde çok sayıda robot kullanılır. Bunların çoğu kol şeklindeki robotlardır. Bunlar parçaları monte eden, birleştiren, kaynak ve boya yapan robotlardır.
+Evlerde robot kullanımı giderek artmaktadır. Evlere giren ilk robotlar Furby, AIBO gibi oyuncaklardır. Başta ABD'de olmak üzere ev işlerine yardımcı olan robotların kullanımı da giderek yaygınlaşmaktadır. Yerleri kendi kendine süpüren robot elektrik süpürgeleri büyük talep görmektedir.
+
+
+== Tanım ==
+Robot duyargaları (sensör) ile çevresini algılayan, algıladıklarını yorumlayan, bunun sonucunda karar alan (yapay zeka), karar sonucuna göre davranan, eylem olarak hareket organlarını çalıştıran veya durduran bir aygıttır. Bu tanıma göre bilgisayara paralel port ile bağlı ve klavyeden kontrol edilen bir araba robot değildir. Çünkü kendisi tek başına karar vermemekte, bizim klavyeden verdiğimiz talimatları uygulamaktadır. Ancak aynı araba duyargaları ile algıladıklarını yorumlamak üzere bilgisayarın mikroişlemcisini kullanıp, yorumlatıyor ve kendi karar alabiliyor, algılamalarına göre bizden bağımsız davranabiliyorsa o artık bir robottur.
+
+
+== Etimoloji ==
+Robot kelimesi, ilk defa Karel Čapek'in 1920 yılında yazdığı R.U.R. - Rossum's Universal Robots adlı (ve Türkçeye Halid Fahri tarafından R.U.R. - Alemşumul Suni Adamlar Fabrikası adıyla çevrilip, Osmanlıca olarak 1927 yılında Devlet Matbaası tarafından da yayınlanan) eserinde yer almış ve daha sonra tüm dünyada kullanılmaya başlanmıştır. Karel Čapek'in R.U.R. adlı oyununda mekanik ve otonom, ama insanca duygulardan yoksun yaratıklar olarak kullanılan robot, daha sonra birçok bilimkurgu romanına konu olmuştur. Isaac Asimov ünlü robot serisiyle teknolojik açıdan tutarlı bir robot kavramı yaratır ve robotların amacının insana hizmet olduğunu, bir robotun kendi amaçlarını insanların amaçlarına hiçbir zaman tercih edemeyeceğini koyduğu 3 Robot Yasası'yla belirler. Bu robot yasaları şu anda insanla robot arasındaki ahlaksal ve hukuksal ilişkinin temelini oluşturmaktadır.
+
+
+== Modern robotlar ==
+
+
+=== Mobil robot ===
+
+Mobil robotlar, ortamlarında hareket etme yeteneğine sahiptir ve tek bir fiziksel konuma sabitlenmezler. Günümüzde yaygın olarak kullanılan bir mobil robot örneği, otomatik kılavuzlu araçtır (AGV). AGV, zemindeki işaretleyicileri veya telleri takip eden veya görüş veya lazer kullanan bir mobil robottur. AGV'ler bu makalenin ilerleyen kısımlarında ele alınmaktadır.
+Mobil robotlar ayrıca endüstri, askeri ve güvenlik ortamlarında da bulunur. Ayrıca tüketici ürünleri, eğlence amaçlı veya vakum temizleme gibi belirli görevleri yerine getirmek için de ortaya çıkarlar. Mobil robotlar, güncel araştırmaların büyük bir bölümünün odak noktasıdır ve hemen hemen her büyük üniversitenin mobil robot araştırmalarına odaklanan bir veya daha çok laboratuvarı vardır.
+Mobil robotlar genellikle montaj hattı|montaj hat]]ları gibi sıkı bir şekilde kontrol edilen ortamlarda kullanılır çünkü beklenmedik müdahalelere yanıt vermekte zorluk çekerler. Bu nedenle çoğu insan nadiren robotlarla karşılaşır. Ancak temizlik ve bakım için kullanılan ev robotları gelişmiş ülkelerde evlerde ve evlerin çevresinde giderek daha yaygın hale geliyor. Robotlar askerî uygulamalarda da kullanılabilirler.
+
+
+=== Endüstriyel robotlar ===
+
+Endüstriyel robotlar genellikle birleştirilmiş bir eklemli kol (çok bağlantılı manipülatör) ve sabit bir yüzeye tutturulmuş bir uç efektörden oluşur. En yaygın uç efektör türlerinden biri tutucu tertibatıdır.
+Uluslararası Standardizasyon Örgütü, ISO 8373'te manipüle eden endüstriyel robotun tanımını şu şekilde vermektedir:
+"Endüstriyel otomasyon uygulamalarında kullanılmak üzere sabit veya mobil olabilen, üç veya daha fazla eksende programlanabilen, otomatik olarak kontrol edilen, yeniden programlanabilir, çok amaçlı bir manipülatör."
+Bu tanım Uluslararası Robotik Federasyonu, Avrupa Robotik Araştırma Ağı (EURON) ve birçok ulusal standart komitesi tarafından kullanılmaktadır.
+
+
+=== Hizmet robotu ===
+En yaygın endüstriyel robotlar, öncelikle mal üretimi ve dağıtımı için kullanılan sabit robotik kollar ve manipülatörlerdir. "Hizmet robotu" terimi daha az iyi tanımlanmıştır. International Federation of Robotics geçici bir tanım önermiştir, "Hizmet robotu, üretim operasyonları hariç, insanların ve ekipmanların refahı için yararlı hizmetleri gerçekleştirmek üzere yarı veya tam otonom olarak çalışan bir robottur."
+
+
+== Asimov'un robot yasaları ==
+0. Yasa: Bir robot, insanlığa zarar veremez veya hareketsiz kalarak insanlığın zarar görmesine izin veremez. (Bu yasa, sonradan "Sıfırıncı Yasa" olarak eklenmiştir.)
+1. Yasa: Bir robot, 0. yasa ile çelişmediği sürece, hiçbir şekilde insan türüne zarar veremez veya hareketsiz kalarak zarar görmesine izin veremez.
+2. Yasa: Bir robot, 0. ve 1. yasaları ile çelişmediği sürece, kendisine insanlar tarafından verilen komutlara itaat etmek zorundadır.
+3. Yasa: Bir robot, 0., 1. ve 2. yasalar çelişmediği sürece, kendi varlığını korumak zorundadır.
+
+
+== Robotik ==
+
+Bazı görevler için insanın yerini tamamen alabilecek, bazı görevler için ise insanlara yardım edebilecek sistemlerin hazırlanmasıyla ilgili çalışmaları kapsayan bilim dalıdır. Bu bilim dalında çalışan kişiler genel olarak yazılımcılar, elektriksel donanım tasarımcıları, mekanik donanım tasarımcıları ve bunların üreticileridir.
+
+
+== Robotik tarihi ==
+
+Batı yazınında MÖ 300 yıllarında Yunan matematikçi Archytas tarafından buharla çalışan bir güvercin yapılmış olduğu belirtilse de, robotikle ilgili bilinen en eski yazılı kayıt, Cezeri'ye aittir. Robotik ile ilgili tarihteki ilk önemli çalışmalara imza atan Cezeri; otomatik saatler, abdest alma ya da ikram hizmetinde bulunan makineler gibi icatlar ortaya çıkartmıştır. El-Cezeri'nin yaptığı bu otomatların enerji kaynağı ise yer çekimi kuvvetiydi. Bu kuvvet de ya düşürülen bir ağırlık, ya boşalan bir kaptaki şamandıra ya da batan bir cisim sayesinde enerji üretiyordu.
+
+
+== Sinemalardaki robotlar ==
+Sinemada, robotik konvansiyonel bir görsel efekt tekniği olarak yer bulmuştur. Sanatsal görüş, malzeme bilgisi ve teknik birleştiğinde çok gerçek efektler elde edilebilmektedir. Genellikle bu konuda bilgi azdır, çünkü efekt şirketleri tekniklerini gizli tutmaktadır. Ancak genel olarak Mekatronik konusunda bilgili kişilerin ilgilendiği bir alandır. Sinemada robotikin nasıl gerçekleştirildiğini görmek için korku ve yaratık filmleri:
+
+Homunculus, 1916
+Der Golem, 1920
+Frankenstein, James Whale, 1931
+Metropolis, Fritz Lang, 1927
+Gibel Sensatsii, Aleksandr Andrievski, 1935
+Doctor Satan's Robot, William Witney-John English, 1940
+The Day the Earth Stood Still, Robert Wise, 1951
+The Invaders from Mars, William Cameron Menzies, 1953
+Robot Monster, Phil Tucker, 1953
+Tobor the Great, Lee Sholem, 1954
+Gog, Herbert L. Strock, 1954
+Devil Girl from Mars, David MacDonald, 1954
+Forbidden Planet, 1956
+The Mysterians, Iroshiro Honda, 1957
+Cylons, Battlestar Galactica, 1970, 2004
+The Invisible Boy, Hermann Hoffman, 1957
+Alphaville, Jean Luc Godard, 1965
+Dr. Who and the Daleks, Gordon Flemyng, 1965
+Docteur Goldfoot and the Bikini Machine, Norman Taurog, 1965
+Human Duplicators, Hugo Grimaldi, 1965
+2001:A Space Odyssey, Stanley Kubrick, 1968
+THX 1138, George Lucas, 1971
+Silent Running, Douglas Trumbull, 1972
+Westworld, Michael Crichton, 1973
+Sleeper, Woody Allen, 1973
+Futureworld, Richard T. Helffron, 1977
+Demon Seed, Donald Cammel, 1977
+Star Wars, George Lucas, 1977
+Alien, Ridley Scott, 1979
+Galaxina, William Sachs, 1980
+Saturn 3, Stanley Donen, 1980
+Blade Runner, Ridley Scott, 1982
+Androide, Aaron Lipstadt, 1983
+Runaway, Michel Crichton, 1984
+Terminatör, James Cameron, 1984
+Daryl, Simon Wincer, 1985
+Deadly Friend, Wes Craven, 1986
+Short Circuit, John Bedham, 1986
+Star Trek, The Next Generation, Gene Roddenberry, 1987
+Robocop, Paul Verhoeven, 1987
+Bunker Palace Hotel, Enki Bilal, 1989
+Roboforce, David Chung, 1989
+Cyborg, Albert Pyun, 1989
+Screamers, Christian Duguay, 1995
+Bicentennial Man, Chris Columbus, 1999
+Lost in Space, Stephen Hopkins, 1998
+The Iron Giant, Brad Bird, 1999
+A.I. Artificial Intelligence, Steven Spielberg, 2001
+i Robot, Alex Proyas, 2004
+Robots, Chris Wedge, 2005
+Transformers, Michael Bay, 2007
+Wall-E, Andrew Stanton, 2008
+Transformers: Revenge of the Fallen, Michael Bay, 2010
+Suretler, Jonathan Mostow, 2009
+Chappie 2015
+
+
+== Robot türleri ve alt dalları ==
+
+
+== Ayrıca bakınız ==
+Kaçırılan robot problemi
+Robot engelleme standardı
+Nomad 200
+
+
+== Kaynakça ==
